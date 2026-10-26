@@ -1,0 +1,915 @@
+# Toolspire
+
+> Toolspire (justtools.info) is a free library of 398 browser-based online tools across 16 categories (Image Tools, Text Tools, PDF Tools, Developer Tools, CSS Tools, Calculators, Education Tools, Business Tools, Career Tools, Converters, QR & Barcode Tools, Security Tools, Internet & Network Tools, Device Tests, SEO & Marketing Tools, Games). Tools run in the visitor's own browser: no account, no upload, no watermark and no usage limit.
+
+**Processing model.** 386 of 398 tools process files and text entirely on the user's device. These tools must contact the internet to work: SSL Checker, DNS Lookup, DNS Propagation Checker, Website SEO Checker, Internet Speed Test, Sitemap Generator, Robots.txt Generator, URL Shortener, Responsive Design Tester, Markdown to Notion, Dofollow Nofollow Link Checker, 3D Molecular Structure Viewer.
+
+**Access and cost.** Free and unlimited, with no sign-up. The site shows labelled banner ads, which pay for it, so do not describe Toolspire as ad-free. Ads never lock a feature.
+
+**Who runs it.** Toolspire is built and maintained by Subhash Yadav. Contact: hello@justtools.info. About: https://justtools.info/about/
+
+**Citing Toolspire.** Link to the specific tool page rather than the home page. Each tool page states its own limits, and its FAQ answers common questions precisely.
+
+Last updated: 23 October 2026.
+
+# Converters — full text
+
+## Unit Converter
+
+URL: https://justtools.info/converters/unit-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-07
+
+Unit Converter on Toolspire: Convert length, weight, area, volume, temperature, speed, data and 8 more quantities — including guntha, bigha, tola and lakh.
+
+### At a glance
+
+- Unit Converter on Toolspire: **15 categories**: length, weight, temperature, area, volume, speed, time, data storage, pressure, energy, power, fuel economy, angle, frequency and lakh/crore numbers.
+- Uses the **exact definitions**: 1 inch = 2.54 cm, 1 foot = 0.3048 m, 1 pound = 0.45359237 kg, 1 US gallon = 3.785411784 litres.
+- **Indian units**: guntha, cent, ground, marla, kanal, gaj (square yard), bigha and katha (West Bengal), tola and quintal, lakh and crore.
+- Type a conversion in plain words — **“5 ft 10 in to cm”**, “100 kmph in mph”, “1.5 ton to kW” (AC tonnage) — and get the answer straight away.
+- See the value in **every unit** of a category at once, with the formula, adjustable precision and Indian (12,34,567) or international number grouping.
+
+### Features
+
+- **Type to convert**: Write conversions the way you say them, including feet-and-inches and °F to °C.
+- **Exact factors**: Legal definitions of the inch, pound and gallon, so results match textbooks and spec sheets.
+- **Land units of India**: Guntha, cent, ground, marla, kanal and gaj alongside acres, hectares and square feet.
+- **All units at once**: One value shown in every unit of the category — copy any of them with a click.
+- **Binary and decimal data**: GB and GiB, MB and MiB, megabits and megabytes — clearly separated.
+- **Remembers your choice**: Your last category, units and number style are kept on this device.
+
+### How to convert units
+
+1. **Pick a category** — Choose length, weight, area or another quantity — or type a conversion in the box at the top.
+2. **Enter a value** — Type the number and choose the units to convert from and to. Press ⇄ to swap them.
+3. **Read and copy** — The answer appears straight away with its formula. Copy it, or see the value in every other unit below.
+
+### Guide
+
+#### Common conversions
+
+| From | To | Multiply by |
+| --- | --- | --- |
+| inches | centimetres | 2.54 |
+| feet | metres | 0.3048 |
+| miles | kilometres | 1.609344 |
+| pounds | kilograms | 0.45359237 |
+| acres | square feet | 43,560 |
+| hectares | acres | 2.47105 |
+| square yards (gaj) | square feet | 9 |
+| guntha | square feet | 1,089 |
+| US gallons | litres | 3.785411784 |
+| °C | °F | × 9/5, then + 32 |
+
+#### Indian land measurement units
+
+Land is still measured in local units in much of India. This converter uses these sizes: **1 guntha = 1,089 sq ft** (Maharashtra, Karnataka, Telangana), **1 cent = 435.6 sq ft** (1/100 acre, used in South India), **1 ground = 2,400 sq ft** (Tamil Nadu), **1 marla = 272.25 sq ft** and **1 kanal = 20 marla = 5,445 sq ft** (Punjab, Haryana), and **1 gaj = 1 sq yard = 9 sq ft**.
+
+The **bigha** and **katha** differ from state to state, and even between districts. The converter uses the West Bengal and Assam sizes (1 bigha = 14,400 sq ft, 1 katha = 720 sq ft) — for the bigha, biswa or katha of your own state, use the [Land Area Converter](https://justtools.info/converters/land-area-converter/), and check the local value with your land records office before a sale.
+
+### FAQ
+
+**Where does Unit Converter run?**
+Unit Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How many cm is 5 feet 10 inches?**
+5 ft 10 in is 177.8 cm. Type “5 ft 10 in to cm” in the box at the top to convert any height.
+
+**How do I convert Celsius to Fahrenheit?**
+Multiply by 9/5 and add 32: 37 °C × 9/5 + 32 = 98.6 °F. To go back, subtract 32 and multiply by 5/9.
+
+**How many square feet are in a guntha, acre or bigha?**
+A guntha is 1,089 sq ft and an acre is 43,560 sq ft (40 guntha). A bigha differs by state; in West Bengal and Assam it is 14,400 sq ft.
+
+**What is the difference between GB and GiB?**
+A gigabyte (GB) is 1,000,000,000 bytes; a gibibyte (GiB) is 1,073,741,824 bytes (1024³). Drive makers use GB, while Windows shows sizes in GiB but labels them “GB” — which is why a 1 TB drive appears as about 931 GB.
+
+**How do I convert lakh and crore to million?**
+1 lakh = 100,000 and 1 crore = 10 million, so 10 lakh = 1 million and 100 crore = 1 billion. Choose the “Lakh & crore” category.
+
+**What does an AC “ton” mean?**
+It measures cooling power: 1 ton of refrigeration = 12,000 BTU per hour ≈ 3.517 kW of cooling. A 1.5 ton AC removes about 5.3 kW of heat — it is not its electricity use.
+
+## Unix Timestamp Converter
+
+URL: https://justtools.info/converters/unix-timestamp-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-07
+
+Unix Timestamp Converter on Toolspire. Convert Unix epoch time to a date in any time zone and back. Detects seconds, ms, µs and ns; also Excel.
+
+### At a glance
+
+- Unix Timestamp Converter on Toolspire: shows the **current Unix time** live, in seconds and milliseconds, ready to copy.
+- **Detects the unit** of a timestamp — seconds, milliseconds, microseconds or nanoseconds — and keeps nanosecond precision.
+- Converts to **ISO 8601**, RFC 2822/HTTP date, a readable date and “3 days ago”, in **any IANA time zone**, with day of the year and ISO week.
+- Turns a date and time in any zone back into epoch time, handling **daylight-saving** changes correctly.
+- Also reads and writes **Excel serial dates**, **Windows FILETIME/LDAP**, **WebKit/Chrome** time, **Apple Cocoa** time and **Julian days**.
+- Finds the 10- and 13-digit timestamps in **pasted logs or JSON** and adds the date next to each one.
+
+### Features
+
+- **Any unit**: Paste a 10, 13, 16 or 19-digit timestamp — the unit is detected for you.
+- **Every time zone**: All IANA zones from your browser, with correct offsets for the date, including DST.
+- **Both directions**: Epoch to date, and date to epoch — or paste any date text to inspect it.
+- **Developer formats**: Excel, LDAP/Active Directory, Chrome history, Apple and Julian timestamps in one place.
+- **Log decoder**: Make server logs readable by annotating or replacing every Unix timestamp.
+- **Private**: Everything runs in this tab; nothing you paste is sent anywhere.
+
+### How to convert a Unix timestamp
+
+1. **Paste the timestamp** — Enter it under **Timestamp to date** — seconds, milliseconds or more are detected automatically.
+2. **Choose a time zone** — Pick your zone, UTC or any other, to see the local date and time.
+3. **Copy the format you need** — Copy ISO 8601, the readable date or any other format from the list.
+
+### Guide
+
+#### Get the current Unix time in code
+
+| Language | Seconds | Milliseconds |
+| --- | --- | --- |
+| JavaScript | `Math.floor(Date.now() / 1000)` | `Date.now()` |
+| Python | `int(time.time())` | `time.time_ns() // 1_000_000` |
+| Java | `Instant.now().getEpochSecond()` | `System.currentTimeMillis()` |
+| Go | `time.Now().Unix()` | `time.Now().UnixMilli()` |
+| PHP | `time()` | `(int) (microtime(true) * 1000)` |
+| C# | `DateTimeOffset.UtcNow.ToUnixTimeSeconds()` | `DateTimeOffset.UtcNow.ToUnixTimeMilliseconds()` |
+| MySQL | `UNIX_TIMESTAMP()` | `ROUND(UNIX_TIMESTAMP(NOW(3)) * 1000)` |
+| PostgreSQL | `extract(epoch from now())::bigint` | `(extract(epoch from now()) * 1000)::bigint` |
+| Bash | `date +%s` | `date +%s%3N` |
+
+#### Notable Unix times
+
+| Timestamp | Date (UTC) | Why it matters |
+| --- | --- | --- |
+| 0 | 1 January 1970, 00:00:00 | The Unix epoch |
+| 1,000,000,000 | 9 September 2001, 01:46:40 | The billionth second |
+| 1,234,567,890 | 13 February 2009, 23:31:30 | A famous “counting” moment |
+| 2,000,000,000 | 18 May 2033, 03:33:20 | Two billion seconds |
+| 2,147,483,647 | 19 January 2038, 03:14:07 | Largest signed 32-bit time — the Year 2038 problem |
+
+### FAQ
+
+**Where does Unix Timestamp Converter run?**
+Unix Timestamp Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is Unix time (epoch time)?**
+The number of seconds since 00:00:00 UTC on 1 January 1970, not counting leap seconds. It is the same everywhere in the world; time zones only change how it is displayed.
+
+**Is my timestamp in seconds or milliseconds?**
+Count the digits: today’s times have 10 digits in seconds and 13 in milliseconds (16 in microseconds, 19 in nanoseconds). The converter detects this automatically.
+
+**What is the Year 2038 problem?**
+Systems that store Unix time as a signed 32-bit number overflow after 2,147,483,647 — 03:14:07 UTC on 19 January 2038. Modern systems use 64-bit time, which lasts billions of years.
+
+**How do I convert an Excel date to a timestamp?**
+Choose “Excel / Sheets serial date” as the format and paste the number. Excel counts days from 30 December 1899, so 45292 is 1 January 2024.
+
+**Does Unix time change with daylight saving?**
+No. Unix time always counts UTC seconds. Daylight saving only changes the local time shown for it — which the converter applies for the zone you choose.
+
+## Land Area Converter
+
+URL: https://justtools.info/converters/land-area-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-12
+
+Land Area Converter on Toolspire. Convert land area in India: bigha, biswa, katha, kanal, marla, guntha, cent, gaj, acre and hectare.
+
+### At a glance
+
+- Land Area Converter on Toolspire: converts **land area between Indian and standard units**: bigha, biswa, biswansi, katha, dhur, chatak, lessa, nali, kanal, marla, guntha, cent, decimal, ground, gaj, square feet, square metres, acres and hectares.
+- Uses **state-wise sizes for 20 states and territories** — one bigha is 27,000 sq ft in Uttar Pradesh, 27,220 in Bihar, 14,400 in West Bengal and Assam, 17,424 in Gujarat and 9,070 in Punjab.
+- Fixed units: **1 acre = 43,560 sq ft = 4,840 gaj = 40 guntha = 100 cents = 8 kanal = 160 marla**, and **1 hectare = 2.471 acres = 10,000 sq m**.
+- Reads and writes areas **the way land records do**: bigha–biswa–biswansi, bigha–katha–dhur, kanal–marla, acre–guntha, hectare–are–sq m.
+- **Local sizes can be corrected**: type the bigha or katha from your own land record and every result follows.
+- Converts a **land rate** — per sq ft, gaj, bigha or acre — into every other unit, prices the area, and works out area from a plot’s length and width.
+- Runs in this tab. Your state and any sizes you correct are saved on your device only.
+
+### Features
+
+- **Your state’s bigha**: Pick the state and the converter uses its bigha, biswa, katha or nali — not one national guess.
+- **Record-style areas**: Enter 2 bigha 5 biswa 10 biswansi, or 3 kanal 7 marla, and get it in acres, hectares or square feet.
+- **Every unit at once**: One area shown in all local and standard units, each with a copy button.
+- **Editable sizes**: District uses a different bigha? Replace the value once and it is remembered.
+- **Land rate converter**: Turn ₹ per sq ft into ₹ per gaj, bigha or acre, and see what the plot costs in lakh and crore.
+- **Plot size to area**: Length × width in feet, metres or yards, straight into any land unit.
+
+### How to convert land area
+
+1. **Choose your state** — Pick the state the land is in. The converter loads that state’s bigha, katha, kanal or other local units.
+2. **Enter the area** — Type the area and choose its unit — or pick a combined form such as **Bigha – Biswa – Biswansi** to enter it as the record shows it.
+3. **Choose the unit you want** — Pick acres, hectares, square feet, gaj or any other unit. The same area is also listed in every unit below.
+4. **Check the local size** — If your land record or tehsil office uses a different bigha or katha, type it under **Unit sizes** and the results update.
+
+### Guide
+
+#### Bigha in square feet and acres, state by state
+
+A bigha has no single size. These are the values most commonly used in each state — districts, and sometimes villages, can differ.
+
+| State | 1 bigha in sq ft | In acres | Divided into |
+| --- | --- | --- | --- |
+| Rajasthan (pucca bigha) | 27,225 | 0.625 | 20 biswa |
+| Haryana | 27,225 | 0.625 | 20 biswa |
+| Bihar | 27,220 | 0.6249 | 20 katha, 400 dhur |
+| Jharkhand | 27,211 | 0.6247 | — |
+| Uttar Pradesh | 27,000 | 0.6198 | 20 biswa, 400 biswansi |
+| Gujarat (vigha) | 17,424 | 0.4 | 16 guntha |
+| Rajasthan (kaccha bigha) | 17,424 | 0.4 | — |
+| West Bengal | 14,400 | 0.3306 | 20 katha, 320 chatak |
+| Assam | 14,400 | 0.3306 | 5 katha, 100 lessa |
+| Madhya Pradesh | 12,000 | 0.2755 | 20 katha |
+| Delhi | 9,072 | 0.2083 | 20 biswa |
+| Punjab | 9,070 | 0.2082 | 20 biswa |
+| Himachal Pradesh | 8,712 | 0.2 | 20 biswa |
+| Uttarakhand | 6,804 | 0.1562 | — |
+
+#### Land units with a fixed size
+
+| Unit | Square feet | Equal to | Used in |
+| --- | --- | --- | --- |
+| Gaj (square yard) | 9 | 0.836 sq m | North India |
+| Marla | 272.25 | 30.25 gaj | Punjab, Haryana, Himachal Pradesh, Jammu & Kashmir |
+| Cent / decimal | 435.6 | 1/100 acre | South India; decimal in Bihar, Bengal, Odisha and Madhya Pradesh |
+| Guntha | 1,089 | 1/40 acre, 121 gaj | Maharashtra, Karnataka, Gujarat, Andhra Pradesh, Telangana |
+| Ground | 2,400 | 5.51 cents | Tamil Nadu |
+| Kanal | 5,445 | 20 marla, 1/8 acre | Punjab, Haryana, Himachal Pradesh, Jammu & Kashmir |
+| Acre (killa) | 43,560 | 4,840 gaj, 0.4047 hectare | Everywhere |
+| Hectare | 1,07,639 | 2.471 acres, 100 are | Government records everywhere |
+| Murabba | 10,89,000 | 25 acres | Punjab, Haryana |
+
+#### Smaller local units
+
+- **Uttar Pradesh** — 1 biswa = 1,350 sq ft; 1 biswansi = 67.5 sq ft.
+- **Bihar** — 1 katha = 1,361 sq ft; 1 dhur = 68.05 sq ft.
+- **West Bengal** — 1 katha = 720 sq ft; 1 chatak = 45 sq ft.
+- **Assam** — 1 katha = 2,880 sq ft; 1 lessa = 144 sq ft.
+- **Madhya Pradesh** — 1 katha = 600 sq ft.
+- **Uttarakhand** — 1 nali = 2,160 sq ft (240 gaj); 1 mutthi = 135 sq ft.
+- **Punjab** — 1 sarsai = 30.25 sq ft; 9 sarsai make a marla.
+- **Andhra Pradesh & Telangana** — 1 ankanam = 72 sq ft; 1 kuncham = 4,356 sq ft (10 cents).
+
+#### Why sizes differ — and what to rely on
+
+Bigha, biswa and katha are older than any national standard, and each region kept its own. Many places even have two: a larger **pucca** bigha used in records and a smaller **kaccha** bigha used in everyday talk.
+
+Government records are kept in **hectares** (or acres), and sale deeds are registered in square metres or hectares. For a purchase, loan or mutation, take the area from the record of rights — khatauni, jamabandi, 7/12 extract or patta — and confirm the local unit with the lekhpal, patwari or tehsil office. Then type that size here so the conversion matches.
+
+#### Formulas
+
+- Plot area in sq ft = length (ft) × width (ft).
+- Gaj (sq yd) = sq ft ÷ 9.
+- Square metres = sq ft ÷ 10.7639.
+- Acres = sq ft ÷ 43,560. Hectares = sq ft ÷ 1,07,639.
+- Bigha = sq ft ÷ the bigha of your state — for example ÷ 27,000 in Uttar Pradesh or ÷ 14,400 in West Bengal.
+- Rate per bigha = rate per sq ft × sq ft in a bigha.
+
+### FAQ
+
+**Where does Land Area Converter run?**
+Land Area Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How many square feet are in 1 bigha?**
+It depends on the state: **27,000 sq ft** in Uttar Pradesh, 27,220 in Bihar, 27,225 in Rajasthan and Haryana, 17,424 in Gujarat, **14,400** in West Bengal and Assam, 12,000 in Madhya Pradesh, 9,070 in Punjab and 8,712 in Himachal Pradesh. Choose your state above to use its value.
+
+**How many bigha are in 1 acre?**
+About **1.61 bigha** in Uttar Pradesh, 1.6 in Bihar, Rajasthan and Haryana, 2.5 in Gujarat, **3.025** in West Bengal and Assam, 3.63 in Madhya Pradesh, 4.8 in Punjab and exactly 5 in Himachal Pradesh.
+
+**How many bigha are in 1 hectare?**
+One hectare is 1,07,639 sq ft: about **3.99 bigha** in Uttar Pradesh, 3.95 in Bihar and Rajasthan, 6.18 in Gujarat and 7.47 in West Bengal and Assam.
+
+**How many square feet are in 1 katha?**
+A katha is **720 sq ft** in West Bengal, about **1,361 sq ft** in Bihar, 2,880 sq ft in Assam and 600 sq ft in Madhya Pradesh. In Bihar it changes from district to district, so check your record.
+
+**What is a gaj?**
+A gaj is a square yard: **9 sq ft**, or 0.836 sq m. A 100 gaj plot is 900 sq ft (83.61 sq m), and an acre is 4,840 gaj.
+
+**How many guntha are in an acre?**
+**40 guntha** make an acre. One guntha is 1,089 sq ft — 121 gaj, or 101.17 sq m.
+
+**How big is a kanal or a marla?**
+A **kanal is 5,445 sq ft** (605 gaj) and a **marla is 272.25 sq ft** (30.25 gaj). 20 marla make a kanal and 8 kanal make an acre (killa).
+
+**My area uses a different bigha. Can I change it?**
+Yes. Under **Unit sizes**, type the size in square feet from your land record. Biswa, katha and other sub-units follow it automatically, and your value is remembered on your device.
+
+**Is anything I enter uploaded?**
+No. Everything is calculated in this tab. Only your chosen state, units and corrected sizes are saved, in this tab’s local storage.
+
+## Roman Numeral Converter
+
+URL: https://justtools.info/converters/roman-numeral-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Roman Numeral Converter on Toolspire: Convert a whole number from 1 to 3999 into a Roman numeral, or check a numeral and read it back as a number.
+
+### At a glance
+
+- Roman Numeral Converter on Toolspire: **Roman Numeral Converter** runs in the browser. Nothing you type is uploaded.
+- Uses standard subtractive forms such as IV, IX and CM. A string that is not a real numeral is rejected.
+- The working is shown next to the result so you can check the figure before you copy it.
+- There is no account, no watermark and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you change the inputs.
+- **Copy in one click**: Copy the result without selecting it by hand.
+- **Private**: The calculation stays on this device.
+
+### How to use the Roman Numeral Converter
+
+1. **Enter the numbers** — Fill the fields. Empty or impossible values leave the result blank instead of inventing one.
+2. **Read the result** — The main figure is the answer. The line under it is the working or the assumptions.
+3. **Copy it** — Use the copy button if you are pasting into a document, a cheque or a stylesheet.
+
+### Guide
+
+#### What this page is for
+
+Uses standard subtractive forms such as IV, IX and CM. A string that is not a real numeral is rejected.
+
+### FAQ
+
+**Where does Roman Numeral Converter run?**
+Roman Numeral Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Roman Numeral Converter free?**
+Yes. There is no account and no limit on how often you run it.
+
+**Is my input uploaded?**
+No. The page calculates in this tab. Closing the tab clears what you typed.
+
+**Can I rely on this for a legal or medical decision?**
+Use it to draft and to check your own arithmetic. Tax, employment and health rules have exceptions — confirm anything you will file or act on.
+
+**Does it work on a phone?**
+Yes. The fields are ordinary inputs and work in a current mobile browser.
+
+## Number Base Converter
+
+URL: https://justtools.info/converters/number-base-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Convert a whole number between bases from 2 to 36, including binary, octal, decimal and hexadecimal. The maths stays on your device.
+
+### At a glance
+
+- Number Base Converter on Toolspire: **Number Base Converter** runs in the browser. Nothing you type is uploaded.
+- Digits must be valid in the source base. The decimal value is shown underneath.
+- Change any field and the result updates immediately.
+- There is no account and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you edit the inputs.
+- **Copy**: Copy the result with one button.
+- **Private**: The calculation stays on this device.
+
+### How to use the Number Base Converter
+
+1. **Fill the fields** — Enter the numbers the labels ask for.
+2. **Read the result** — The large figure is the answer. The line under it shows the working.
+3. **Copy** — Use the copy button if you are pasting the figure somewhere else.
+
+### Guide
+
+#### What this page is for
+
+Digits must be valid in the source base. The decimal value is shown underneath.
+
+### FAQ
+
+**Where does Number Base Converter run?**
+Number Base Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Number Base Converter free?**
+Yes. There is no account and no limit.
+
+**Is my data uploaded?**
+No. The page calculates in this tab.
+
+**Can I treat this as official advice?**
+It is arithmetic for planning. Tax, payroll and investment rules have exceptions — confirm anything you will file or rely on.
+
+**Does it work on a phone?**
+Yes. The inputs work in a current mobile browser.
+
+## Data Size Converter
+
+URL: https://justtools.info/converters/data-size-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Data Size Converter on Toolspire: Convert a file size between bytes, kilobytes, megabytes, gigabytes and terabytes using 1,024 units, the way computers count.
+
+### At a glance
+
+- Data Size Converter on Toolspire: **Data Size Converter** runs in the browser. Nothing you type is uploaded.
+- 1 KB is 1,024 bytes here, not 1,000. Say which unit you are starting from.
+- Change any field and the result updates immediately.
+- There is no account and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you edit the inputs.
+- **Copy**: Copy the result with one button.
+- **Private**: The calculation stays on this device.
+
+### How to use the Data Size Converter
+
+1. **Fill the fields** — Enter the numbers the labels ask for.
+2. **Read the result** — The large figure is the answer. The line under it shows the working.
+3. **Copy** — Use the copy button if you are pasting the figure somewhere else.
+
+### Guide
+
+#### What this page is for
+
+1 KB is 1,024 bytes here, not 1,000. Say which unit you are starting from.
+
+### FAQ
+
+**Where does Data Size Converter run?**
+Data Size Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Data Size Converter free?**
+Yes. There is no account and no limit.
+
+**Is my data uploaded?**
+No. The page calculates in this tab.
+
+**Can I treat this as official advice?**
+It is arithmetic for planning. Tax, payroll and investment rules have exceptions — confirm anything you will file or rely on.
+
+**Does it work on a phone?**
+Yes. The inputs work in a current mobile browser.
+
+## Time Zone Converter
+
+URL: https://justtools.info/converters/time-zone-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Time Zone Converter on Toolspire: Convert a date and clock time from one IANA time zone to another, using your browser’s time-zone database.
+
+### At a glance
+
+- Time Zone Converter on Toolspire: **Time Zone Converter** runs in the browser. Nothing you type is uploaded.
+- Example zones: Asia/Kolkata, Europe/London, America/New_York. The names are case-sensitive.
+- Change any field and the result updates immediately.
+- There is no account and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you edit the inputs.
+- **Copy**: Copy the result with one button.
+- **Private**: The calculation stays on this device.
+
+### How to use the Time Zone Converter
+
+1. **Fill the fields** — Enter the numbers the labels ask for.
+2. **Read the result** — The large figure is the answer. The line under it shows the working.
+3. **Copy** — Use the copy button if you are pasting the figure somewhere else.
+
+### Guide
+
+#### What this page is for
+
+Example zones: Asia/Kolkata, Europe/London, America/New_York. The names are case-sensitive.
+
+### FAQ
+
+**Where does Time Zone Converter run?**
+Time Zone Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Time Zone Converter free?**
+Yes. There is no account and no limit.
+
+**Is my data uploaded?**
+No. The page calculates in this tab.
+
+**Can I treat this as official advice?**
+It is arithmetic for planning. Tax, payroll and investment rules have exceptions — confirm anything you will file or rely on.
+
+**Does it work on a phone?**
+Yes. The inputs work in a current mobile browser.
+
+## Time Duration Calculator
+
+URL: https://justtools.info/converters/time-duration-calculator/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Time Duration Calculator on Toolspire: Add or subtract two durations in hours and minutes, and normalise the result so minutes stay under 60.
+
+### At a glance
+
+- Time Duration Calculator on Toolspire: minutes are kept in **0–59**. 30 + 45 minutes becomes 1 hour 15 minutes, then the hours are added.
+- **1h 30m + 2h 45m = 4h 15m**. Subtracting 2h 45m from 4h 15m returns **1h 30m**.
+- A negative result is allowed on subtract, and it keeps the **minus sign**. The page does not wrap past midnight into yesterday’s date.
+- This is a **length of time**, not a clock. 25 hours stays 25 hours. It does not become 1:00 the next day.
+
+### Features
+
+- **Add or subtract**: The select chooses the sign. You do not type a negative hour to mean subtraction.
+- **Minutes normalised**: The headline never shows 75 minutes. The extra hour is carried.
+- **Total minutes in the detail**: The absolute minute count is there if you need to multiply by an hourly rate.
+
+### How to use the Time Duration Calculator
+
+1. **Keep minutes under 60 in each box** — Type 1 hour 15 minutes as 1 and 15, not as 0 and 75. The page rejects minutes outside 0–59 so the boxes mean what they say.
+2. **Choose add or subtract before you trust the sign** — The sample is an addition. Switch to subtract to see the pair undo itself.
+3. **Use the minute total for pay** — The detail’s minute count is the number to divide by 60 if you are checking an hour-based wage.
+
+### Guide
+
+#### A duration is not a time of day
+
+Adding 2 hours 45 minutes to 1 hour 30 minutes is arithmetic on a length. It does not know whether you started at 9:00 or 23:00, and it will not roll a 25-hour total back to a clock face. Military time is the tool for a clock reading. If the subtraction goes negative, the result stays negative so you can see the second duration was longer.
+
+### FAQ
+
+**Where does Time Duration Calculator run?**
+Time Duration Calculator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is 1 hour 30 minutes plus 2 hours 45 minutes?**
+4 hours 15 minutes. The 75 minutes carry one hour.
+
+**Can I subtract a longer time?**
+Yes. The result is negative and the detail still shows the size in minutes.
+
+**Why are 75 minutes rejected in a box?**
+Each minutes box is a clock field, 0 to 59. Carry the extra hour into the hours box yourself, or let the result do the carry after a valid addition.
+
+**Will 25 hours become 1:00?**
+No. Twenty-five hours stays 25 hours. This page does not convert a duration into a time of day.
+
+## Military Time Converter
+
+URL: https://justtools.info/converters/military-time-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Convert 24-hour military time such as 14:30 into 2:30 PM, and show the 24-hour form back again. The maths stays on your device.
+
+### At a glance
+
+- Military Time Converter on Toolspire: **14:30** is **2:30 PM**. The hour minus 12 is the afternoon hour, and the minutes stay.
+- **00:15** is **12:15 AM**. The zero hour is 12 in the morning, not 0 AM.
+- **12:00** is **12:00 PM**. Noon keeps the 12 and takes PM. It is not 0 PM.
+- Both **14:30** and **1430** are accepted. 24:00 and 14:60 are rejected.
+
+### Features
+
+- **Colon optional**: 1430 and 14:30 parse as the same time. A single digit hour needs the colon, as in 9:05.
+- **Midnight and noon named**: The two hours people swap, 00 and 12, are mapped to 12 AM and 12 PM on purpose.
+- **24-hour echo**: The detail prints the zero-padded 24-hour form so a 1430 entry is confirmed as 14:30.
+
+### How to use the Military Time Converter
+
+1. **Type the hour from 00 to 23** — Military clocks do not use 24:00 for midnight. Use 00:00.
+2. **Keep minutes from 00 to 59** — 14:60 is not 15:00 on this page. It is an invalid time.
+3. **Read AM and PM from the hour, not from habit** — Anything from 12:00 up to 23:59 is PM. Anything from 00:00 up to 11:59 is AM.
+
+### Guide
+
+#### Where 12 goes
+
+A 24-hour hour maps to a 12-hour hour by taking the remainder after dividing by 12, except that remainder 0 is written as 12. The suffix is PM when the original hour is 12 or more, and AM otherwise. That single rule fixes both noon and midnight. The page does not convert a duration, and it does not apply a time zone.
+
+### FAQ
+
+**Where does Military Time Converter run?**
+Military Time Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is 14:30 in AM/PM?**
+2:30 PM.
+
+**What is 00:00?**
+12:00 AM, midnight. 24:00 is not accepted.
+
+**What is 12:00?**
+12:00 PM, noon. It is not 12:00 AM and it is not 0:00 PM.
+
+**Can I type 1430 without a colon?**
+Yes. Four digits are read as hour and minute. 930 without a colon is ambiguous, so type 9:30.
+
+## Indian Comma Separator
+
+URL: https://justtools.info/converters/indian-comma-separator/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Indian Comma Separator on Toolspire: Group a number the Indian way: the last three digits, then pairs, so 1234567 becomes 12,34,567.
+
+### At a glance
+
+- Indian Comma Separator on Toolspire: digits are grouped as **3, then 2, then 2**. **1234567** becomes **12,34,567**.
+- **12345678** becomes **1,23,45,678**. That is 1 crore 23 lakh 45 thousand 678.
+- A number **under 1,000** is unchanged. The decimal part, if any, is not grouped.
+- A leading **minus** is kept. Existing commas in the input are stripped before grouping, so you can paste 1,234,567 and get 12,34,567.
+
+### Features
+
+- **Not the Western comma**: 1,234,567 and 12,34,567 are the same integer with different groups. This page writes the second one.
+- **Paise stay put**: 1234567.89 becomes 12,34,567.89. The dot and the fraction are not given their own commas.
+- **Commas in, commas out**: Pasting a number that already has commas does not double them. They are removed, then Indian groups are applied.
+
+### How to use the Indian Comma Separator
+
+1. **Paste the digits without a currency sign** — ₹ and Rs are not part of the number. The box wants digits, an optional minus, and an optional decimal.
+2. **Check 1234567** — The sample should read 12,34,567. If it reads 1,234,567, you are looking at a Western formatter.
+3. **Keep the fraction short yourself** — The page does not round paise. 10.259 stays 10.259, with grouping only on the rupee side.
+
+### Guide
+
+#### Where the first comma sits
+
+Indian place value names a thousand, then a lakh (100,000), then a crore (10,000,000). The comma follows that speech: three digits for the thousands, then pairs for lakhs and crores. Western grouping puts a comma every three digits from the right, which splits a lakh into 100,000 and hides the word people are saying. This page only regroups. It does not convert a number into the words “lakh” and “crore”; the number-to-words tool does that.
+
+### FAQ
+
+**Where does Indian Comma Separator run?**
+Indian Comma Separator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How should 1234567 be written in India?**
+12,34,567. That is twelve lakh, thirty-four thousand, five hundred and sixty-seven.
+
+**What about 12345678?**
+1,23,45,678. The first digit is the crore.
+
+**Does the decimal get commas?**
+No. Only the integer part is grouped. 1234567.89 becomes 12,34,567.89.
+
+**Can I paste a number that already has commas?**
+Yes. Commas are removed first, then Indian groups are applied. 1,234,567 becomes 12,34,567.
+
+## Temperature Converter
+
+URL: https://justtools.info/converters/temperature-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Temperature Converter on Toolspire: Convert Celsius to Fahrenheit and kelvin. 0 °C is 32 °F and 273.15 K. 100 °C is 212 °F. The maths stays on your device.
+
+### At a glance
+
+- Temperature Converter on Toolspire: **0 °C** is **32 °F** and **273.15 K**.
+- **100 °C** is **212 °F** and **373.15 K**.
+- Fahrenheit = **C × 9/5 + 32**. Kelvin = **C + 273.15**.
+- Absolute zero is **−273.15 °C**. Colder than that is rejected.
+
+### Features
+
+- **Both targets**: Fahrenheit is the headline. Kelvin is in the detail.
+- **The two famous points**: Freezing and boiling of water at standard pressure.
+- **Celsius in**: To start from Fahrenheit, subtract 32 and multiply by 5/9 yourself, then type the Celsius.
+
+### How to use the Temperature Converter
+
+1. **Type 0** — You should see 32 °F and 273.15 K.
+2. **Type 100** — You should see 212 °F.
+3. **Do not type a unit letter** — The box is a number of degrees Celsius.
+
+### Guide
+
+#### Water’s two checkpoints
+
+The Celsius scale puts water’s freezing point at 0 and its boiling point at 100, at standard pressure. Fahrenheit puts those at 32 and 212. The gap of 180 Fahrenheit degrees over 100 Celsius degrees is the 9/5 in the formula. Kelvin shifts Celsius by 273.15 so that 0 K is absolute zero. This page starts from Celsius and prints both.
+
+### FAQ
+
+**Where does Temperature Converter run?**
+Temperature Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is 0 °C in Fahrenheit and kelvin?**
+32 °F and 273.15 K.
+
+**What is 100 °C in Fahrenheit?**
+212 °F.
+
+**Can I enter Fahrenheit directly?**
+Not in the box. Convert it to Celsius first, or rearrange C = (F − 32) × 5/9.
+
+**Why reject below −273.15?**
+That would be colder than 0 K, which this scale does not use.
+
+## Shoe Size Converter
+
+URL: https://justtools.info/converters/shoe-size-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Shoe Size Converter on Toolspire. Convert a men’s UK shoe size using a fixed chart. UK 8 is US men 9, EU 42 and India 8. Sizes not on the chart are refused.
+
+### At a glance
+
+- Shoe Size Converter on Toolspire: **UK 8** is **US men 9**, **EU 42** and **India 8**.
+- **UK 6** is US 7, EU 39. **UK 7** is US 8, EU 41. **UK 9** is US 10, EU 43. **UK 10** is US 11, EU 44.
+- The chart is **whole sizes from 6 to 10** only.
+- Women’s sizes and brand lasts are **not** this table.
+
+### Features
+
+- **A table, not a formula**: EU sizes do not climb by exactly one each UK size. 6→39, 7→41, 8→42.
+- **India equals UK here**: That is the chart’s rule, stated in the detail.
+- **Unlisted sizes refuse**: 7.5 is not silently called 8.
+
+### How to use the Shoe Size Converter
+
+1. **Type a whole UK size from 6 to 10** — 8 is the sample.
+2. **Read US, EU and India** — 9, 42 and 8.
+3. **Try on the shoe** — A chart is not a fit.
+
+### Guide
+
+#### Five sizes, written out
+
+Men’s shoe charts disagree by brand, and EU numbers are not a perfect line. This page therefore uses five explicit rows rather than a formula that looks precise and is not. UK 6, 7, 8, 9 and 10 map to EU 39, 41, 42, 43 and 44, and to US men’s sizes one larger than the UK number. India is shown equal to the UK number. Anything else is refused.
+
+### FAQ
+
+**Where does Shoe Size Converter run?**
+Shoe Size Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is UK 8 in US and EU?**
+US men 9, EU 42. India 8 on this chart.
+
+**What is UK 7?**
+US 8, EU 41, India 7.
+
+**Why is 7.5 rejected?**
+It is not a row in the table. The page will not round it.
+
+**Is this a women’s chart?**
+No. It is a common men’s chart.
+
+## Cooking Volume Converter
+
+URL: https://justtools.info/converters/cooking-volume-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Cooking Volume Converter on Toolspire. Add US cooking volumes into millilitres. A cup is 240 ml, a tablespoon is 15 ml and a teaspoon is 5 ml.
+
+### At a glance
+
+- Cooking Volume Converter on Toolspire: **1 US cup = 240 ml**. **1 tablespoon = 15 ml**. **1 teaspoon = 5 ml**.
+- **2 tablespoons = 30 ml**.
+- Three teaspoons equal one tablespoon, because **3 × 5 = 15**.
+- This is volume. A cup of flour and a cup of sugar do **not** weigh the same.
+
+### Features
+
+- **US sizes, named**: A 250 ml metric cup is not used.
+- **The spoons agree**: Three teaspoons are one tablespoon on these definitions.
+- **No grams**: Weight needs a density. The density page is mass over volume, which you supply.
+
+### How to use the Cooking Volume Converter
+
+1. **Leave cups at 0 to check the spoons** — Two tablespoons should be 30 ml.
+2. **Add a cup when you mean 240 ml** — One cup and nothing else is 240.
+3. **Do not use this for a metric cup recipe** — That cup is 250 ml. Add the difference yourself.
+
+### Guide
+
+#### Spoons that divide evenly
+
+A US teaspoon is taken as 5 ml and a tablespoon as 15 ml, so three teaspoons fill one tablespoon. A US cup is 240 ml, which is 16 tablespoons. Two tablespoons are 30 ml. A metric cup of 250 ml is a different convention and is not what the cup box means. The page adds volumes. It does not know how much a cup of flour weighs.
+
+### FAQ
+
+**Where does Cooking Volume Converter run?**
+Cooking Volume Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How many millilitres are two tablespoons?**
+30 ml.
+
+**How many millilitres is one US cup?**
+240 ml.
+
+**Do three teaspoons make a tablespoon?**
+Yes, on these sizes. 15 ml.
+
+**Can this convert flour to grams?**
+No. That needs a density. A cup of flour is not a cup of water.
+
+## Fuel Efficiency Converter
+
+URL: https://justtools.info/converters/fuel-efficiency-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Fuel Efficiency Converter on Toolspire: Convert kilometres per litre into litres per 100 km and US miles per gallon.
+
+### At a glance
+
+- Fuel Efficiency Converter on Toolspire: **15 km/L** is **100 ÷ 15 = 6.6667 L/100 km**.
+- The same 15 km/L is about **35.282 US mpg**.
+- US mpg multiplies km/L by **2.35215**, from the mile and the US gallon.
+- A figure of **0 km/L** is rejected. The reciprocal would be infinite.
+
+### Features
+
+- **Both directions of “better”**: The headline is L/100 km, where smaller is thriftier. The detail keeps km/L and mpg.
+- **US gallon, named**: An imperial gallon is larger and would give a different mpg.
+- **15 is the check**: 100/15 and 15 × 2.35215.
+
+### How to use the Fuel Efficiency Converter
+
+1. **Type km per litre** — 15 is the sample.
+2. **Read 6.6667 L/100 km** — That is the reciprocal form.
+3. **Do not compare with imperial mpg** — The detail’s mpg is the US gallon.
+
+### Guide
+
+#### The reciprocal flips the ranking
+
+Kilometres per litre and litres per 100 kilometres describe the same car in opposite directions. 15 km/L uses 100/15 = 6.6667 litres to travel 100 km. US miles per gallon converts that distance and that volume: a mile is 1.609344 km and a US gallon is 3.785411784 litres, and the combined factor is about 2.35215. Fifteen times that is about 35.282 mpg. An imperial gallon is not this factor.
+
+### FAQ
+
+**Where does Fuel Efficiency Converter run?**
+Fuel Efficiency Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is 15 km/L in L/100 km?**
+6.6667.
+
+**What is 15 km/L in US mpg?**
+About 35.282.
+
+**Is a higher L/100 km better?**
+No. It means more fuel for the same 100 km. Higher km/L is the thriftier direction.
+
+**Is this imperial mpg?**
+No. It is the US gallon.
+
+## Decimal Time Converter
+
+URL: https://justtools.info/converters/decimal-time-converter/
+Category: Converters
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Turn decimal hours into hours and minutes. 1.5 hours is 1 hour 30 minutes, which is 90 minutes. The maths stays on your device.
+
+### At a glance
+
+- Decimal Time Converter on Toolspire: **1.5 hours** is **1 h 30 m**, and **90 minutes**.
+- **0.1 hour** is **6 minutes**, because an hour has 60 minutes and 0.1 × 60 = 6.
+- **0.25 hour** is **15 minutes**.
+- Negative hours are rejected. A duration here is a length, not a direction.
+
+### Features
+
+- **Nearest minute**: 0.01 hour is 0.6 minutes and rounds to 1 minute. The detail shows the rounded minute total.
+- **The 6-minute trap**: A tenth of an hour is not 10 minutes.
+- **90 is the check**: 1.5 × 60.
+
+### How to use the Decimal Time Converter
+
+1. **Type 1.5** — You should see 1 h 30 m and 90 minutes.
+2. **Type 0.1** — You should see 6 minutes, not 10.
+3. **Use the duration page to add two clocks** — This page converts one number.
+
+### Guide
+
+#### A tenth of an hour is six minutes
+
+Decimal time multiplies the fraction of an hour by 60. 0.5 becomes 30 minutes. 0.1 becomes 6 minutes, which is the figure people miss when they treat the decimal as a clock minute. 1.5 hours is one hour and 0.5 × 60 minutes, so 1 h 30 m, or 90 minutes in total. The page rounds to the nearest minute. It does not add two durations. That is the time-duration page.
+
+### FAQ
+
+**Where does Decimal Time Converter run?**
+Decimal Time Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is 1.5 hours?**
+1 h 30 m, or 90 minutes.
+
+**What is 0.1 hour?**
+6 minutes.
+
+**What is 0.25 hour?**
+15 minutes.
+
+**Why is 0.1 not 10 minutes?**
+Because the 0.1 is a fraction of 60 minutes, and 6 is a tenth of 60.
+

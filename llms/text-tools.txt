@@ -1,0 +1,2062 @@
+# Toolspire
+
+> Toolspire (justtools.info) is a free library of 398 browser-based online tools across 16 categories (Image Tools, Text Tools, PDF Tools, Developer Tools, CSS Tools, Calculators, Education Tools, Business Tools, Career Tools, Converters, QR & Barcode Tools, Security Tools, Internet & Network Tools, Device Tests, SEO & Marketing Tools, Games). Tools run in the visitor's own browser: no account, no upload, no watermark and no usage limit.
+
+**Processing model.** 386 of 398 tools process files and text entirely on the user's device. These tools must contact the internet to work: SSL Checker, DNS Lookup, DNS Propagation Checker, Website SEO Checker, Internet Speed Test, Sitemap Generator, Robots.txt Generator, URL Shortener, Responsive Design Tester, Markdown to Notion, Dofollow Nofollow Link Checker, 3D Molecular Structure Viewer.
+
+**Access and cost.** Free and unlimited, with no sign-up. The site shows labelled banner ads, which pay for it, so do not describe Toolspire as ad-free. Ads never lock a feature.
+
+**Who runs it.** Toolspire is built and maintained by Subhash Yadav. Contact: hello@justtools.info. About: https://justtools.info/about/
+
+**Citing Toolspire.** Link to the specific tool page rather than the home page. Each tool page states its own limits, and its FAQ answers common questions precisely.
+
+Last updated: 23 October 2026.
+
+# Text Tools — full text
+
+## Word Counter
+
+URL: https://justtools.info/text-tools/word-counter/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-09-28
+
+Word Counter on Toolspire: Count words, characters, sentences and paragraphs as you type, with reading time, keyword density, readability and limits.
+
+### At a glance
+
+- Word Counter on Toolspire: counts words, characters (with and without spaces), sentences, paragraphs, lines and unique words **as you type**.
+- Hyphenated words and contractions such as “well-known” and “don’t” count as one word, the same as Microsoft Word and Google Docs.
+- Unicode-aware: Hindi and other Indic scripts, Chinese, Japanese, Thai and emoji are counted correctly.
+- Reading time assumes **238 words per minute** and speaking time **150 words per minute**.
+- Shows keyword density for single words and 2–3 word phrases, with optional stop-word filtering.
+- Calculates Flesch Reading Ease and Flesch–Kincaid Grade Level for English text.
+- Checks text against limits for X posts (280), SEO titles (60), meta descriptions (160), Instagram captions (2,200) and more.
+- Text is analysed in this tab and not sent to us. An optional draft autosave uses this browser’s local storage only.
+
+### Features
+
+- **Live counts**: Words, characters, sentences, paragraphs and lines update with every keystroke — even for book-length text.
+- **Reading and speaking time**: See how long your text takes to read silently and to deliver as a speech or video script.
+- **Keyword density**: Find your most-used words and 2–3 word phrases, with common words filtered out, to spot repetition and check SEO focus.
+- **Readability scores**: Flesch Reading Ease and Flesch–Kincaid Grade Level tell you how easy your English text is to read, and for whom.
+- **Platform limits**: Progress bars for X posts, SEO titles, meta descriptions, SMS, YouTube, Instagram and LinkedIn show what fits and what is over.
+- **Word goal**: Set a target such as 1,500 words for an essay or article and watch the progress bar fill as you write.
+- **Case converter and file tools**: Switch to UPPERCASE, lowercase, Title Case or Sentence case, open a .txt or .md file, copy, or download your text — with one-step undo.
+- **Private autosave**: Your draft is kept in this browser so a refresh never loses work. Turn it off with one switch; nothing is sent anywhere either way.
+
+### How to count words in your text
+
+1. **Add your text** — Type in the box, paste text from any document, or click **Open file** to load a .txt or .md file.
+2. **Read the live counts** — Words, characters, sentences, paragraphs, reading time and speaking time update straight away at the top.
+3. **Dig deeper** — Check **Details** for averages and page estimates, then use the tabs for keyword density, character limits and readability.
+4. **Set a goal or export** — Enter a word goal to track progress, change the case if needed, then copy or download the finished text.
+
+### Guide
+
+#### How words and characters are counted
+
+A **word** is any run of characters between spaces that contains at least one letter or number. That means “well-known”, “don’t”, “COVID-19” and “2026” each count as one word, while a stray dash or ampersand does not — the same rules Microsoft Word and Google Docs use, so your count matches what an editor or teacher will see.
+
+Languages written without spaces between words — Chinese, Japanese and Thai — are split into words with the Unicode word-segmentation rules built into your browser. Hindi, Marathi, Bengali and other Indic scripts, which do use spaces, are counted like English.
+
+**Characters** are counted the way you see them: an emoji with a skin tone, a flag, or a Devanagari conjunct is one character, even though it is stored as several code points. The Details panel also shows the size in bytes (UTF-8), which matters for databases and some SMS gateways.
+
+**Paragraphs** are counted as non-empty lines, as in Microsoft Word. **Sentences** end at a full stop, question mark, exclamation mark or the Devanagari danda (।).
+
+#### How many pages is 1,000 words?
+
+With a 12-point font such as Times New Roman or Arial and 1-inch margins, a single-spaced page holds about 500 words and a double-spaced page about 250. Headings, short paragraphs and larger fonts reduce that.
+
+| Words | Single-spaced pages | Double-spaced pages | Reading time |
+| --- | --- | --- | --- |
+| 250 | 0.5 | 1 | about 1 minute |
+| 500 | 1 | 2 | about 2 minutes |
+| 1,000 | 2 | 4 | about 4 minutes |
+| 1,500 | 3 | 6 | about 6 minutes |
+| 2,000 | 4 | 8 | about 8 minutes |
+| 5,000 | 10 | 20 | about 21 minutes |
+
+#### How reading time and speaking time are calculated
+
+Reading time uses **238 words per minute**, the average silent reading speed for adults reading non-fiction English found in a 2019 review of 190 studies (Brysbaert). Speaking time uses **150 words per minute**, a comfortable pace for presentations, podcasts and video voice-overs.
+
+Technical material is read more slowly and fiction faster, so treat both figures as estimates. For a timed speech, rehearse aloud once and adjust.
+
+#### Character limits cheat sheet
+
+| Where | Limit | Notes |
+| --- | --- | --- |
+| X (Twitter) post | 280 characters | Standard accounts; every link counts as 23 |
+| SEO title tag | ~60 characters | Google truncates by pixel width, roughly 50–60 characters |
+| Meta description | ~160 characters | Longer text is usually cut off in results |
+| SMS message | 160 characters | Drops to 70 when the text contains emoji or non-Latin letters |
+| YouTube title | 100 characters | About 70 are visible in search results |
+| Instagram caption | 2,200 characters | Only the first lines show before “more” |
+| LinkedIn post | 3,000 characters | Only the first few lines show before “see more” |
+
+#### Understanding readability scores
+
+The **Flesch Reading Ease** score rates text from about 0 to 100 using average sentence length and average syllables per word: the higher the score, the easier the text. The **Flesch–Kincaid Grade Level** turns the same inputs into a US school grade.
+
+| Score | Difficulty | Typical reader |
+| --- | --- | --- |
+| 90–100 | Very easy | 5th grade (age 10–11) |
+| 70–89 | Easy to fairly easy | 6th–7th grade |
+| 60–69 | Plain English | 8th–9th grade (age 13–15) |
+| 50–59 | Fairly difficult | 10th–12th grade |
+| 30–49 | Difficult | College level |
+| 0–29 | Very difficult | College graduate |
+
+#### Keyword density and SEO
+
+Keyword density is how often a word or phrase appears as a share of all words. Search engines do not reward a particular percentage, and repeating a phrase unnaturally can hurt. Use the table to spot accidental repetition and to confirm your main topic is clearly present — then write for readers first.
+
+### FAQ
+
+**Where does Word Counter run?**
+Word Counter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is this word counter free and private?**
+Yes. It is free with no account and no length limit, and your text is analysed entirely in this tab. Nothing you type or paste is uploaded or stored on a server.
+
+**Does it count hyphenated words and contractions as one word?**
+Yes. “Well-known”, “mother-in-law” and “don’t” each count as one word, matching Microsoft Word and Google Docs.
+
+**Are spaces counted as characters?**
+The main **Characters** figure includes spaces and line breaks. **Characters (no spaces)** in the Details panel excludes all whitespace.
+
+**How is reading time calculated?**
+Reading time is the word count divided by 238 words per minute, the average adult silent reading speed. Speaking time uses 150 words per minute.
+
+**How many words are on one page?**
+About 500 words single-spaced or 250 double-spaced, with a 12-point font and 1-inch margins. The Details panel shows both page estimates for your text.
+
+**Does it work with Hindi and other languages?**
+Yes. Counting is Unicode-aware, so Hindi, Marathi, Tamil and other Indic scripts, Chinese, Japanese, Arabic and emoji are handled correctly. Readability scores are English-only because the Flesch formulas are.
+
+**What is a good Flesch Reading Ease score?**
+For most websites and general readers, 60–70 (plain English) is a good target. Scores above 80 read very easily; below 50 suits specialist or academic audiences.
+
+**What is the ideal keyword density for SEO?**
+There is no ideal percentage. Mention your main topic naturally where it helps the reader, and use the density table to catch repetition rather than to hit a number.
+
+**Is my text saved?**
+Only if **Save draft in this browser** is on (the default). The draft stays in this browser’s local storage on your device and is never sent anywhere. Turn the switch off to delete it.
+
+**How many characters are allowed in a tweet or a meta description?**
+An X (Twitter) post allows 280 characters for standard accounts, and a meta description is best kept to about 160. The **Character limits** tab checks both, plus SEO titles, SMS, YouTube, Instagram and LinkedIn.
+
+## Text to Handwriting
+
+URL: https://justtools.info/text-tools/text-to-handwriting/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-09-29
+
+Text to Handwriting on Toolspire: Turn typed text into realistic handwriting on ruled paper. Pick from 7 handwriting styles including Hindi.
+
+### At a glance
+
+- Text to Handwriting on Toolspire: seven handwriting styles — cursive, neat, rounded, casual, quick, print and a **Hindi + English** style (Kalam) that writes Devanagari.
+- Paper options: ruled notebook, plain, grid and old paper, with an optional red margin line.
+- Blue, black, blue-black, red and green ink, or any custom colour.
+- Each letter gets a slightly different size, angle and position, so pages don’t look machine-made; **Rewrite** gives a fresh variation.
+- Adjustable writing size, line gap, word spacing and letter spacing, plus an optional scanned look.
+- Long text flows onto as many A4 pages as needed; download a multi-page PDF or PNG images (1240 × 1754 px, 150 DPI).
+- Runs in this tab: your text is not sent to us, and the fonts are open-licensed.
+
+### Features
+
+- **Realistic, not robotic**: Letters vary a little in size, slant, spacing and ink darkness, and every line drifts slightly — just like real writing. Turn **Natural variation** down for tidier pages or up for a hurried look.
+- **Hindi handwriting**: The **Hindi + English** style writes Devanagari with proper conjuncts and matras, so you can mix Hindi and English on the same page.
+- **Notebook-style paper**: Ruled lines, a red margin, grid paper or an aged-paper look. Writing sits neatly on the ruled lines at any size.
+- **Multi-page PDF**: Long answers automatically continue onto new pages. Download everything as one A4 PDF or as PNG images.
+- **Scanned look**: Add a slight tilt, uneven lighting and grain so the page looks photographed or scanned.
+- **Private and free**: No account, no watermark and no upload. A draft of your text is kept only in this browser so a refresh doesn’t lose it.
+
+### How to convert text to handwriting
+
+1. **Add your text** — Type or paste your notes, answer or letter into **Your text**.
+2. **Pick a handwriting style** — Choose one of seven styles. For Hindi, choose **Hindi + English**.
+3. **Choose ink and paper** — Select an ink colour and ruled, plain, grid or old paper. Adjust the size and spacing until it looks right.
+4. **Download** — Check each page in the preview, then download a PDF or PNG images.
+
+### Guide
+
+#### Tips for the most realistic handwriting
+
+- **Keep variation moderate.** Around 4–6 looks natural; 0 looks like a font, 10 looks rushed.
+- **Match size to the line gap.** Letters should fill roughly two-thirds of the space between ruled lines.
+- **Use blue or blue-black ink** on ruled paper for the classic notebook look.
+- **Add the scanned look** if the page will be shared as a photo, and press **Rewrite** until you like the result.
+- **Break long paragraphs** into shorter ones — real handwritten pages have more white space than typed ones.
+
+#### Great uses for handwritten pages
+
+If a teacher or exam asks for handwritten work, they usually mean written by you. Check the rules before submitting a generated page.
+
+- Personal notes, study sheets and journals that feel more personal than print.
+- Handwritten-style letters, cards and invitations.
+- Mock-ups and designs for posters, social posts and presentations.
+- Practice sheets that show what neat handwriting looks like.
+
+#### Writing in Hindi and other scripts
+
+Choose **Hindi + English** to write Devanagari — Hindi, Marathi, Nepali and Sanskrit — alongside English on the same page. Hindi words are drawn whole, so conjuncts such as क्ष and matras stay correctly joined; English letters still get individual variation.
+
+### FAQ
+
+**Where does Text to Handwriting run?**
+Text to Handwriting runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is this text to handwriting converter free?**
+Yes. It is free with no account, no watermark and no page limit.
+
+**Can I write in Hindi?**
+Yes. Pick the **Hindi + English** handwriting style. It supports Devanagari, so Hindi, Marathi and Nepali text is written correctly, and you can mix it with English.
+
+**How do I download my handwritten pages?**
+Click **PDF** for a single A4 PDF with every page, or **PNG** for images. With more than one page, the PNGs come in a ZIP file.
+
+**Why does every letter look slightly different?**
+That is the natural variation that makes the page look handwritten. Lower **Natural variation** for neater writing, or press **Rewrite** to get a new version.
+
+**What size are the pages?**
+A4 portrait. PNG images are 1240 × 1754 pixels (150 DPI), which prints clearly on A4 paper; the PDF uses exact A4 page size.
+
+**Is my text uploaded or saved?**
+No text is uploaded — everything is drawn in this tab. A draft is kept in this browser’s local storage so a refresh doesn’t lose your work; press **Clear** to remove it.
+
+**Can I use the handwritten pages for school assignments?**
+The tool makes realistic pages, but teachers who ask for handwritten work usually expect your own writing. Check your school’s rules first.
+
+**Which fonts are used?**
+Open-licensed handwriting fonts from Google Fonts: Homemade Apple, Caveat, Indie Flower, Shadows Into Light, Nothing You Could Do, Patrick Hand and Kalam. They are served from this website, not from Google.
+
+## WhatsApp Chat Analyzer
+
+URL: https://justtools.info/text-tools/whatsapp-chat-analyzer/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-09-30
+
+WhatsApp Chat Analyzer on Toolspire. Analyse a WhatsApp chat export: who texts most, busiest days and hours, top emojis and words, reply times.
+
+### At a glance
+
+- WhatsApp Chat Analyzer on Toolspire: reads the chat you export from WhatsApp — the **.txt** file, or the **.zip** from an iPhone — in 12- or 24-hour and day/month or month/day date formats.
+- Counts messages, words, media, emojis, links and deleted messages, in total and for each participant, in one-to-one and group chats.
+- Finds the **busiest day**, **longest streak**, longest silence and most active hour and weekday, with charts and a weekly heatmap.
+- Shows who **starts conversations** (the first message after 6+ hours of silence) and each person’s **median reply time**.
+- Top emojis (skin tones and flags counted correctly), most used words without common English and Hinglish filler, and the most shared websites.
+- System messages — joins, group changes and the encryption notice — are left out of every count.
+- Runs entirely in this tab: the chat is not sent to us, stored or seen by anyone.
+
+### Features
+
+- **Private by design**: Chats are personal. The analysis runs on your device, so no server, no account and no one else ever sees your messages.
+- **Who talks the most**: Each person’s share of messages, words, media and emojis, plus who starts conversations and who replies fastest.
+- **When you chat**: Messages per day or month, by hour and by weekday, and a heatmap of your weekly rhythm.
+- **Emojis and words**: Your favourite emojis and most used words, with filler like “the”, “hai” and “ok” filtered out.
+- **Android and iPhone**: Understands both export formats, 12- and 24-hour clocks and different date orders — and opens an iPhone .zip without unzipping.
+- **Shareable summary**: Copy a short summary of the highlights to post in the group.
+
+### How to analyse a WhatsApp chat
+
+1. **Export the chat** — In WhatsApp, open the chat and choose **Export chat → Without media** (Android: ⋮ → More; iPhone: tap the chat name).
+2. **Open the file here** — Drop the .txt file — or the .zip from an iPhone — onto the box, or click to choose it.
+3. **Read your stats** — See totals, each participant’s numbers, activity charts, top emojis and words, and highlights.
+4. **Share the summary** — Tap **Copy summary** to paste the highlights anywhere, or open another chat.
+
+### Guide
+
+#### How to export a WhatsApp chat
+
+- **Android:** open the chat → tap **⋮** → **More** → **Export chat** → **Without media**, then save the .txt file.
+- **iPhone:** open the chat → tap the contact or group name → **Export Chat** → **Without Media**, then **Save to Files**. Open the .zip here as it is.
+- “Without media” is faster and smaller. Photos, videos and voice notes are still counted from the placeholders in the text.
+- WhatsApp may limit very long chats in an export; the analysis covers everything in the file.
+
+#### What the numbers mean
+
+| Measure | How it’s worked out |
+| --- | --- |
+| Messages | Every message sent by a person. System messages are not counted. |
+| Words | Words in text messages; media placeholders and deleted messages don’t count. |
+| Conversation starts | Messages sent after at least 6 hours of silence in the chat. |
+| Reply time | The median time a person takes to reply to someone else, within a conversation. |
+| Active days | Days with at least one message, out of every day from the first message to the last. |
+| Longest streak | The most consecutive days with at least one message. |
+
+### FAQ
+
+**Where does WhatsApp Chat Analyzer run?**
+WhatsApp Chat Analyzer runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is it safe to upload my WhatsApp chat?**
+Nothing is uploaded. The file is read by your own browser and analysed on your device, so your messages never reach a server — not even ours.
+
+**Does it work for group chats?**
+Yes. Groups of any size are supported. The table shows the 12 most active people first, and you can expand it to see everyone.
+
+**Which file should I choose?**
+The file WhatsApp creates when you use **Export chat**: a .txt on Android, or a .zip on iPhone. There’s no need to unzip it.
+
+**Why does it say “media (type not recorded)”?**
+Android exports without media replace every attachment with “<Media omitted>”, so the type can’t be known. iPhone exports say whether it was an image, video, audio or sticker.
+
+**The dates look wrong. What should I do?**
+Some exports could be day/month or month/day. The analyzer works it out from the order of the messages; if it can’t be sure, a switch appears at the top so you can pick the right one.
+
+**Does it work with Hindi and other languages?**
+Yes. Messages in any language — Hindi, Hinglish, Tamil or anything else — are counted and analysed. If WhatsApp itself is set to another language, a few labels like “media omitted” may be counted as ordinary messages.
+
+**How is reply time calculated?**
+Each time someone replies to a different person within the same conversation, the gap is recorded. The table shows the median, so one late reply doesn’t skew it.
+
+## Fancy Font Generator
+
+URL: https://justtools.info/text-tools/fancy-font-generator/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-01
+
+Fancy Font Generator on Toolspire: Turn text into stylish fonts to copy and paste: bold, italic, cursive, bubble, gothic and more for Instagram bios, WhatsApp.
+
+### At a glance
+
+- Fancy Font Generator on Toolspire: converts your text into **28 styles**, including bold, italic, cursive (script), gothic (fraktur), double-struck, monospace, bubble, squares, small caps, upside down, strikethrough and glitch text.
+- The “fonts” are really **Unicode characters**, so they stay styled wherever you paste them — Instagram and Facebook bios, WhatsApp, X, YouTube, Discord and game names.
+- Letters that Unicode keeps elsewhere (like cursive ℬ, ℰ, ℋ) are filled in correctly, so no letter turns into a box.
+- Also makes **decorated names** such as ꧁༺ 𝓝𝓪𝓶𝓮 ༻꧂ for profiles and gaming IDs.
+- Pastes back to normal: the tool can turn fancy text into plain letters again.
+- Hindi and other scripts pass through unchanged — the styles apply to English letters and digits.
+
+### Features
+
+- **Tap to copy**: Every style is shown with your own text. Tap one and it’s copied — ready to paste.
+- **Works everywhere**: Unlike real fonts, these characters travel with the text into apps, bios, captions and comments.
+- **Names and bios**: Decorated styles for Instagram bios, Free Fire and BGMI names, and WhatsApp statuses.
+- **Strikethrough & underline**: Cross out or underline text in places that don’t support formatting.
+- **Back to normal**: Paste stylised text to recover the plain letters for editing or searching.
+- **Private**: Everything happens as you type, in this tab.
+
+### How to make fancy text
+
+1. **Type your text** — Enter a name, bio or message in the box.
+2. **Browse the styles** — Scroll the list or filter by **Bold**, **Cursive & gothic**, **Bubble & boxes** and more.
+3. **Copy** — Tap a style to copy it.
+4. **Paste** — Paste it into your Instagram bio, WhatsApp, a game name field or a post.
+
+### Guide
+
+#### Where fancy text works
+
+| Place | Works? | Tip |
+| --- | --- | --- |
+| Instagram bio, name and captions | Yes | Bios allow 150 characters; each fancy letter counts as one |
+| WhatsApp messages and About | Yes | For plain bold or italic, WhatsApp also has *bold* and _italic_ |
+| Facebook, X, Threads, YouTube comments | Yes | Keep it short — long styled posts are hard to read |
+| Game names (BGMI, Free Fire) | Mostly | Games limit name length and some symbols; check the preview |
+| Usernames and @handles | No | Handles only allow plain letters, numbers, . and _ |
+
+#### A note on accessibility
+
+Screen readers used by blind and low-vision people read these characters as mathematical symbols (“mathematical bold capital H…”) or skip them. Use fancy text for a name or a few decorative words, and keep important information — prices, dates, links, instructions — in normal text.
+
+Search engines and in-app search also see different characters, so a name written in 𝓬𝓾𝓻𝓼𝓲𝓿𝓮 may not be found by people typing it normally.
+
+### FAQ
+
+**Where does Fancy Font Generator run?**
+Fancy Font Generator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How does a fancy font generator work?**
+It swaps each letter for a look-alike character from Unicode — the universal character set every phone and computer uses. For example, 𝐀 is “mathematical bold capital A”. Because they’re characters rather than a font, the style stays when you paste the text.
+
+**Why do some letters show as boxes?**
+The device you’re viewing on doesn’t have a font with that character — usually older phones. Bold, italic, cursive and bubble text work on almost all current devices; newer symbols may not.
+
+**Can I use fancy text in my Instagram bio?**
+Yes. Copy a style and paste it into Edit profile → Bio or Name. Each styled letter counts as one of the 150 bio characters.
+
+**Can I make stylish names for BGMI or Free Fire?**
+Yes — try the decorated styles. Games limit name length and may reject some symbols, so keep it short and check how it looks in the game.
+
+**Does it work with Hindi?**
+Unicode only has styled versions of the English alphabet and digits, so Hindi text stays as it is. You can mix both — the English parts get styled.
+
+**How do I turn fancy text back to normal?**
+Paste it into “Turn fancy text back into normal text” at the bottom of the tool, and copy the plain version.
+
+## Case Converter
+
+URL: https://justtools.info/text-tools/case-converter/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-01
+
+Case Converter on Toolspire: Change text case online: UPPERCASE, lowercase, Title Case, Sentence case, and camelCase, snake_case or kebab-case for code.
+
+### At a glance
+
+- Case Converter on Toolspire: seven text cases: **Sentence case, lower case, UPPER CASE, Title Case, Capitalized Case, aLtErNaTiNg** and **iNVERSE**.
+- Eight programming cases: **camelCase, PascalCase, snake_case, CONSTANT_CASE, kebab-case, Train-Case, dot.case** and **path/case** — one name per line.
+- **Title Case** keeps articles and short words lowercase (“The Lord of the Rings”), but capitalises the first and last word and the word after a colon.
+- **Sentence case** capitalises the start of every sentence and the word “I”, and fixes text typed with Caps Lock on.
+- Keeps **acronyms and brand names** like NASA, GST and iPhone as written (can be switched off), and handles hyphens (Well-Known) and apostrophes (Don’t).
+- Splits programming names smartly: XMLHttpRequest becomes xml_http_request. Counts characters, words, sentences and lines as you type.
+
+### Features
+
+- **Fix Caps Lock text**: Paste text that was typed in capitals and turn it into normal sentences in one click.
+- **Proper headlines**: Title Case that follows style-guide rules — for blog titles, YouTube titles, headings and book names.
+- **For developers**: Convert variable, column, CSS class and URL names between camelCase, snake_case, kebab-case and more.
+- **Line by line**: Paste a list of names and convert them all at once — each line stays a separate name.
+- **Live counts**: See the number of characters, words, sentences and lines while you work.
+- **Private**: Your text is converted in this tab and never sent anywhere.
+
+### How to change text case
+
+1. **Paste your text** — Type or paste text into the box, or try the **Sample**.
+2. **Pick a case** — Click **UPPER CASE**, **Title Case**, **Sentence case**, **snake_case** or any other.
+3. **Check the result** — The converted text appears below straight away.
+4. **Copy** — Click **Copy**, download it as a .txt file, or **Replace my text** to keep working on it.
+
+### Guide
+
+#### Which case to use
+
+| Case | Example | Used for |
+| --- | --- | --- |
+| Sentence case | Tips for your first job interview | Most headings on the web, emails, UI text |
+| Title Case | Tips for Your First Job Interview | Book, film and article titles, formal headings |
+| UPPER CASE | SALE ENDS TODAY | Short labels and warnings (reads as shouting in messages) |
+| camelCase | firstJobInterview | JavaScript and Java variables |
+| snake_case | first_job_interview | Python, database columns, file names |
+| kebab-case | first-job-interview | URLs, CSS classes, file names |
+| CONSTANT_CASE | MAX_RETRY_COUNT | Constants and environment variables |
+
+#### Title Case rules used here
+
+Every word is capitalised except articles (a, an, the), short conjunctions (and, but, or, nor, for, so, yet) and short prepositions (as, at, by, in, of, off, on, per, to, up, via) — unless they are the first or last word, or come right after a colon. This matches the common ground of the Chicago and AP style guides for most headlines.
+
+Hyphenated words get a capital on each part (Well-Known), words after apostrophes stay lowercase (Don’t, India’s), and words already written as acronyms or brands (NASA, iPhone) are left alone.
+
+### FAQ
+
+**Where does Case Converter run?**
+Case Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I convert uppercase to lowercase?**
+Paste your text and click “lower case” — or “Sentence case” to also capitalise the start of each sentence, which is usually what you want for text typed with Caps Lock on.
+
+**What is the difference between Title Case and Capitalized Case?**
+Capitalized Case capitalises every word. Title Case follows style-guide rules and keeps small words like “of”, “the” and “and” lowercase, as in “The Lord of the Rings”.
+
+**Does it work with Hindi?**
+Hindi and most Indian scripts don’t have upper and lower case, so they stay unchanged. English words mixed in are converted.
+
+**Can I convert a list of variable names?**
+Yes. Put one name per line and choose a programming case. userAccountId, user-account-id and User Account ID all become user_account_id in snake_case.
+
+**Why wasn’t NASA changed to Nasa?**
+Words already written in capitals or mixed case are treated as acronyms and brand names and kept as written. Turn off “Keep acronyms and brand names” to change them too. Text written entirely in capitals is always converted.
+
+**Is my text saved?**
+No. The conversion runs in this tab and nothing is stored or sent.
+
+## Emoji & Kaomoji Picker
+
+URL: https://justtools.info/text-tools/emoji-kaomoji-picker/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-07
+
+Emoji & Kaomoji Picker on Toolspire. Search and copy every emoji, 200 kaomoji like ¯\_(ツ)_/¯ and 270+ text symbols with one click. Skin tones.
+
+### At a glance
+
+- Emoji & Kaomoji Picker on Toolspire: **Every emoji** up to Emoji 17, with names and keywords from the Unicode CLDR — search “party”, “india” or a shortcode like :joy:.
+- **200 kaomoji** (Japanese text faces) in 19 moods — happy, love, shrug ¯\_(ツ)_/¯, table flip, cats, bears and more.
+- **270+ text symbols**: arrows, stars, hearts, check marks, maths, currency (₹ € £), fractions, superscripts, keyboard keys and chess.
+- Click to copy, or switch on **Collect into text** to build a message from several picks. Recently used items and your skin tone are remembered on this device.
+- For developers: each emoji’s **code points**, HTML entity, CSS, JavaScript and Python escapes, URL encoding and UTF-8 bytes.
+- Emoji your device can’t draw yet are hidden automatically, so you only see emoji that will show up.
+
+### Features
+
+- **Smart search**: Names, keywords and GitHub-style shortcodes — find 😂 by typing “laugh”, “joy” or :joy:.
+- **Skin tones**: Pick a tone once and every hand and person emoji uses it.
+- **Kaomoji for every mood**: From (◕‿◕) to (╯°□°）╯︵ ┻━┻, grouped and searchable.
+- **Symbols that work anywhere**: Text symbols paste into names, bios, documents and code without images.
+- **Compose messages**: Collect several emoji and symbols, then copy them all at once.
+- **Unicode details**: Code points and escapes ready to paste into HTML, CSS, JavaScript or Python.
+
+### How to copy an emoji or kaomoji
+
+1. **Choose a tab** — Pick **Emoji**, **Kaomoji** or **Symbols**.
+2. **Search or browse** — Type a word like “heart” or “shrug”, or jump to a category.
+3. **Click to copy** — Click any item — it is copied to your clipboard. Paste it anywhere with Ctrl+V (or long-press on a phone).
+
+### Guide
+
+#### Popular kaomoji
+
+| Kaomoji | Meaning |
+| --- | --- |
+| ¯\_(ツ)_/¯ | Shrug — “whatever” or “I don’t know” |
+| (╯°□°）╯︵ ┻━┻ | Table flip — frustration |
+| ┬─┬ノ( º _ ºノ) | Putting the table back — calming down |
+| ( ͡° ͜ʖ ͡°) | Lenny face — cheeky or suggestive |
+| ಠ_ಠ | Look of disapproval |
+| ʕ•ᴥ•ʔ | Bear |
+| (づ｡◕‿‿◕｡)づ | Sending a hug |
+| m(_ _)m | A deep bow — thanks or sorry |
+
+#### Emoji in HTML and code
+
+Emoji are ordinary Unicode characters, so you can paste them straight into UTF-8 web pages, documents and source code. Where you need plain ASCII, use the **HTML entity** (😀 is `&#x1F600;`), the **CSS escape** (`\1F600`, for `content`), or the **JavaScript escape** (`\u{1F600}`) shown for every emoji in the details panel.
+
+Some emoji are sequences of several code points — skin tones, flags and family emoji join characters with modifiers or a zero-width joiner — which is why their codes list more than one value.
+
+### FAQ
+
+**Where does Emoji & Kaomoji Picker run?**
+Emoji & Kaomoji Picker runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I copy and paste an emoji?**
+Click it — it is copied straight away. Then paste with Ctrl+V on a computer, or long-press and choose Paste on a phone.
+
+**What is a kaomoji?**
+A kaomoji is a Japanese-style face made from text characters, read the right way up — like (^_^) or ¯\_(ツ)_/¯. They work anywhere text does, without emoji support.
+
+**Why do some emoji look different on another phone?**
+Each system — Apple, Google, Samsung, Microsoft — draws emoji in its own style. The character is the same; only the picture differs. Very new emoji may show as a box on older systems.
+
+**Why do flags look like letters on Windows?**
+Windows doesn’t include flag emoji, so it shows the two letters that make up the flag (like IN for India). They still copy correctly and appear as flags on phones and Macs.
+
+**Is anything I type sent anywhere?**
+No. Search, copying and your recent items all stay in this tab.
+
+## Online Teleprompter
+
+URL: https://justtools.info/text-tools/online-teleprompter/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-15
+
+Online Teleprompter on Toolspire: Teleprompter: paste your script, set the speed or let it follow your voice. No account is required.
+
+### At a glance
+
+- Online Teleprompter on Toolspire: scrolls the script at a steady speed set in **words per minute** (60–260), shows how long the script takes to read, and lets you speed up or slow down while reading.
+- **Follow my voice** listens through the microphone and keeps the word you are saying on the reading line, waiting when you pause and dimming what you have read.
+- In Chrome and Edge, speech can be recognised **on your device** after a one-off language-pack download. Where that is not possible, voice following uses the browser’s online speech service only after you allow it.
+- **Mirror** and **upside-down** modes for teleprompter glass, four high-contrast colour schemes, text up to 160 px and an adjustable reading line.
+- Optional **camera behind the text**: see yourself while reading and record to an MP4 or WebM file on your device.
+- Controlled by keyboard, **presentation clickers** and Bluetooth page turners, or by touch: tap to pause, drag to move. The screen is kept awake while you read.
+- Scripts can have `#` sections to jump between with keys 1–9, `[stage directions]` that are shown but not read, and `**bold**` words. Your script and settings are saved only in this browser.
+
+### Features
+
+- **Reads at your pace**: Set the speed in words per minute, the way speakers think about pace, and see the total speaking time before you start.
+- **Follows your voice**: Read aloud and the text keeps up, slowing when you slow down and stopping when you stop – no one needs to work the scroll.
+- **Eye contact on camera**: Put the reading line near the top of the screen and narrow the text, so your eyes stay close to the webcam while you read.
+- **Ready for real teleprompters**: Mirror the text for beam-splitter glass, flip it for upside-down rigs, and drive it with a clicker or Bluetooth remote.
+- **Record yourself**: Turn on the camera to see yourself behind the words and record a take straight to your device – no upload, no watermark.
+- **Private**: Your script stays in this browser. With on-device speech, not even your voice leaves your computer.
+
+### How to use the online teleprompter
+
+1. **Add your script** — Paste or type it, or **Open** a text file. Use `#` for section headings and `[brackets]` for notes to yourself.
+2. **Choose how it moves** — Pick **Steady scroll** and a speed, or **Follow my voice** and your language.
+3. **Set up the screen** — Choose the text size, colours and reading line; turn on **Mirror** for teleprompter glass or the camera to record yourself.
+4. **Start** — Press **Start prompter**. After the countdown, read along; press Space to pause and the arrow keys to move or change speed.
+5. **Finish** — Press Esc or ✕ to close. **Carry on** picks up where you stopped.
+
+### Guide
+
+#### How fast should a teleprompter scroll?
+
+As fast as you speak naturally – which is why the speed here is set in words per minute rather than an abstract number. Start at the default of 140 and adjust with the arrow keys while reading; the prompter remembers your speed for next time.
+
+| Delivery | Words per minute (about) | Example |
+| --- | --- | --- |
+| Slow and deliberate | 100–120 | speeches, training videos, reading in a second language |
+| Presentation | 120–140 | talks, webinars, explainer videos |
+| Conversational | 140–160 | YouTube, vlogs, interviews |
+| Brisk | 160–190 | ads, news-style updates, short-form video |
+
+#### Writing a script that reads well
+
+- Write the way you talk: short sentences, everyday words, contractions.
+- One idea per paragraph, with a blank line between them – the gaps are natural places to breathe.
+- Spell out anything awkward to say: “twenty twenty-six”, “J-S-O-N”.
+- Use `[pause]`, `[smile]` or `[show the product]` for directions you should not read aloud.
+- Mark the few words to stress with `**stars**` – not whole sentences.
+- Split long scripts into `#` sections, and record them as separate takes.
+
+#### Keeping eye contact with a webcam
+
+Viewers notice when your eyes drift down the screen. Put the reading line high (20–30 %), make the text column narrow (50–70 %) and sit far enough back that the lines are small movements for your eyes. On a laptop, a browser window placed just under the camera works better than full screen.
+
+For a real teleprompter, a tablet lies under a sheet of beam-splitter glass in front of the lens. The glass reflects the screen, so turn on **Mirror the text** to read it the right way round.
+
+### FAQ
+
+**Where does Online Teleprompter run?**
+Online Teleprompter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How does voice scrolling work?**
+Your browser’s speech recognition turns what you say into words, and the prompter matches them against the script – allowing for misheard words, skipped words and numbers said aloud – then smoothly moves the word you are on to the reading line. If you go off-script, it waits until it hears a line it recognises.
+
+**Is my voice sent anywhere?**
+Not when your browser can recognise speech on the device, which the page tells you – Chrome and Edge can, for many languages, after downloading a speech pack once. Otherwise voice following only starts after you allow your browser’s online speech service (Google’s for Chrome, Microsoft’s for Edge, Apple’s for Safari), which receives the audio. Toolspire itself never receives your voice or your script.
+
+**Does it work on an iPad or phone?**
+Yes. Steady scrolling, mirror mode, tap to pause and drag to scroll work in every modern mobile browser, and the screen is kept awake while you read. Voice following works in Safari and Chrome on iPhone and iPad, and in Chrome on Android.
+
+**Can I control it with a remote?**
+Yes. Presentation clickers and Bluetooth page turners send Page Down/Page Up or arrow keys, which move the script forward and back; their blank-screen button (B or .) starts and stops it. A Bluetooth keyboard works too – see the keyboard list under the Start button.
+
+**Can I record myself while reading?**
+Turn on **Camera behind the text**, start the prompter and press **Record**. When you stop, the video downloads to your device – as MP4 where the browser can make it (Chrome, Edge, Safari), otherwise WebM. Nothing is uploaded.
+
+**Why is my text backwards?**
+**Mirror the text** is on. That is for teleprompter glass, which reflects the screen; turn it off to read straight from the screen. Press M in the prompter to switch.
+
+**Where is my script saved?**
+In this browser’s local storage, on this device only, so it is still there next time you open the page. Clearing your browser data removes it.
+
+## Online Notepad
+
+URL: https://justtools.info/text-tools/online-notepad/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-15
+
+Online Notepad on Toolspire: Notepad that saves as you type, right on your device: many notes, search, find and replace, open and save text files.
+
+### At a glance
+
+- Online Notepad on Toolspire: saves as you type into your **browser’s own storage** (IndexedDB) – no account and no upload. Open the page again on the same device and your notes are there.
+- Keep **any number of notes**: search across titles and text, pin the important ones, and get deleted notes back from the **trash** for 30 days.
+- **Find and replace** with match case, whole words and regular expressions (with `$1` groups); every match is highlighted in the text.
+- **Open text files** in UTF-8, UTF-16 or Windows-1252. In Chrome and Edge, **Ctrl+S saves back to the same file**; other browsers download a .txt or .md file.
+- **Share a note as a link**: the text is compressed into the part of the link after #, which browsers never send to a web server.
+- Notepad habits kept: **F5** types the time and date, a first line of **.LOG** adds a time stamp each time the note is opened, Tab types a tab, plus word wrap, font and size.
+- Notes stay in step across open tabs. Back up everything as one JSON file, or download all notes as a ZIP of .txt files.
+
+### Features
+
+- **Nothing to lose**: There is no Save button to forget: each change is stored within a moment, and again when you close the tab or switch away.
+- **Private by design**: Your notes are written to this browser only. There is no account, no server copy and no tracking of what you write.
+- **Proper find and replace**: Highlights every match, steps through them with Enter, and replaces one or all – with regular expressions for the tricky jobs.
+- **Works with your files**: Open .txt, .md, .csv, .log or code files, edit them, and save them back where they came from (Chrome and Edge) or download a copy.
+- **Focus mode**: Hide everything but the page for distraction-free writing, in the font and size you like.
+- **Yours to take away**: Back up all notes in one file and restore them on another computer or browser, or send a single note as a link.
+
+### How to use the online notepad
+
+1. **Start writing** — Type in the editor. The first line becomes the note’s title unless you give it one.
+2. **Add more notes** — Press **New** (or Alt+N). Your notes are listed on the left – on a phone, under **Notes** – newest first.
+3. **Find things** — Search the list to find a note, or press Ctrl+F to find (and Ctrl+H to replace) inside the one you are reading.
+4. **Open and save files** — Use **Open** for a text file and **Save** (Ctrl+S) to write it to a file. More options are in the ⋯ menu.
+5. **Keep a backup** — Now and then, choose **Back up everything** in the menu; **Restore or import** brings the notes back.
+
+### Guide
+
+#### Where are my notes kept?
+
+in this tab, on this device: the notes go into IndexedDB, the browser’s built-in database for websites. They survive closing the tab and restarting the computer, and no one else can read them – including Toolspire.
+
+They are removed if you clear this site’s data or browsing history, and a private window forgets them when it closes. Browsers can also clear storage of sites you have not used for a long time when disk space runs low; **Protect notes from clean-up** in the menu asks the browser not to. For anything important, keep a backup file.
+
+#### Keyboard shortcuts
+
+On a Mac, use Cmd instead of Ctrl.
+
+| Keys | Does |
+| --- | --- |
+| Ctrl + S | save to a file (back to the same file in Chrome and Edge) |
+| Ctrl + O | open text files as new notes |
+| Ctrl + F | find in the note |
+| Ctrl + H | find and replace |
+| Enter / Shift + Enter | next / previous match |
+| Alt + N | new note |
+| F5 | type the time and date |
+| Ctrl + P | print the note |
+| Esc, then Tab | leave the editor with the keyboard |
+
+#### Regular expressions in find and replace
+
+| Pattern | Matches | Example |
+| --- | --- | --- |
+| `\d+` | a run of digits | order **1042** |
+| `\w+@\w+\.\w+` | a simple e-mail address | **ana@site.com** |
+| `^- ` | “- ” at the start of a line | list items |
+| `\s+$` | spaces at the end of a line | trailing spaces |
+| `(\d+)-(\d+)-(\d+)` | a date, in three groups | replace with `$3/$2/$1` |
+| `colou?r` | colour or color | both spellings |
+
+#### Sharing a note by link
+
+**Share link** copies a link with the note inside it, compressed after the # sign. Browsers do not send that part of a link to the web server, so the note is not stored anywhere – it exists only in the link and wherever you paste it. Whoever opens the link sees the note and can save a copy to their own notes.
+
+Anyone with the link can read the note, so share it the way you would share the text itself. Very long notes make very long links, which some chat apps cut short; send a file instead.
+
+### FAQ
+
+**Where does Online Notepad run?**
+Online Notepad runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is this online notepad private?**
+Yes. Notes are saved in this tab on this device and never sent to Toolspire or anyone else. The only way a note leaves your device is if you download it, save it to a file, or copy a share link yourself.
+
+**Will my notes still be here tomorrow?**
+Yes, on the same device and browser, unless you clear this site’s data or use a private window. For safety, use **Protect notes from clean-up** and keep a backup with **Back up everything**.
+
+**How do I move my notes to another computer?**
+Choose **Back up everything (.json)** in the menu, copy the file to the other computer, open this page there and choose **Restore or import…**. Notes that already exist are kept unless the backup has a newer version.
+
+**Can I edit a .txt file and save it back?**
+Yes. Press **Open** (Ctrl+O) and choose the file. In Chrome and Edge, **Save** (Ctrl+S) writes your changes back to that same file after you allow it once. Firefox and Safari do not let websites write to files, so Save downloads a copy instead.
+
+**What does .LOG do?**
+It is a trick from Windows Notepad: if the first line of a note is exactly `.LOG`, the time and date are added at the end each time you open the note – handy for a diary or a work log. F5 types the time and date at the cursor.
+
+**Does it work offline?**
+Once the page has loaded, writing, saving and searching need no connection, because everything happens in this tab.
+
+**Can I format text or use Markdown?**
+This is a plain-text notepad, which keeps it fast and its files universal. You can write Markdown and download it as .md, or see it formatted in the [Markdown Previewer](https://justtools.info/developer-tools/markdown-previewer/).
+
+## Lorem Ipsum Generator
+
+URL: https://justtools.info/text-tools/lorem-ipsum-generator/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Lorem Ipsum Generator on Toolspire. Generate lorem ipsum paragraphs for a mockup. Choose how many paragraphs and sentences.
+
+### At a glance
+
+- Lorem Ipsum Generator on Toolspire: **Lorem Ipsum Generator** runs in the browser. Nothing you type is uploaded.
+- Filler text for a layout. It is nonsense on purpose, so a design review does not get stuck reading real copy.
+- The working is shown next to the result so you can check the figure before you copy it.
+- There is no account, no watermark and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you change the inputs.
+- **Copy in one click**: Copy the result without selecting it by hand.
+- **Private**: The calculation stays on this device.
+
+### How to use the Lorem Ipsum Generator
+
+1. **Enter the numbers** — Fill the fields. Empty or impossible values leave the result blank instead of inventing one.
+2. **Read the result** — The main figure is the answer. The line under it is the working or the assumptions.
+3. **Copy it** — Use the copy button if you are pasting into a document, a cheque or a stylesheet.
+
+### Guide
+
+#### What this page is for
+
+Filler text for a layout. It is nonsense on purpose, so a design review does not get stuck reading real copy.
+
+### FAQ
+
+**Where does Lorem Ipsum Generator run?**
+Lorem Ipsum Generator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Lorem Ipsum Generator free?**
+Yes. There is no account and no limit on how often you run it.
+
+**Is my input uploaded?**
+No. The page calculates in this tab. Closing the tab clears what you typed.
+
+**Can I rely on this for a legal or medical decision?**
+Use it to draft and to check your own arithmetic. Tax, employment and health rules have exceptions — confirm anything you will file or act on.
+
+**Does it work on a phone?**
+Yes. The fields are ordinary inputs and work in a current mobile browser.
+
+## Duplicate Line Remover
+
+URL: https://justtools.info/text-tools/duplicate-line-remover/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Duplicate Line Remover on Toolspire: Remove repeated lines from a list, with options to ignore case, trim spaces, drop blank lines and sort what remains.
+
+### At a glance
+
+- Duplicate Line Remover on Toolspire: **Duplicate Line Remover** runs in the browser. Nothing you type is uploaded.
+- Paste a list. The first copy of each line stays, later copies go. Nothing is uploaded.
+- The working is shown next to the result so you can check the figure before you copy it.
+- There is no account, no watermark and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you change the inputs.
+- **Copy in one click**: Copy the result without selecting it by hand.
+- **Private**: The calculation stays on this device.
+
+### How to use the Duplicate Line Remover
+
+1. **Enter the numbers** — Fill the fields. Empty or impossible values leave the result blank instead of inventing one.
+2. **Read the result** — The main figure is the answer. The line under it is the working or the assumptions.
+3. **Copy it** — Use the copy button if you are pasting into a document, a cheque or a stylesheet.
+
+### Guide
+
+#### What this page is for
+
+Paste a list. The first copy of each line stays, later copies go. Nothing is uploaded.
+
+### FAQ
+
+**Where does Duplicate Line Remover run?**
+Duplicate Line Remover runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Duplicate Line Remover free?**
+Yes. There is no account and no limit on how often you run it.
+
+**Is my input uploaded?**
+No. The page calculates in this tab. Closing the tab clears what you typed.
+
+**Can I rely on this for a legal or medical decision?**
+Use it to draft and to check your own arithmetic. Tax, employment and health rules have exceptions — confirm anything you will file or act on.
+
+**Does it work on a phone?**
+Yes. The fields are ordinary inputs and work in a current mobile browser.
+
+## Morse Code Translator
+
+URL: https://justtools.info/text-tools/morse-code-translator/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Morse Code Translator on Toolspire: Translate text into Morse code and Morse back into text. Letters are separated by spaces and words by a slash.
+
+### At a glance
+
+- Morse Code Translator on Toolspire: **Morse Code Translator** runs in the browser. Nothing you type is uploaded.
+- International Morse for letters, digits and common punctuation. Decoding expects a space between letters.
+- The working is shown next to the result so you can check the figure before you copy it.
+- There is no account, no watermark and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you change the inputs.
+- **Copy in one click**: Copy the result without selecting it by hand.
+- **Private**: The calculation stays on this device.
+
+### How to use the Morse Code Translator
+
+1. **Enter the numbers** — Fill the fields. Empty or impossible values leave the result blank instead of inventing one.
+2. **Read the result** — The main figure is the answer. The line under it is the working or the assumptions.
+3. **Copy it** — Use the copy button if you are pasting into a document, a cheque or a stylesheet.
+
+### Guide
+
+#### What this page is for
+
+International Morse for letters, digits and common punctuation. Decoding expects a space between letters.
+
+### FAQ
+
+**Where does Morse Code Translator run?**
+Morse Code Translator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Morse Code Translator free?**
+Yes. There is no account and no limit on how often you run it.
+
+**Is my input uploaded?**
+No. The page calculates in this tab. Closing the tab clears what you typed.
+
+**Can I rely on this for a legal or medical decision?**
+Use it to draft and to check your own arithmetic. Tax, employment and health rules have exceptions — confirm anything you will file or act on.
+
+**Does it work on a phone?**
+Yes. The fields are ordinary inputs and work in a current mobile browser.
+
+## Slug Generator
+
+URL: https://justtools.info/text-tools/slug-generator/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Slug Generator on Toolspire: Make a URL slug from a title: lowercase, accents removed, spaces and punctuation turned into hyphens or underscores.
+
+### At a glance
+
+- Slug Generator on Toolspire: **Slug Generator** runs in the browser. Nothing you type is uploaded.
+- Handy for a blog post, a file name or a heading id. “Crème brûlée & café” becomes creme-brulee-and-cafe.
+- The working is shown next to the result so you can check the figure before you copy it.
+- There is no account, no watermark and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you change the inputs.
+- **Copy in one click**: Copy the result without selecting it by hand.
+- **Private**: The calculation stays on this device.
+
+### How to use the Slug Generator
+
+1. **Enter the numbers** — Fill the fields. Empty or impossible values leave the result blank instead of inventing one.
+2. **Read the result** — The main figure is the answer. The line under it is the working or the assumptions.
+3. **Copy it** — Use the copy button if you are pasting into a document, a cheque or a stylesheet.
+
+### Guide
+
+#### What this page is for
+
+Handy for a blog post, a file name or a heading id. “Crème brûlée & café” becomes creme-brulee-and-cafe.
+
+### FAQ
+
+**Where does Slug Generator run?**
+Slug Generator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Slug Generator free?**
+Yes. There is no account and no limit on how often you run it.
+
+**Is my input uploaded?**
+No. The page calculates in this tab. Closing the tab clears what you typed.
+
+**Can I rely on this for a legal or medical decision?**
+Use it to draft and to check your own arithmetic. Tax, employment and health rules have exceptions — confirm anything you will file or act on.
+
+**Does it work on a phone?**
+Yes. The fields are ordinary inputs and work in a current mobile browser.
+
+## Text Reverser
+
+URL: https://justtools.info/text-tools/text-reverser/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Reverse a piece of text character by character, or flip the order of the words and leave each word itself intact. Open Text Reverser on Toolspire.
+
+### At a glance
+
+- Text Reverser on Toolspire: **Text Reverser** runs in the browser. Nothing you type is uploaded.
+- Character mode mirrors the whole string. Word mode keeps spelling and swaps the sequence.
+- Change any field and the result updates immediately.
+- There is no account and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you edit the inputs.
+- **Copy**: Copy the result with one button.
+- **Private**: The calculation stays on this device.
+
+### How to use the Text Reverser
+
+1. **Fill the fields** — Enter the numbers the labels ask for.
+2. **Read the result** — The large figure is the answer. The line under it shows the working.
+3. **Copy** — Use the copy button if you are pasting the figure somewhere else.
+
+### Guide
+
+#### What this page is for
+
+Character mode mirrors the whole string. Word mode keeps spelling and swaps the sequence.
+
+### FAQ
+
+**Where does Text Reverser run?**
+Text Reverser runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Text Reverser free?**
+Yes. There is no account and no limit.
+
+**Is my data uploaded?**
+No. The page calculates in this tab.
+
+**Can I treat this as official advice?**
+It is arithmetic for planning. Tax, payroll and investment rules have exceptions — confirm anything you will file or rely on.
+
+**Does it work on a phone?**
+Yes. The inputs work in a current mobile browser.
+
+## Palindrome Checker
+
+URL: https://justtools.info/text-tools/palindrome-checker/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Palindrome Checker on Toolspire: Check whether a word or sentence reads the same forwards and backwards. Spaces, punctuation and capital letters are ignored.
+
+### At a glance
+
+- Palindrome Checker on Toolspire: **Palindrome Checker** runs in the browser. Nothing you type is uploaded.
+- “A man, a plan, a canal: Panama” counts. Only letters and digits are compared.
+- Change any field and the result updates immediately.
+- There is no account and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you edit the inputs.
+- **Copy**: Copy the result with one button.
+- **Private**: The calculation stays on this device.
+
+### How to use the Palindrome Checker
+
+1. **Fill the fields** — Enter the numbers the labels ask for.
+2. **Read the result** — The large figure is the answer. The line under it shows the working.
+3. **Copy** — Use the copy button if you are pasting the figure somewhere else.
+
+### Guide
+
+#### What this page is for
+
+“A man, a plan, a canal: Panama” counts. Only letters and digits are compared.
+
+### FAQ
+
+**Where does Palindrome Checker run?**
+Palindrome Checker runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Palindrome Checker free?**
+Yes. There is no account and no limit.
+
+**Is my data uploaded?**
+No. The page calculates in this tab.
+
+**Can I treat this as official advice?**
+It is arithmetic for planning. Tax, payroll and investment rules have exceptions — confirm anything you will file or rely on.
+
+**Does it work on a phone?**
+Yes. The inputs work in a current mobile browser.
+
+## Extra Space Remover
+
+URL: https://justtools.info/text-tools/remove-extra-spaces/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Extra Space Remover on Toolspire: Collapse repeated spaces and tabs, trim each line, and leave a single break between lines.
+
+### At a glance
+
+- Extra Space Remover on Toolspire: **Extra Space Remover** runs in the browser. Nothing you type is uploaded.
+- Useful after a copy from a PDF or a chat. Punctuation is not changed.
+- Change any field and the result updates immediately.
+- There is no account and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you edit the inputs.
+- **Copy**: Copy the result with one button.
+- **Private**: The calculation stays on this device.
+
+### How to use the Extra Space Remover
+
+1. **Fill the fields** — Enter the numbers the labels ask for.
+2. **Read the result** — The large figure is the answer. The line under it shows the working.
+3. **Copy** — Use the copy button if you are pasting the figure somewhere else.
+
+### Guide
+
+#### What this page is for
+
+Useful after a copy from a PDF or a chat. Punctuation is not changed.
+
+### FAQ
+
+**Where does Extra Space Remover run?**
+Extra Space Remover runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Extra Space Remover free?**
+Yes. There is no account and no limit.
+
+**Is my data uploaded?**
+No. The page calculates in this tab.
+
+**Can I treat this as official advice?**
+It is arithmetic for planning. Tax, payroll and investment rules have exceptions — confirm anything you will file or rely on.
+
+**Does it work on a phone?**
+Yes. The inputs work in a current mobile browser.
+
+## Find and Replace
+
+URL: https://justtools.info/text-tools/find-and-replace/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Find and Replace on Toolspire. Find a word or phrase and replace every match, with an option to ignore capital letters. The count of replacements is shown.
+
+### At a glance
+
+- Find and Replace on Toolspire: **Find and Replace** runs in the browser. Nothing you type is uploaded.
+- The search is literal, not a regular expression. Nothing is uploaded.
+- Change any field and the result updates immediately.
+- There is no account and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you edit the inputs.
+- **Copy**: Copy the result with one button.
+- **Private**: The calculation stays on this device.
+
+### How to use the Find and Replace
+
+1. **Fill the fields** — Enter the numbers the labels ask for.
+2. **Read the result** — The large figure is the answer. The line under it shows the working.
+3. **Copy** — Use the copy button if you are pasting the figure somewhere else.
+
+### Guide
+
+#### What this page is for
+
+The search is literal, not a regular expression. Nothing is uploaded.
+
+### FAQ
+
+**Where does Find and Replace run?**
+Find and Replace runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Find and Replace free?**
+Yes. There is no account and no limit.
+
+**Is my data uploaded?**
+No. The page calculates in this tab.
+
+**Can I treat this as official advice?**
+It is arithmetic for planning. Tax, payroll and investment rules have exceptions — confirm anything you will file or rely on.
+
+**Does it work on a phone?**
+Yes. The inputs work in a current mobile browser.
+
+## Text Diff Checker
+
+URL: https://justtools.info/text-tools/text-diff-checker/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Text Diff Checker on Toolspire: Compare two texts line by line with a longest-common-subsequence diff, and list the lines that were removed or added.
+
+### At a glance
+
+- Text Diff Checker on Toolspire: the diff is a **line LCS**. A line that appears in both texts, in an order the LCS can keep, is treated as unchanged.
+- Changing dog to bird under an unchanged cat reports **1 removed and 1 added**.
+- Each side is limited to **200 lines**. A longer paste is refused so the comparison stays quick in the tab.
+- The detail shows up to **six removed and six added** lines, prefixed with − and +.
+
+### Features
+
+- **Lines, not characters**: A one-word edit marks the whole line. This is the view you want for lists, logs and paragraphs, not a code-review character diff.
+- **Order is part of the match**: The LCS keeps a shared sequence. A line that moved may show as removed and added if keeping it would break the sequence.
+- **A short preview**: The counts are the headline. The detail quotes the first changed lines so you do not scroll a 200-line dump.
+
+### How to use the Text Diff Checker
+
+1. **Paste the older text on the left** — Removed lines are lines from the left that the LCS could not keep. Added lines are new lines on the right.
+2. **Keep one paragraph per line if you care about paragraphs** — A soft wrap that became a newline is a different line. Paste the texts the way you want them compared.
+3. **Read a zero as a match** — “0 removed, 0 added” means every line matched in a shared order. It does not mean the files have the same name.
+
+### Guide
+
+#### What a line LCS will not catch
+
+Longest common subsequence walks the two lists and keeps the longest shared sequence of equal lines. It does not understand that a sentence was edited in the middle, and it does not ignore blank lines unless you delete them first. Two hundred lines is the cap because the table is rows times columns. For a one-line typo, find-and-replace is the faster tool. For a shuffled list, expect many adds and removes.
+
+### FAQ
+
+**Where does Text Diff Checker run?**
+Text Diff Checker runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Does this compare words inside a line?**
+No. If any character on the line differs, the whole line is removed and the new line is added.
+
+**What does 1 removed, 1 added mean for cat/dog versus cat/bird?**
+Cat was kept. Dog was removed. Bird was added.
+
+**Why is there a 200-line cap?**
+The comparison builds a grid of the two lengths. Past 200 lines a side the page refuses instead of stalling the tab.
+
+**Will reordering identical lines show as equal?**
+Not always. The algorithm needs a shared sequence. A full reversal of unique lines shows as a large change.
+
+## Reading Time Calculator
+
+URL: https://justtools.info/text-tools/reading-time-calculator/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Reading Time Calculator on Toolspire: Estimate how long a text takes to read at 238 words per minute, plus a slower 200 and a speaking pace of 150.
+
+### At a glance
+
+- Reading Time Calculator on Toolspire: the headline is **words ÷ 238**, shown as minutes and seconds. 238 words is **1 min 0 sec**.
+- **200 wpm** is the second figure. The same 238 words take **1 min 11 sec** at that slower pace.
+- **150 wpm** is labelled as speaking time. 238 words take **1 min 35 sec** to say.
+- A word is a **run of non-space characters**. The word counter on this site is the page for characters, sentences and the research note behind 238.
+
+### Features
+
+- **Three paces, named**: 238 is silent reading, 200 is the blog convention, 150 is speaking. The headline does not hide which one it used.
+- **Minutes and seconds**: A 90-second piece is not shown as 1.5 minutes, which is easy to misread as a minute and a half in the other direction. It is 1 min 30 sec.
+- **The count sits in the detail**: You can see how many tokens were divided, which matters when a paste is full of URLs.
+
+### How to use the Reading Time Calculator
+
+1. **Paste the text a reader would actually see** — Navigation, captions and a bibliography change the time. Include only what you are timing.
+2. **Use the headline for silent reading** — 238 wpm matches the word counter. Use 200 only if you are comparing with a tool that published that round number.
+3. **Use 150 when the text will be spoken** — A script read aloud is slower than a page read silently. The detail’s speaking figure is the one for a voice-over.
+
+### Guide
+
+#### Why 238 and not a round 200
+
+The word counter on Toolspire cites 238 words per minute as the average silent speed for adults reading non-fiction English, from Brysbaert’s 2019 review. Many “reading time” widgets still divide by 200 or 250 and do not say so. This page prints 238 as the headline and keeps 200 beside it, so a number you saw elsewhere can be compared without pretending the two divisors are the same. Speaking uses 150. None of these is a measure of how hard the text is.
+
+### FAQ
+
+**Where does Reading Time Calculator run?**
+Reading Time Calculator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How long is 238 words?**
+One minute at 238 wpm, 1 minute 11 seconds at 200 wpm, and 1 minute 35 seconds spoken at 150 wpm.
+
+**Why does another site say a different time?**
+It is probably dividing by 200, 250 or 300. The detail here includes the 200 wpm figure so you can see that gap.
+
+**Does this match the word counter?**
+The 238 pace does. The word counter also counts characters and sentences. This page is only the time.
+
+**Are numbers and URLs words?**
+Yes. Each run of non-space characters counts as one word. A long URL is one word, not the time it takes to read the letters aloud.
+
+## List Randomizer
+
+URL: https://justtools.info/text-tools/list-randomizer/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Shuffle the lines of a list with Fisher–Yates, so each order of the items is equally likely. The maths stays on your device. Open List Randomizer on Toolspire.
+
+### At a glance
+
+- List Randomizer on Toolspire: the shuffle is **Fisher–Yates**: from the last item back to the second, swap it with an item at a random index from the start through itself.
+- Every order of a given list is **equally likely**, which a “swap two random items once” shuffle is not.
+- Blank lines are dropped. **Fewer than two items** is refused, because there is nothing to reorder.
+- The button draws with **Math.random**. The same list can come back in the original order; that outcome is allowed.
+
+### Features
+
+- **Lines stay whole**: A line is one item, even if it contains commas or spaces. The shuffle does not split phrases.
+- **A new order on each press**: Typing does not reshuffle under your cursor. Only the button does.
+- **The original is still in the box**: The textarea is not replaced. The shuffled copy is the result, so you can shuffle again from the same source.
+
+### How to use the List Randomizer
+
+1. **Put one item on each line** — A paragraph in a single line is one item. Break the list first if each word should move on its own.
+2. **Press shuffle** — The result is a new order of the same lines. Duplicates you typed stay duplicated.
+3. **Shuffle again from the box, not from the result** — The source stays put. If you paste the result back into the box, you are shuffling that new order, which is also fair.
+
+### Guide
+
+#### What “equally likely” requires
+
+Fisher–Yates walks the list once and swaps each index i with a uniformly chosen index from 0 through i. Done from the end, that produces each permutation with the same probability. Swapping two random positions a fixed number of times does not. This page uses the single-pass method. Math.random is suitable for a playlist, a revision order or a reading list. It is not a draw for money.
+
+### FAQ
+
+**Where does List Randomizer run?**
+List Randomizer runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Does each order have the same chance?**
+Yes, for the Fisher–Yates shuffle this page uses. That includes the original order, which will sometimes come back.
+
+**Will duplicate lines be merged?**
+No. Two identical lines are two items and both survive.
+
+**Can I shuffle a single line?**
+No. One item has only one order. Add a second line.
+
+**Does the box change?**
+No. The source stays in the textarea. The shuffled lines are the result under it.
+
+## Hashtag Generator
+
+URL: https://justtools.info/text-tools/hashtag-generator/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Turn a caption into hashtags by keeping real words, dropping short stop-words, and prefixing each kept word with #. Open Hashtag Generator on Toolspire.
+
+### At a glance
+
+- Hashtag Generator on Toolspire: words are the **letters and digits** in the caption. Punctuation is not part of the tag.
+- **Stop-words** such as the, and, in, of, for and to are dropped. **“Best coffee shops in Delhi”** becomes **#Best #Coffee #Shops #Delhi**.
+- A word under **3 characters** is dropped. Duplicates are dropped. The list stops at **12 tags**.
+- Tags are **capitalised**, not looked up. The page does not know which tags are popular this week.
+
+### Features
+
+- **From the words you wrote**: No extra tags are invented. If “Delhi” is not in the caption, #Delhi is not added.
+- **A stop-list you can see in the result**: The detail says how many tags were kept. The missing words are the stop-words and the short ones.
+- **A cap of 12**: A long essay does not become eighty tags. The first twelve kept words are the set.
+
+### How to use the Hashtag Generator
+
+1. **Paste the caption, not a list of tags you already made** — Existing # marks are ignored because the word characters are what get read. You do not need to strip them.
+2. **Put the place and the topic in the sentence** — Only words in the caption can become tags. A city you forgot to mention will not appear.
+3. **Delete tags that are too broad before you post** — #Best is a weak tag. The page keeps it because you wrote it. You can erase it from the copy.
+
+### Guide
+
+#### A caption is not a trend report
+
+This generator tokenises the sentence, drops a fixed list of English function words and very short tokens, and prefixes a hash. It cannot see what is trending, and it should not pretend a tag is a good one because it is long. Twelve is the cap so a blog post does not become a block of tags. Capitalisation is cosmetic. Matching the exact tag a community already uses is still your edit.
+
+### FAQ
+
+**Where does Hashtag Generator run?**
+Hashtag Generator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What hashtags come from “Best coffee shops in Delhi”?**
+#Best #Coffee #Shops #Delhi. “In” is a stop-word and is left out.
+
+**Will this find trending tags?**
+No. It only uses words from your caption. Popularity is not something the page can see.
+
+**Why was a word dropped?**
+It was shorter than three characters, it was on the stop-list, or it repeated a tag already kept. The list also stops at twelve.
+
+**Are non-English words kept?**
+Letters A to Z and digits are kept. A word in another script is not turned into a tag by this page.
+
+## Sort Lines
+
+URL: https://justtools.info/text-tools/sort-lines/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Sort lines with a case-sensitive alphabetical order and drop blanks. The lines b, a and C become C, then a, then b. Open Sort Lines on Toolspire.
+
+### At a glance
+
+- Sort Lines on Toolspire: lines are ordered with **locale-independent code-point order**, after trimming.
+- **b, a, C** becomes **C, a, b**, because the code point of C is before a.
+- Blank lines are **dropped**, not sorted to the top as empty strings you still see.
+- **10** sorts before **2**. This is not a numeric sort.
+
+### Features
+
+- **One line, one item**: Commas do not split a line. “Ana Lopez” stays together.
+- **Case is significant**: C is not folded into c. A dictionary order would differ.
+- **The source box is not replaced**: The sorted copy is the result. Shuffle and sort can be compared.
+
+### How to use the Sort Lines
+
+1. **Put one item on each line** — A sentence with no line break is one item.
+2. **Expect capitals first** — If you wanted a, b, C regardless of case, this order will surprise you. It is the code-point order.
+3. **Do not use it for 1, 2, 10** — Those sort as text. 10 comes first.
+
+### Guide
+
+#### Alphabetical here means code points
+
+The sort compares the trimmed lines as text. Uppercase letters have smaller code points than lowercase letters, so C precedes a. That is stable and boring, and it is not the order a phone book uses when it ignores case. Numeric strings are text too, so “10” is less than “2” because “1” is less than “2”. Blank lines are removed so they do not form a block of empties at one end.
+
+### FAQ
+
+**Where does Sort Lines run?**
+Sort Lines runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do b, a and C sort?**
+C, then a, then b.
+
+**Why is C before a?**
+The comparison is case-sensitive and uses code points. C comes before any lowercase letter.
+
+**Will 2 come before 10?**
+No. As text, 10 comes first.
+
+**Are blank lines kept?**
+No. They are dropped.
+
+## Extract Emails
+
+URL: https://justtools.info/text-tools/extract-emails/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Extract Emails on Toolspire: Pull email-shaped addresses out of a paste. “Write ada@example.com today” yields ada@example.com, once, even if it is repeated.
+
+### At a glance
+
+- Extract Emails on Toolspire: A match needs **local@domain.tld**. “ada@example.com” is kept.
+- Duplicates are **dropped**. The sample sentence contains the same address twice and lists it once.
+- The page does **not** contact the address or check MX records.
+- Words without an @ are ignored. “example.com” alone is not an email.
+
+### Features
+
+- **Shape, not delivery**: A made-up domain still matches. Existence is a different question.
+- **One line each**: The result is a list you can paste into a spreadsheet.
+- **Repeats collapse**: The detail counts how many copies were skipped.
+
+### How to use the Extract Emails
+
+1. **Paste the letter, the page or the export** — Line breaks do not matter. The scan is over the whole text.
+2. **Expect ada@example.com from the sample** — It should appear once.
+3. **Do not treat the list as permission to mail people** — Finding an address is not consent.
+
+### Guide
+
+#### A pattern, then a unique list
+
+The scanner looks for a local part, an @, a domain and a final dot plus a short ending. It is the pattern people mean by “pull the emails out of this page”, and it will miss unusual quoted addresses and accept some strings that no mail server would deliver. Repeated addresses are listed once. Nothing is sent, and nothing is looked up.
+
+### FAQ
+
+**Where does Extract Emails run?**
+Extract Emails runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What does the sample return?**
+ada@example.com, once.
+
+**Does it verify the inbox?**
+No. The shape is the whole test.
+
+**Why was an address missed?**
+It may use characters outside the simple set, or it may be split across lines with a space.
+
+**Are duplicates listed twice?**
+No. The second copy is counted in the detail and left off the list.
+
+## Extract URLs
+
+URL: https://justtools.info/text-tools/extract-urls/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Pull http and https links out of a paste and strip a trailing period or comma. One link repeated twice is listed once. Open Extract URLs on Toolspire.
+
+### At a glance
+
+- Extract URLs on Toolspire: A link must start with **http://** or **https://**.
+- A trailing **period or comma** is removed, so a sentence does not become part of the path.
+- The sample’s **https://example.com/a** is listed **once**.
+- “example.com” with **no scheme** is not a match.
+
+### Features
+
+- **Scheme required**: Bare domains are too easy to confuse with ordinary words.
+- **Sentence punctuation comes off**: The period in “a.” is not part of the URL.
+- **Unique list**: Repeats are counted and collapsed.
+
+### How to use the Extract URLs
+
+1. **Paste the notes or the export** — The scan reads the whole box.
+2. **Check the sample loses its period** — The result should be https://example.com/a without a dot at the end.
+3. **Add http:// if a bare domain was skipped** — That skip is deliberate.
+
+### Guide
+
+#### The scheme is what makes it a link
+
+http and https are required so the extractor does not grab every dotted word. The match runs to the next whitespace, then drops a trailing period, comma or closing parenthesis that a sentence stuck on. The same URL twice becomes one line. There is no fetch, so a private address in the paste stays in the tab and is not requested.
+
+### FAQ
+
+**Where does Extract URLs run?**
+Extract URLs runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What does the sample return?**
+https://example.com/a, once, without the period.
+
+**Why is example.com ignored?**
+There is no http:// or https:// in front of it.
+
+**Does this open the links?**
+No. It only lists them.
+
+**What about ftp?**
+It is not matched. The pattern is http and https.
+
+## Word Frequency Counter
+
+URL: https://justtools.info/text-tools/word-frequency-counter/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Count words and list them most frequent first. “cat cat dog” reports cat twice and dog once. Case is folded. The maths stays on your device.
+
+### At a glance
+
+- Word Frequency Counter on Toolspire: **cat cat dog** reports **cat 2**, then **dog 1**.
+- Case is folded. **Cat** and **cat** are one word.
+- The list is ordered by **count descending**, then by the word.
+- The word counter’s total is a single number. This page is the breakdown.
+
+### Features
+
+- **Most frequent at the top**: A tie falls back to alphabetical order of the folded word.
+- **Letters and digits**: A hyphen splits a word. “well-known” is two tokens.
+- **Not a density percent**: The keyword-density page is the percent. This page is the raw counts.
+
+### How to use the Word Frequency Counter
+
+1. **Paste the passage** — The sample is two cats and one dog.
+2. **Read the first line as the mode** — If several words tie, the alphabetical one among them comes first only after the count sort.
+3. **Use occurrence counter for one word** — This page lists every word. The other page answers “how many times this one”.
+
+### Guide
+
+#### A tally, not a single total
+
+Each run of letters or digits is a word, folded to lower case. “cat cat dog” therefore has cat twice and dog once, and cat is listed first because 2 beats 1. The ordinary word counter would say three words and stop. Frequency is the list behind that total. It will not stem “cats” into “cat”, and it will not drop stop-words. “The” will quite possibly be the top line of a real paragraph.
+
+### FAQ
+
+**Where does Word Frequency Counter run?**
+Word Frequency Counter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What does “cat cat dog” produce?**
+cat 2, then dog 1.
+
+**Are Cat and cat the same?**
+Yes. The tally is case-insensitive.
+
+**Are stop-words removed?**
+No. If you want them gone, delete them before you paste. The hashtag page is the one with a stop-list.
+
+**Does cats match cat?**
+No. There is no stemming.
+
+## Anagram Checker
+
+URL: https://justtools.info/text-tools/anagram-checker/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Anagram Checker on Toolspire: Check whether two phrases use the same letters. “listen” and “silent” are anagrams. Spaces and case are ignored.
+
+### At a glance
+
+- Anagram Checker on Toolspire: **listen** and **silent** are anagrams. Both sort to **eilnst**.
+- Spaces and punctuation are **removed** before the letters are sorted.
+- Case is folded. **Silent** still matches **listen**.
+- A repeated letter must repeat. **hello** and **helo** are not anagrams.
+
+### Features
+
+- **The sorted letters are shown**: You can see the mismatch instead of a bare no.
+- **Spaces do not count**: A phrase and a single word can still match.
+- **Letters only**: Digits are kept. An emoji is not a letter and is dropped.
+
+### How to use the Anagram Checker
+
+1. **Type both phrases** — The sample is listen and silent.
+2. **Read the sorted form** — If the two sorted strings differ, the first difference is the reason.
+3. **Do not expect meanings** — The page checks letters, not whether either side is a dictionary word.
+
+### Guide
+
+#### Sort the letters and compare
+
+Two phrases are anagrams when one is a rearrangement of the other’s letters. The practical test is to drop spaces and punctuation, fold the case, sort the remaining characters, and see if the strings match. listen and silent both become eilnst. hello and helo do not, because one has an extra l. The page does not consult a word list.
+
+### FAQ
+
+**Where does Anagram Checker run?**
+Anagram Checker runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Are listen and silent anagrams?**
+Yes. Both sort to eilnst.
+
+**Do spaces matter?**
+No. They are removed.
+
+**Does case matter?**
+No. Silent matches listen.
+
+**Are hello and helo anagrams?**
+No. hello has two l’s.
+
+## NATO Alphabet
+
+URL: https://justtools.info/text-tools/nato-alphabet/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Spell letters with the NATO phonetic alphabet. “hi” becomes Hotel India. Digits use the spoken NATO digit words. Open NATO Alphabet on Toolspire.
+
+### At a glance
+
+- NATO Alphabet on Toolspire: **hi** becomes **Hotel India**.
+- **A** is **Alfa**, with an f, which is the NATO spelling rather than Alpha.
+- Digits use **Zero, One, Two** and the rest of the NATO digit words, so **5** is **Five**.
+- Spaces and punctuation are **skipped**, and the detail counts them.
+
+### Features
+
+- **The current NATO list**: Alfa, Bravo, Charlie, not the older Able, Baker.
+- **Digits included**: A tail number can be spelled without a second table.
+- **Skipped characters are counted**: A hyphen does not become a word. You are told it was left out.
+
+### How to use the NATO Alphabet
+
+1. **Type the letters you would read over a radio** — The sample hi should read Hotel India.
+2. **Leave punctuation out or let it be skipped** — The count tells you something was ignored.
+3. **Read Alfa with an f** — That spelling is the one on the list, so a search for Alpha still lands on the right word.
+
+### Guide
+
+#### One word per character
+
+The NATO phonetic alphabet gives each letter a word that survives a bad line: Hotel is harder to confuse with Echo than H is with E. This page walks the characters you type and substitutes those words. Alfa is spelled with an f, as in the published alphabet. Digits have their own words. A symbol that is neither is skipped so it does not look like a letter you failed to spell.
+
+### FAQ
+
+**Where does NATO Alphabet run?**
+NATO Alphabet runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How is “hi” spelled?**
+Hotel India.
+
+**Why Alfa and not Alpha?**
+Alfa is the NATO spelling. The page follows that list.
+
+**What about the digit 5?**
+Five.
+
+**What happens to a hyphen?**
+It is skipped, and the detail counts skipped characters.
+
+## ROT13 Encoder
+
+URL: https://justtools.info/text-tools/rot13-encoder/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Rotate letters by 13 places. Hello becomes Uryyb, and Uryyb rotates back to Hello. Digits and spaces stay put. Open ROT13 Encoder on Toolspire.
+
+### At a glance
+
+- ROT13 Encoder on Toolspire: **Hello** rotates to **Uryyb**.
+- **Uryyb** rotates back to **Hello**. The same operation decodes.
+- Only letters move. **Digits, spaces and punctuation stay**.
+- Case is kept. **H** becomes **U**, and **h** becomes **u**.
+
+### Features
+
+- **One operation both ways**: You do not pick encode or decode. A second pass restores the text.
+- **The alphabet wraps**: N is the 14th letter and lands on A.
+- **Not encryption**: The detail says so. Anyone who knows the name can undo it.
+
+### How to use the ROT13 Encoder
+
+1. **Type Hello** — The result should be Uryyb.
+2. **Paste Uryyb back** — You should see Hello. That is the inverse check.
+3. **Do not use it for a password** — It hides nothing from a person who looks.
+
+### Guide
+
+#### Halfway around the alphabet
+
+There are 26 letters. Shifting by 13 and shifting by 13 again returns to the start, so ROT13 does not need a separate decode mode. Hello maps to Uryyb because H is eight letters after A and U is eight letters after N. Characters outside A to Z are copied unchanged, which keeps spaces between the rotated words.
+
+### FAQ
+
+**Where does ROT13 Encoder run?**
+ROT13 Encoder runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is the ROT13 of Hello?**
+Uryyb.
+
+**How do I decode Uryyb?**
+Run ROT13 again. The result is Hello.
+
+**Do numbers change?**
+No.
+
+**Is this a cipher I should trust?**
+No. It is a well-known rotation. It stops a casual glance and nothing more.
+
+## Identifier Case Converter
+
+URL: https://justtools.info/text-tools/identifier-case-converter/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Identifier Case Converter on Toolspire: Split a phrase into words and write camelCase, PascalCase, snake_case and kebab-case.
+
+### At a glance
+
+- Identifier Case Converter on Toolspire: **Hello World** becomes camel **helloWorld**, Pascal **HelloWorld**, snake **hello_world** and kebab **hello-world**.
+- Words split on **spaces, underscores and hyphens**.
+- An existing camelCase word is **not** split. helloWorld stays one word.
+- The slug page is for URLs. This page keeps the four programmer spellings together.
+
+### Features
+
+- **Four spellings**: You do not pick a mode. All four are in the result.
+- **Separators you can see**: Spaces, underscores and hyphens are the cuts.
+- **Not a sentence case tool**: The case converter uppercases a sentence. It does not insert underscores.
+
+### How to use the Identifier Case Converter
+
+1. **Type the words with a separator** — Hello World, hello_world and hello-world all split.
+2. **Read helloWorld on the first line** — That is camelCase, with a lowercase first word.
+3. **Do not expect helloWorld to split** — There is no separator inside it.
+
+### Guide
+
+#### The cut is the separator, not the capital
+
+Programmer case styles are the same words joined differently. Hello and World become helloWorld, HelloWorld, hello_world and hello-world. The split is on spaces, underscores and hyphens. A capital in the middle of helloWorld is not a split, because that would make the converter guess. If you need it split, type hello world.
+
+### FAQ
+
+**Where does Identifier Case Converter run?**
+Identifier Case Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What does Hello World become?**
+helloWorld, HelloWorld, hello_world and hello-world.
+
+**Does hello_world match hello-world?**
+Yes. Both split into hello and world, then all four styles are rebuilt.
+
+**Will it split camelCase?**
+No. Type a space, underscore or hyphen if you want a cut.
+
+**How is this different from the slug generator?**
+A slug is one URL string. This page prints the four identifier styles.
+
+## Strip HTML
+
+URL: https://justtools.info/text-tools/strip-html/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Remove HTML tags and decode &amp;, &lt;, &gt; and &nbsp;. “<p>Hi <b>there</b></p>” becomes “Hi there”. The maths stays on your device.
+
+### At a glance
+
+- Strip HTML on Toolspire: **<p>Hi <b>there</b></p>** becomes **Hi there**.
+- **&amp;** becomes **&**, and **&lt;** becomes **<**.
+- Tags are replaced with a **space**, so words do not glue together.
+- A **<script>** body is not executed, but its text remains if it was in the paste. Delete that text yourself if you do not want it.
+
+### Features
+
+- **A space where the tag was**: Adjacent words survive.
+- **Four entities**: amp, lt, gt and nbsp. Other entities are left as the characters you pasted.
+- **Not a browser**: Nothing is rendered and nothing is fetched.
+
+### How to use the Strip HTML
+
+1. **Paste a fragment** — The sample paragraph should read Hi there.
+2. **Check an ampersand** — &amp; should become &.
+3. **Delete script text you do not want** — The tags go. The words between them stay.
+
+### Guide
+
+#### Tags out, the words between them stay
+
+Each tag, from < to the next >, is replaced by a space. Entities for amp, lt, gt and a non-breaking space are then turned into the characters they name. The spaces collapse, so a bold word in a sentence does not fuse to its neighbours. This is a text extract. It is not a guarantee that the result is safe to drop back into innerHTML, because a broken tag can leave a < behind.
+
+### FAQ
+
+**Where does Strip HTML run?**
+Strip HTML runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What does <p>Hi <b>there</b></p> become?**
+Hi there.
+
+**What happens to &amp;?**
+It becomes &.
+
+**Is script code removed?**
+The script tags are removed. The text between them stays. Do not treat that as a security filter.
+
+**Will it fetch images in the HTML?**
+No. It only edits the string.
+
+## Remove Line Breaks
+
+URL: https://justtools.info/text-tools/remove-line-breaks/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Remove Line Breaks on Toolspire. Join lines into a single paragraph with spaces. A blank line becomes one space, not a paragraph gap.
+
+### At a glance
+
+- Remove Line Breaks on Toolspire: **hello** and **world** on two lines become **hello world**.
+- A blank line does **not** survive as a paragraph break. It becomes the same single space.
+- Spaces and tabs already on the line **collapse** with the join.
+- Wrap text is the tool that **inserts** breaks. This one removes them.
+
+### Features
+
+- **One paragraph**: The result has no newline characters.
+- **Blank lines do not stack spaces**: Three blank lines still leave one space.
+- **The undo is wrap text**: Give that page a column if you need breaks again.
+
+### How to use the Remove Line Breaks
+
+1. **Paste the wrapped paragraph** — The sample should read hello world.
+2. **Expect one line** — A remaining break means the box still has the source, not the result.
+3. **Use wrap text to put breaks back** — This page will not remember where they were.
+
+### Guide
+
+#### Newlines become spaces
+
+A hard wrap from an email or a PDF paste puts a newline in the middle of a sentence. Replacing every run of whitespace, including those newlines, with a single space joins the sentence. A blank line, which was a paragraph boundary, is treated the same way: one space. If you needed the paragraphs kept, this is the wrong page. It is deliberately destructive of vertical space.
+
+### FAQ
+
+**Where does Remove Line Breaks run?**
+Remove Line Breaks runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What happens to hello and world on two lines?**
+They become “hello world”.
+
+**Are blank lines kept?**
+No. They collapse into one space.
+
+**How do I wrap again?**
+Use the wrap-text page and give it a column width.
+
+**Does it trim the ends?**
+Yes. A leading or trailing break does not leave a space at the end.
+
+## Caesar Cipher
+
+URL: https://justtools.info/text-tools/caesar-cipher/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Caesar Cipher on Toolspire: Shift letters by a number of places. A shift of 1 turns Abz into Bca. A shift of 13 is ROT13. Digits stay put.
+
+### At a glance
+
+- Caesar Cipher on Toolspire: A shift of **1** turns **Abz** into **Bca**.
+- **Z** wraps to **A**. **z** wraps to **a**. Case stays.
+- A shift of **13** matches ROT13. **Hello** becomes **Uryyb**.
+- Digits and spaces are **not** shifted.
+
+### Features
+
+- **Any integer shift**: 26 is a full turn and changes nothing. 27 is the same as 1.
+- **Negative shifts decode**: Shift −1 undoes shift 1.
+- **The wrap is in the detail**: You can see the shift was reduced modulo 26.
+
+### How to use the Caesar Cipher
+
+1. **Type the text and the shift** — Abz with shift 1 is the check: Bca.
+2. **Use 13 to match the ROT13 page** — Hello should become Uryyb on both pages.
+3. **Decode with the opposite shift** — Bca with shift −1 returns Abz.
+
+### Guide
+
+#### A wheel with 26 positions
+
+The Caesar cipher adds a number to each letter’s place in the alphabet and wraps past Z. Shift 1 moves A to B and Z to A. Shift 13 is ROT13, which is why Hello and Uryyb agree with that page. A shift of 26, or 0, puts every letter back. Characters that are not letters are copied so the words stay separated. Anyone who can try 25 shifts can read it.
+
+### FAQ
+
+**Where does Caesar Cipher run?**
+Caesar Cipher runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is Abz shifted by 1?**
+Bca.
+
+**What shift is ROT13?**
+13. Hello becomes Uryyb.
+
+**How do I undo a shift of 1?**
+Shift by −1, or by 25. Both land on the same letters.
+
+**Are numbers encoded?**
+No. They are copied.
+
+## Zero Width Remover
+
+URL: https://justtools.info/text-tools/zero-width-remover/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Zero Width Remover on Toolspire. Remove zero-width spaces, joiners, non-joiners and byte-order marks. No account is required.
+
+### At a glance
+
+- Zero Width Remover on Toolspire: the sample **a** plus U+200B plus **b** becomes **ab**, and the detail says **1** character was removed.
+- Ordinary spaces are **kept**. This is not the extra-spaces page.
+- Five code points are removed: **200B, 200C, 200D, FEFF, 2060**.
+- A string with none of them is returned unchanged, and the detail says **0**.
+
+### Features
+
+- **A count, not a silent clean**: You can see whether the paste was dirty.
+- **Spaces remain**: Word separators are not the target.
+- **The sample hides a character**: It looks like ab and is not, until the result says so.
+
+### How to use the Zero Width Remover
+
+1. **Paste the suspicious word** — The sample should become ab and report 1 removal.
+2. **Read zero as clean** — If you expected a hidden character and the count is 0, it is a different code point.
+3. **Use remove extra spaces for double spaces** — Those are visible. This page will not collapse them.
+
+### Guide
+
+#### Characters that take no room
+
+A zero-width space sits between letters and changes a search, a slug or a duplicate check without showing a gap. This page deletes U+200B, the non-joiner U+200C, the joiner U+200D, the byte-order mark U+FEFF and the word joiner U+2060. It counts them. A normal space is a different character and stays, because removing it would glue words the reader can see.
+
+### FAQ
+
+**Where does Zero Width Remover run?**
+Zero Width Remover runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What happens to a zero-width space between a and b?**
+The result is ab, and one character is counted as removed.
+
+**Are normal spaces removed?**
+No.
+
+**What if the count is zero?**
+None of those five code points were in the paste.
+
+**Will this fix a double space?**
+No. That is the remove-extra-spaces page.
+
+## Wrap Text
+
+URL: https://justtools.info/text-tools/wrap-text/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Wrap Text on Toolspire. Wrap text so each line is at most N characters, breaking at spaces when a word fits. Width 5 turns “hello world” into hello, then world.
+
+### At a glance
+
+- Wrap Text on Toolspire: width **5** wraps **hello world** as **hello** then **world**.
+- Breaks prefer a **space**. A word longer than the width is sliced.
+- The width must be an integer from **1 to 500**.
+- Remove line breaks is the page that **undoes** this and returns one paragraph.
+
+### Features
+
+- **Spaces are the first choice**: hello and world are not sliced, because each fits.
+- **Long words are sliced**: A 10-letter word at width 4 becomes three lines, the last one shorter.
+- **Existing newlines are whitespace**: They do not force a break beyond the width rule.
+
+### How to use the Wrap Text
+
+1. **Set the column** — 5 is the sample. A readable note is often 72.
+2. **Check hello and world** — Two lines, neither longer than 5.
+3. **Unwrap with the other page** — Remove line breaks joins them back.
+
+### Guide
+
+#### Fit words, then slice what will not fit
+
+The wrapper keeps a line until the next word would pass the column, then starts another line. “hello world” at width 5 puts hello on the first line because it is exactly 5, and world on the next. A word longer than the column cannot be saved by a space, so it is cut every N characters. Existing line breaks are treated as spaces first, so a prewrapped paragraph is rewrapped to the new width.
+
+### FAQ
+
+**Where does Wrap Text run?**
+Wrap Text runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How does width 5 wrap “hello world”?**
+Two lines: hello, then world.
+
+**What if a word is longer than the width?**
+It is cut. Width 4 on “helloworld” produces hello, worl, d.
+
+**Does a space at the end of a line stay?**
+No. The break replaces the space that did not fit.
+
+**How do I get one paragraph again?**
+Open remove line breaks.
+
+## Occurrence Counter
+
+URL: https://justtools.info/text-tools/occurrence-counter/
+Category: Text Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Count a whole word in a text. “red red RED” contains red twice with case respected, and three times if case is ignored. Open Occurrence Counter on Toolspire.
+
+### At a glance
+
+- Occurrence Counter on Toolspire: **red red RED** contains case-sensitive **red** **twice**.
+- Ignoring case, the same text contains it **three** times.
+- **reddish** does not count. The match is a whole word.
+- The word-frequency page lists every word. This page answers **one** word.
+
+### Features
+
+- **Both counts**: The headline respects case. The detail ignores it.
+- **Whole words**: A longer word that merely starts with the letters is not a hit.
+- **One word**: A space in the word box is rejected.
+
+### How to use the Occurrence Counter
+
+1. **Paste the text** — The sample has two lowercase reds and one uppercase.
+2. **Type red** — The headline should be 2.
+3. **Read the detail for the folded count** — It should mention 3.
+
+### Guide
+
+#### Case is the difference between 2 and 3
+
+In “red red RED”, a case-sensitive search for red finds two matches. Folding the case finds three. Both numbers are useful, and hiding one of them is how a count becomes an argument. The match is the whole word, so reddish is not red. The frequency page is the census of every word. This page is a single question.
+
+### FAQ
+
+**Where does Occurrence Counter run?**
+Occurrence Counter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How many times does red appear in “red red RED”?**
+Twice, if case matters. Three times if it does not.
+
+**Does reddish count?**
+No.
+
+**Which number is the headline?**
+The case-sensitive count.
+
+**How is this different from word frequency?**
+Frequency lists every distinct word. This page counts the one word you typed.
+

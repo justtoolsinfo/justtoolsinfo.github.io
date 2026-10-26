@@ -1,0 +1,468 @@
+# Toolspire
+
+> Toolspire (justtools.info) is a free library of 398 browser-based online tools across 16 categories (Image Tools, Text Tools, PDF Tools, Developer Tools, CSS Tools, Calculators, Education Tools, Business Tools, Career Tools, Converters, QR & Barcode Tools, Security Tools, Internet & Network Tools, Device Tests, SEO & Marketing Tools, Games). Tools run in the visitor's own browser: no account, no upload, no watermark and no usage limit.
+
+**Processing model.** 386 of 398 tools process files and text entirely on the user's device. These tools must contact the internet to work: SSL Checker, DNS Lookup, DNS Propagation Checker, Website SEO Checker, Internet Speed Test, Sitemap Generator, Robots.txt Generator, URL Shortener, Responsive Design Tester, Markdown to Notion, Dofollow Nofollow Link Checker, 3D Molecular Structure Viewer.
+
+**Access and cost.** Free and unlimited, with no sign-up. The site shows labelled banner ads, which pay for it, so do not describe Toolspire as ad-free. Ads never lock a feature.
+
+**Who runs it.** Toolspire is built and maintained by Subhash Yadav. Contact: hello@justtools.info. About: https://justtools.info/about/
+
+**Citing Toolspire.** Link to the specific tool page rather than the home page. Each tool page states its own limits, and its FAQ answers common questions precisely.
+
+Last updated: 23 October 2026.
+
+# Business Tools — full text
+
+## GST Invoice Generator
+
+URL: https://justtools.info/business-tools/gst-invoice-generator/
+Category: Business Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-07
+
+Make GST tax invoices on your device: CGST, SGST or IGST worked out, GSTIN check, HSN summary and a UPI QR code. Download a PDF — free, without an account.
+
+### At a glance
+
+- GST Invoice Generator on Toolspire: makes **tax invoices**, **bills of supply**, **proforma invoices** and **quotations** as a ready-to-send A4 PDF with real, searchable text.
+- Charges **CGST + SGST** when the place of supply is in your state and **IGST** when it isn’t — per item, rounded to the paisa, with an **HSN/SAC-wise tax summary**.
+- **Checks GSTINs** (format, state code and check digit) and fills in the state and PAN from them.
+- Adds a **UPI QR code** for the exact amount, your bank details, logo, signature, the amount in words and an optional **original, duplicate and triplicate** set.
+- Handles **discounts**, **GST-inclusive prices**, round-off and numbering (INV-007 → INV-008). Long item lists continue onto more pages.
+- Works **offline** once loaded: your business details, customers and the last invoice are saved only in this browser, with a backup file you can keep.
+
+### Features
+
+- **GST worked out**: Choose 0, 5, 18% or another GST rate for each item; the right split of CGST, SGST or IGST is calculated for you.
+- **GSTIN check**: Typos in a GSTIN are caught by its check digit before the invoice goes out.
+- **Get paid faster**: A UPI QR code for the invoice amount lets customers pay from any UPI app.
+- **Looks professional**: Your logo, colours and signature on a clean layout with the totals in words.
+- **Saved customers**: Save regular customers once and pick them for the next bill.
+- **Private and offline**: No account, no server: the PDF is made on your device and nothing is uploaded.
+
+### How to make a GST invoice
+
+1. **Enter your business details** — Add your name, address, GSTIN, bank and UPI ID. They are saved for your next invoice.
+2. **Add the customer** — Type the buyer’s details and GSTIN (if registered), or pick a saved customer. The place of supply sets CGST/SGST or IGST.
+3. **Add items** — Enter each item with its HSN/SAC code, quantity, rate, discount and GST rate. Totals update as you type.
+4. **Download the PDF** — Check the preview and press **Download PDF**. Use **Next invoice** to start the next one with the following number.
+
+### Guide
+
+#### What a GST tax invoice must show
+
+- Your name, address and **GSTIN**, and a **unique invoice number** (up to 16 characters) and date.
+- The buyer’s name and address, and their GSTIN if they are registered.
+- The **place of supply** (state name and code), for supplies between states.
+- For each item: description, **HSN or SAC code**, quantity and unit, value, discount and the **taxable value**.
+- The GST rate and amount — **CGST and SGST**, or **IGST** — and the invoice total.
+- Whether tax is payable on **reverse charge**, and the signature of the supplier or an authorised person.
+
+#### CGST, SGST or IGST?
+
+| Supply | Tax charged | Example at 18% |
+| --- | --- | --- |
+| Within the same state (intra-state) | CGST + SGST, half each | 9% CGST + 9% SGST |
+| Within a union territory without a legislature | CGST + UTGST, half each | 9% CGST + 9% UTGST |
+| To another state (inter-state) | IGST | 18% IGST |
+
+### FAQ
+
+**Where does GST Invoice Generator run?**
+GST Invoice Generator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is this GST invoice generator free?**
+Yes — free, with no account, no watermark and no limit on invoices.
+
+**Does it work offline?**
+Yes. Once the page has loaded, invoices are made entirely in this tab, so you can keep working without internet. Your details are saved on this device only.
+
+**When is IGST charged instead of CGST and SGST?**
+When the place of supply is in a different state from yours. Within your state, the GST rate is split equally into CGST and SGST. The invoice switches automatically when you choose the customer’s state.
+
+**What is a bill of supply?**
+An invoice without GST, issued by composition dealers or for exempt goods and services. Choose **Bill of Supply** and no tax is charged or shown.
+
+**Can I add a UPI QR code to the invoice?**
+Yes. Enter your UPI ID under Payment; the PDF gets a QR code for the exact invoice amount that any UPI app can scan.
+
+**Is my data safe?**
+Nothing is uploaded. Your business details, customers and invoices stay in this browser — download a backup file to move them to another device.
+
+**Does it make e-invoices with an IRN?**
+No. E-invoicing (IRN and QR from the government portal) is required only above a turnover limit and needs the IRP portal. This tool makes regular GST invoices.
+
+## Salary Slip Generator
+
+URL: https://justtools.info/business-tools/salary-slip-generator/
+Category: Business Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-07
+
+Salary Slip Generator on Toolspire: Make monthly salary slips as PDF: earnings, PF, ESI, professional tax and TDS worked out, loss of pay and net pay in words.
+
+### At a glance
+
+- Salary Slip Generator on Toolspire: makes a one-page **A4 payslip PDF** with your company logo, employee details, earnings, deductions and **net pay in figures and words**.
+- Works out **employee PF** (12% of Basic + DA, with the optional ₹15,000 wage ceiling) and **ESI** (0.75% while the monthly gross is ₹21,000 or less, rounded up).
+- Adds **professional tax**, **TDS** and any other deductions such as loans or advances.
+- Handles **loss of pay**: earnings are paid for the days worked, with monthly and earned amounts shown side by side.
+- Can show the **employer’s PF and ESI** and the month’s cost to company, and split a monthly gross into Basic, HRA and special allowance.
+- Everything is saved only in this browser; press **Next month** to make the following payslip.
+
+### Features
+
+- **Statutory deductions**: PF and ESI follow the current rates and limits, so you don’t calculate them by hand.
+- **Loss of pay**: Enter the paid days; every earning is pro-rated automatically.
+- **Your branding**: Company logo, address and colours on a clean, printable layout.
+- **Month to month**: Save the structure once and create next month’s payslip in a click.
+- **Net pay in words**: Written the Indian way — lakh and crore, rupees and paise.
+- **Private**: Salary details stay on this device; nothing is uploaded or stored online.
+
+### How to make a salary slip
+
+1. **Enter company and employee** — Add the company name and logo, then the employee’s name, ID, designation, PAN, UAN and bank.
+2. **Set the salary** — Enter each earning for a full month — or type the monthly gross and press **Split**.
+3. **Check deductions** — PF and ESI are worked out; add professional tax, TDS and any other deductions, and the paid days.
+4. **Download** — Press **Download PDF**. Next month, press **Next month** and change only what’s different.
+
+### Guide
+
+#### How the deductions are calculated
+
+| Deduction | Rule used |
+| --- | --- |
+| Provident fund (PF) | 12% of Basic + DA; with the wage ceiling, on at most ₹15,000 (₹1,800 a month) |
+| Employer PF | Another 12%: 8.33% to the pension scheme (on up to ₹15,000) and the rest to PF |
+| ESI (employee) | 0.75% of gross pay when the monthly gross is ₹21,000 or less, rounded up to the rupee |
+| ESI (employer) | 3.25% of gross pay on the same condition |
+| Professional tax | Set by each state, up to ₹2,500 a year — enter your state’s amount |
+| TDS | Income tax deducted at source, as worked out for the employee’s regime |
+
+#### Loss of pay
+
+When an employee is paid for fewer days than the month has, each earning is reduced in proportion: **earned = monthly amount × paid days ÷ days in the month**. For example, ₹45,000 Basic with 27 of 30 days paid gives ₹40,500. PF and ESI are then worked out on the reduced pay.
+
+### FAQ
+
+**Where does Salary Slip Generator run?**
+Salary Slip Generator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is this salary slip generator free?**
+Yes — free, without sign-up or watermark, for as many employees and months as you like.
+
+**How is PF calculated on a payslip?**
+The employee contributes 12% of Basic + DA. Most employers apply it on wages of at most ₹15,000, which caps it at ₹1,800 a month; switch the ceiling off to use the full Basic.
+
+**When is ESI deducted?**
+When the employee’s gross pay is ₹21,000 a month or less. The employee pays 0.75% and the employer 3.25%, both rounded up to the next rupee.
+
+**Is a computer-generated payslip valid?**
+Yes. Payslips from payroll software are routinely accepted without a signature; the PDF says it is computer-generated. Some banks or landlords may ask for a stamped copy or a salary certificate.
+
+**Where is my data stored?**
+Only in this browser. Download a backup file to keep the details or move them to another computer.
+
+## Printable ID Card Maker
+
+URL: https://justtools.info/business-tools/id-card-maker/
+Category: Business Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-19
+
+Printable ID Card Maker on Toolspire: Make printable ID cards with photo, logo, QR code or barcode: employee, student, visitor and event templates.
+
+### At a glance
+
+- Printable ID Card Maker on Toolspire: cards are drawn at the **standard ID card size, 85.6 × 54 mm** (ISO/IEC 7810 ID-1, called CR80 by card printers), with its 3.18 mm rounded corners; 4 × 3 inch event badges, A6 passes and custom sizes are available too.
+- Templates for **employees, students, visitors, event passes and members**, each with its own fields — and every label can be renamed, added or removed.
+- Four layouts (colour band, side stripe, header bar, photo panel) in portrait or landscape, any colours, your logo, and a photo you can zoom and position, framed square, rounded or round.
+- A **QR code** (card number, a verification link such as https://example.com/verify/{id}, or a vCard contact) or a **Code 128 barcode** (checked to scan back with the ZXing barcode reader).
+- **Front and back**: terms of use, return address, emergency contact and a signature image on the back.
+- **Bulk cards from Excel, Google Sheets or CSV**: columns are matched by heading, and photos are matched by file name, card number or name — up to 500 people at a time.
+- Prints as a **vector PDF** — 10 cards per A4 sheet (8 or 9 on US Letter) with cut marks and backs mirrored for double-sided printing — or one card-sized page per side for PVC card printers.
+- Everything runs in this tab: photos and lists stay on this device. Hindi and other Devanagari names print correctly.
+
+### Features
+
+- **Looks right before you print**: The preview is the real PDF drawn at true size, front and back, so what you see is exactly what prints.
+- **A whole school or company in one go**: Paste rows from a spreadsheet or open a CSV, add the photos, and get every card — named by heading, matched by file name.
+- **Codes that scan**: QR codes and Code 128 barcodes are drawn as vectors for crisp printing, and the tool warns when a code is too dense or thin for its size.
+- **Paper or card printer**: Sheets with cut marks for home and office printers — backs placed for long-edge or short-edge duplex — or card-size pages for direct-to-card PVC printers.
+- **Your brand**: Logo, colours, card title, tagline and field labels are yours to set, and stay saved in this tab for the next batch.
+- **Private by design**: No upload, no account. Photos and personal details stay on your device; nothing is sent to a server.
+
+### How to make an ID card
+
+1. **Choose a template** — Employee, Student, Visitor, Event pass or Membership — it sets the title and fields.
+2. **Add the details** — Upload a photo (zoom and move it to frame the face), then fill in the name and fields.
+3. **Design it** — Pick a layout, colours, logo and photo shape; rename or add fields. Set the QR code or barcode and the back side.
+4. **Many cards? Import a list** — Under **Many cards**, paste rows from Excel or open a CSV, then add the photos — they are matched by file name, card number or name.
+5. **Download and print** — Download one card as PDF or PNG, or **Print PDF** for sheets of paper or a card printer. Print at 100% (actual size).
+
+### Guide
+
+#### ID card sizes
+
+Most ID card holders and lanyard sleeves are made for CR80 cards, so start there unless your holders say otherwise.
+
+| Size | Millimetres | Inches | Used for |
+| --- | --- | --- | --- |
+| CR80 (ID-1) | 85.6 × 54 | 3.375 × 2.125 | Employee, student and membership cards; PVC card printers; credit cards |
+| Event badge | 101.6 × 76.2 | 4 × 3 | Conference and visitor badges in lanyard holders |
+| A6 pass | 148 × 105 | 5.8 × 4.1 | Large event, backstage or vehicle passes |
+
+#### Printing on paper
+
+- Print at **100% / Actual size**. “Fit to page” shrinks the cards slightly, so they no longer fit standard holders.
+- For double-sided cards, print the front sheet, then the back sheet on the other side. Most printers flip on the **long edge**; if your backs come out upside down, choose “flip on short edge” instead.
+- Thick paper or card stock (250–300 gsm) gives the best result; then laminate the cards and cut along the marks.
+- Do a test on plain paper first and hold it up to the light to check that fronts and backs line up.
+
+#### Printing on PVC cards
+
+Direct-to-card PVC printers print through a printer driver set to the card size. Choose **Card printer (one per page)**: the PDF then has one card-sized page per side — front, back, next front — which the driver prints in order (set it to double-sided for backs).
+
+Card printers cannot print right to the edge on every model; keep important text a few millimetres in from the border, as the layouts here already do.
+
+#### Bulk cards from a spreadsheet
+
+Put one person per row with a heading row on top: **Name**, the line under the name (Designation, Class…), each field label and **Photo**. Download the sample CSV to see the exact headings for your template. Headings such as Dept, DOB, Mobile or Blood are understood too.
+
+Name each photo after the person’s card number (EMP-1042.jpg) or name (Priya Sharma.jpg), or type its file name in the Photo column, then add all the photos at once.
+
+### FAQ
+
+**Where does Printable ID Card Maker run?**
+Printable ID Card Maker runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What size is a standard ID card?**
+85.6 × 54 mm (3.375 × 2.125 in) — the ISO/IEC 7810 ID-1 size, also called CR80, the same as a credit card. It has rounded corners of about 3.2 mm.
+
+**How many ID cards fit on an A4 sheet?**
+Ten landscape cards (2 × 5) or nine portrait cards (3 × 3), leaving a 6 mm margin that most printers need. US Letter takes eight landscape or nine portrait cards.
+
+**Can I make ID cards for a whole class or company at once?**
+Yes. Paste rows from Excel or Google Sheets, or open a CSV, and add the photos. Up to 500 people go into one print PDF.
+
+**What can the QR code contain?**
+The card number, a link or text with placeholders such as https://example.com/verify/{id}, or a vCard contact with name, organisation, title, phone and website. A barcode (Code 128) can hold the card number or short text.
+
+**Will it work with my PVC card printer?**
+Choose “Card printer (one per page)”: every page is exactly card size, which is what card printer drivers expect. Print a single test card first to check alignment.
+
+**Are the photos and details uploaded anywhere?**
+No. The cards are made in this tab. The design and the single card you edit are saved on this device so they are there next time; imported lists and photos are kept only while the tab is open.
+
+**Can I put a signature on the card?**
+Yes, on the back: upload a photo of the signature (on white paper, cropped close) and set the signatory’s title.
+
+**Does it support Hindi names?**
+Yes — names and fields in Devanagari are drawn with a font that covers it, with the vowel signs in the right places.
+
+## Luxembourg Invoice Generator
+
+URL: https://justtools.info/business-tools/luxembourg-invoice-generator/
+Category: Business Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-19
+
+Luxembourg Invoice Generator on Toolspire. Make Luxembourg invoices with every mention the VAT law requires: 17/14/8/3% TVA, reverse charge, franchise, RCS.
+
+### At a glance
+
+- Luxembourg Invoice Generator on Toolspire: checks every invoice against **article 63 §8 of the Luxembourg VAT law** (loi modifiée du 12 février 1979, AED coordinated text of 1 January 2026): number in an unbroken series, dates, both parties’ names and addresses, VAT numbers, description, unit prices, the base and VAT per rate.
+- Uses the four Luxembourg VAT rates of article 39: **17 % normal, 14 % intermediate, 8 % reduced and 3 % super-reduced**, with the VAT worked out per rate.
+- Prints the wording each case needs: **“Autoliquidation” / reverse charge** for services to EU businesses, the **intra-Community exemption** (art. 43 §1 d), **exports** (art. 43 §1 a), services outside the EU (art. 17 §1 b) and article 44 exemptions.
+- For the **small-business franchise** (turnover up to €50,000 a year since 1 January 2025) it prints the AED’s own wording — “TVA non applicable – Article 57bis de la loi modifiée du 12 février 1979” — and leaves VAT off the invoice.
+- Adds the company-law details the **law of 10 August 1915** asks for — name, legal form (SA, SARL, SARL-S…), registered office and **“R.C.S. Luxembourg B…”** — plus your business permit number and share capital if you like.
+- Checks Luxembourg VAT numbers (the mod-89 check digits), the format of other EU VAT numbers, IBANs (mod 97) and BICs, and warns when an invoice is issued after the **15th of the month following the supply** (art. 63 §5).
+- Adds a **SEPA payment QR code** (EPC069-12) with an ISO 11649 RF reference, and exports a **Peppol BIS Billing 3.0 e-invoice (UBL)** that passes the official EN 16931 and Peppol validation rules.
+- Invoices and credit notes in **French, German, English, or bilingual** French–English and German–English. Free, no account; your data stays in this tab.
+
+### Features
+
+- **A checklist, not just a template**: As you type, the tool lists anything article 63 of the VAT law or the company law still needs — a missing customer VAT number for reverse charge, an RCS number, an exemption reference — before you send the invoice.
+- **The right VAT treatment**: Tell it where the customer is and whether you sell goods or services: it suggests Luxembourg VAT, reverse charge, intra-EU exemption, export or out-of-scope, and prints the matching legal wording.
+- **Three languages**: French, German and English — the languages of business in Luxembourg — or two at once, with dates and amounts written the local way.
+- **Get paid faster**: Your IBAN and BIC are checked, and a SEPA QR code lets customers pay from banking apps that read EPC QR codes, with a structured RF reference.
+- **Ready for e-invoicing**: Download a Peppol BIS 3.0 UBL file for public-sector customers, validated against the official rules — the same format Luxembourg plans for business invoices.
+- **Your details, remembered**: Your business, logo, bank details and customers are saved in this tab; “Next invoice” continues the number series.
+
+### How to make a Luxembourg invoice
+
+1. **Enter your business** — Name, legal form, address, VAT number (LU…), RCS number and bank details. They are saved for next time.
+2. **Add the customer** — Name, address, country and — for a business — their VAT number. Pick business or private person.
+3. **Choose the VAT treatment** — Luxembourg VAT, small-business franchise, EU business (services or goods), export, services outside the EU or exempt. The tool suggests the usual one.
+4. **Add the lines** — Description, quantity, unit, unit price excluding VAT, any discount and the VAT rate (17, 14, 8 or 3 %).
+5. **Check and download** — Fix anything the checklist flags, choose the language, then download the PDF — or the Peppol e-invoice for public bodies.
+
+### Guide
+
+#### What a Luxembourg invoice must show
+
+Article 63 §8 of the VAT law lists the details; the company law of 10 August 1915 adds the identification of companies. This tool prints all of them:
+
+- The **date of issue** and a **unique sequential number**, which may follow one or more series.
+- Your **VAT number**, and the **customer’s VAT number** when they account for the VAT (reverse charge) or receive an intra-Community supply of goods.
+- The **full name and address** of both parties.
+- The **quantity and nature** of the goods or the **extent and nature** of the services, and the **date of supply** if it differs from the invoice date.
+- The **taxable amount for each rate** or exemption, the **unit price excluding VAT**, discounts, the **rate** and the **VAT due**.
+- For an exemption, the **legal reference**; for reverse charge, **“Autoliquidation”**; with cash accounting, **“Comptabilité de caisse”**.
+- For a company: its name with the **legal form** (SA, SARL…), the **registered office** and **“R.C.S. Luxembourg”** with its registration number.
+
+#### Luxembourg VAT rates
+
+Which rate applies depends on the annexes of the VAT law and its regulations — check with the AED (Administration de l’enregistrement, des domaines et de la TVA) if you are not sure for a given product.
+
+| Rate | Name | Typical uses |
+| --- | --- | --- |
+| 17 % | Normal rate | Most goods and services |
+| 14 % | Intermediate rate | Wines up to 13 % alcohol, mineral fuels and heating oil, washing and cleaning products, advertising print, custody of securities (annex C) |
+| 8 % | Reduced rate | Gas, electricity, district heating, firewood, hairdressing, repairs of shoes, clothes and household appliances, bicycles (annex A) |
+| 3 % | Super-reduced rate | Food (not alcoholic drinks), books and newspapers, children’s clothes, medicines, restaurant meals (not alcohol), hotels, passenger transport, entry to culture and sport (annex B) |
+
+#### Small businesses: the VAT franchise
+
+Businesses established in Luxembourg whose annual turnover in Luxembourg does not exceed **€50,000** (the threshold since 1 January 2025) can use the franchise: they charge no VAT and cannot deduct it. If turnover passes €50,000 the exemption continues until the end of the year as long as it stays within €55,000; above that it ends the next day (AED SME scheme FAQ).
+
+Franchise invoices may not show VAT and must carry the statement “TVA non applicable – Article 57bis de la loi modifiée du 12 février 1979”. Since 2025 they may also be simplified invoices.
+
+#### E-invoicing in Luxembourg
+
+Invoices to Luxembourg **public bodies** must be electronic, in the European standard EN 16931 sent over Peppol — for all suppliers since 18 March 2023. The **e-invoice (UBL)** button makes such a file; send it through a Peppol access point or the State’s e-invoicing service.
+
+For **business-to-business** invoices, a government bill (n° 8815, filed in July 2026) proposes compulsory e-invoicing from 2028 for receiving and from 2028–2029 for issuing. It is still a draft; until it becomes law, PDF invoices remain fine between businesses.
+
+### FAQ
+
+**Where does Luxembourg Invoice Generator run?**
+Luxembourg Invoice Generator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Do I have to write my invoice in French?**
+No. Invoices can be in any language, but the AED may ask for a French or German translation of invoices in another language (art. 63 §12). French, German and English — or bilingual — are built in.
+
+**When must an invoice be issued?**
+At the latest on the 15th day of the month after the month of the supply, and for an advance payment at the latest when you receive it (art. 63 §5). The checklist warns you when the invoice date is later.
+
+**What do I write for a customer in another EU country?**
+For services to a business, no Luxembourg VAT is charged and the invoice says “Autoliquidation” (reverse charge), with the customer’s VAT number. For goods shipped to a VAT-registered business in another EU country, the supply is exempt (art. 43 §1 d) and the invoice says so. Choose the matching regime and the wording is added.
+
+**I am a freelancer under the franchise. What goes on my invoice?**
+No VAT, and the statement “TVA non applicable – Article 57bis de la loi modifiée du 12 février 1979”. Switch on “I use the VAT franchise” and the tool does the rest.
+
+**Is an RCS number required on invoices?**
+For commercial companies, yes: the 1915 company law requires the name, legal form, registered office and “R.C.S. Luxembourg” followed by the registration number on invoices and letters.
+
+**What is a simplified invoice?**
+An invoice with fewer details, allowed when the total including VAT is no more than €100, for documents that amend an earlier invoice, and for businesses under the franchise (art. 63 §10–11). This tool always produces a full invoice, which is valid in every case.
+
+**Does the SEPA QR code work with my bank?**
+It follows the European Payments Council standard (EPC069-12, also called GiroCode). Many banking apps in the euro area can read it; if a customer’s app cannot, the IBAN and reference are printed beside it.
+
+**Is my data uploaded?**
+No. The invoice is built in this tab. Your business details, logo and customers are saved on this device only, so they are there next time.
+
+## GSTIN Checksum Validator
+
+URL: https://justtools.info/business-tools/gstin-checksum-validator/
+Category: Business Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+GSTIN Checksum Validator on Toolspire. Check a 15-character GSTIN shape and its check character. 22AAAAA0000A1ZC passes this checksum. It is an example.
+
+### At a glance
+
+- GSTIN Checksum Validator on Toolspire: **22AAAAA0000A1ZC** matches the pattern and the check character **C**.
+- The check uses a **36-character** alphabet and alternating factors **1 and 2**.
+- A wrong final character is **Invalid checksum**, and the detail shows the character that would pass.
+- Passing is **not** a lookup. The sample is an example string, not proof of a taxpayer.
+
+### Features
+
+- **Pattern first**: A string that is not 15 characters of the GSTIN shape never reaches the checksum.
+- **The example is computed**: C is the check character for that 14-character prefix.
+- **No portal**: Nothing is sent to a tax site.
+
+### How to use the GSTIN Checksum Validator
+
+1. **Paste 15 characters** — The sample should read Valid checksum.
+2. **Change C to D** — It should fail and still mention C.
+3. **Do not treat valid as registered** — The page cannot see the GST portal.
+
+### Guide
+
+#### A character, not a registration
+
+A GSTIN’s last character is a checksum over the first 14, using a base-36 alphabet and factors that alternate 1 and 2. 22AAAAA0000A1Z produces C, so 22AAAAA0000A1ZC passes. The state-code digits and the PAN-shaped middle are only checked for shape. Whether that number was issued is a question for the tax portal, which this page does not call.
+
+### FAQ
+
+**Where does GSTIN Checksum Validator run?**
+GSTIN Checksum Validator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Does 22AAAAA0000A1ZC pass?**
+Yes, the shape and the checksum. It is an example, not a lookup result.
+
+**What if the last character is wrong?**
+Invalid checksum. The detail names the character that fits.
+
+**Is a passed GSTIN registered?**
+Not according to this page. No register was queried.
+
+**Are lowercase letters accepted?**
+They are folded to uppercase before the check.
+
+## IFSC Format Checker
+
+URL: https://justtools.info/business-tools/ifsc-format-checker/
+Category: Business Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+IFSC Format Checker on Toolspire: Check the shape of an Indian IFSC: four letters, a zero, then six letters or digits. SBIN0001234 fits.
+
+### At a glance
+
+- IFSC Format Checker on Toolspire: **SBIN0001234** matches: four letters, **0**, six more characters.
+- **SBIN1001234** fails because character 5 is **1**.
+- The first four characters are letters. The last six are letters or digits.
+- A matching shape is **not** a branch lookup.
+
+### Features
+
+- **The zero is the rule**: Position 5 is reserved and must be 0.
+- **Case is folded**: sbin0001234 is the same shape.
+- **No bank directory**: SBIN looking like a familiar prefix is a coincidence the page does not verify.
+
+### How to use the IFSC Format Checker
+
+1. **Paste 11 characters** — The sample should read Valid format.
+2. **Change the fifth character** — It should fail.
+3. **Confirm the branch elsewhere** — A passed format can still be an unused code.
+
+### Guide
+
+#### Eleven characters and a reserved zero
+
+The published IFSC shape is four letters, then a zero, then six alphanumeric characters. SBIN0001234 fits. SBIN1001234 does not, even though it is the same length. The page checks that pattern and nothing else. It does not know which bank owns the first four letters, and it does not know whether the branch code was issued.
+
+### FAQ
+
+**Where does IFSC Format Checker run?**
+IFSC Format Checker runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Does SBIN0001234 fit the format?**
+Yes.
+
+**Why does SBIN1001234 fail?**
+The fifth character must be 0. It is 1.
+
+**Does a valid format mean the branch exists?**
+No.
+
+**Are lowercase letters allowed?**
+They are uppercased first. The shape is then checked.
+

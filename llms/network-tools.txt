@@ -1,0 +1,699 @@
+# Toolspire
+
+> Toolspire (justtools.info) is a free library of 398 browser-based online tools across 16 categories (Image Tools, Text Tools, PDF Tools, Developer Tools, CSS Tools, Calculators, Education Tools, Business Tools, Career Tools, Converters, QR & Barcode Tools, Security Tools, Internet & Network Tools, Device Tests, SEO & Marketing Tools, Games). Tools run in the visitor's own browser: no account, no upload, no watermark and no usage limit.
+
+**Processing model.** 386 of 398 tools process files and text entirely on the user's device. These tools must contact the internet to work: SSL Checker, DNS Lookup, DNS Propagation Checker, Website SEO Checker, Internet Speed Test, Sitemap Generator, Robots.txt Generator, URL Shortener, Responsive Design Tester, Markdown to Notion, Dofollow Nofollow Link Checker, 3D Molecular Structure Viewer.
+
+**Access and cost.** Free and unlimited, with no sign-up. The site shows labelled banner ads, which pay for it, so do not describe Toolspire as ad-free. Ads never lock a feature.
+
+**Who runs it.** Toolspire is built and maintained by Subhash Yadav. Contact: hello@justtools.info. About: https://justtools.info/about/
+
+**Citing Toolspire.** Link to the specific tool page rather than the home page. Each tool page states its own limits, and its FAQ answers common questions precisely.
+
+Last updated: 23 October 2026.
+
+# Internet & Network Tools — full text
+
+## IP Subnet Calculator
+
+URL: https://justtools.info/network-tools/ip-subnet-calculator/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-06
+
+IP subnet calculator for IPv4 and IPv6: network, broadcast, host range, mask and wildcard from any CIDR, plus subnetting, VLSM and route summarisation.
+
+### At a glance
+
+- IP Subnet Calculator on Toolspire: works out the **network address, broadcast address, first and last usable host**, total and usable addresses, **subnet mask, wildcard mask** and binary form of any IPv4 or IPv6 block.
+- Accepts CIDR (192.168.1.10/24), an address with a mask (10.0.0.1 255.255.240.0), a Cisco wildcard mask, or IPv6 in any notation, and writes IPv6 the RFC 5952 way.
+- Names the address type — **private (RFC 1918), CGNAT (100.64.0.0/10)**, loopback, link-local, multicast, documentation, unique local or global unicast — and the classful class.
+- **Splits** a network into equal subnets by count, hosts or prefix, plans **VLSM** (largest subnet first) and **summarises** lists of networks or ranges into the fewest CIDR blocks.
+- Handles the edge cases exams ask about: /31 point-to-point links (RFC 3021), /32 hosts, /0, and IPv6 counts too big for ordinary numbers.
+- Gives the reverse DNS zone (in-addr.arpa / ip6.arpa), checks whether an address is inside the network, and exports subnet tables as CSV. Everything is calculated in this tab.
+
+### Features
+
+- **Every subnet value**: Network, broadcast, host range, mask, wildcard, hex, binary and reverse DNS — copy them all in one click.
+- **IPv4 and IPv6**: One calculator for both, with BigInt maths so even a /32 IPv6 allocation is counted exactly.
+- **Subnetting made easy**: Split a network by the number of subnets or hosts you need, and see every resulting subnet in a table.
+- **VLSM planner**: List your LANs and how many devices each has; get the smallest fitting subnet for each, with room to grow shown.
+- **Route summarisation**: Merge networks, single addresses and ranges into the fewest CIDR blocks, or find the one supernet that covers them.
+- **Exam-ready**: Binary view with network bits highlighted, class and the /31 and /32 rules — handy for CCNA and university networking.
+
+### How to calculate a subnet
+
+1. **Enter an address** — Type an IP with its prefix, such as **192.168.1.10/24**, or pick the subnet mask from the list.
+2. **Read the results** — See the **network address**, **broadcast address**, usable host range and number of hosts straight away.
+3. **Split or plan** — Switch to **Split network** to divide it into subnets, or **VLSM** to size subnets for each LAN.
+4. **Export** — Copy the details or download the subnet table as CSV for your documentation.
+
+### Guide
+
+#### IPv4 subnet mask cheat sheet
+
+| Prefix | Subnet mask | Wildcard | Addresses | Usable hosts |
+| --- | --- | --- | --- | --- |
+| /8 | 255.0.0.0 | 0.255.255.255 | 16,777,216 | 16,777,214 |
+| /16 | 255.255.0.0 | 0.0.255.255 | 65,536 | 65,534 |
+| /20 | 255.255.240.0 | 0.0.15.255 | 4,096 | 4,094 |
+| /21 | 255.255.248.0 | 0.0.7.255 | 2,048 | 2,046 |
+| /22 | 255.255.252.0 | 0.0.3.255 | 1,024 | 1,022 |
+| /23 | 255.255.254.0 | 0.0.1.255 | 512 | 510 |
+| /24 | 255.255.255.0 | 0.0.0.255 | 256 | 254 |
+| /25 | 255.255.255.128 | 0.0.0.127 | 128 | 126 |
+| /26 | 255.255.255.192 | 0.0.0.63 | 64 | 62 |
+| /27 | 255.255.255.224 | 0.0.0.31 | 32 | 30 |
+| /28 | 255.255.255.240 | 0.0.0.15 | 16 | 14 |
+| /29 | 255.255.255.248 | 0.0.0.7 | 8 | 6 |
+| /30 | 255.255.255.252 | 0.0.0.3 | 4 | 2 |
+| /31 | 255.255.255.254 | 0.0.0.1 | 2 | 2 (point-to-point) |
+| /32 | 255.255.255.255 | 0.0.0.0 | 1 | 1 (single host) |
+
+#### Private and special IPv4 ranges
+
+| Range | Use |
+| --- | --- |
+| 10.0.0.0/8 | Private network (RFC 1918) — large companies and data centres |
+| 172.16.0.0/12 | Private network (RFC 1918) — 172.16.0.0 to 172.31.255.255 |
+| 192.168.0.0/16 | Private network (RFC 1918) — home and office routers |
+| 100.64.0.0/10 | Carrier-grade NAT — ISPs, especially mobile data, share public IPs |
+| 169.254.0.0/16 | Link-local — self-assigned when DHCP fails |
+| 127.0.0.0/8 | Loopback — the computer itself (localhost) |
+
+#### How subnetting works
+
+An IPv4 address has 32 bits. The prefix length — the number after the slash — says how many of them identify the network; the rest number the hosts inside it. A /24 leaves 8 host bits, so 2⁸ = 256 addresses. The first is the **network address** and the last the **broadcast address**, so 254 are usable for devices.
+
+Every extra prefix bit halves the block: a /24 splits into two /25s, four /26s or eight /27s. **VLSM** (variable-length subnet masking) uses different sizes inside one network — a /25 for 100 office PCs, a /30 for a router link — to avoid wasting addresses. IPv6 LANs simply use /64 each; sites usually get a /48 or /56.
+
+### FAQ
+
+**Where does IP Subnet Calculator run?**
+IP Subnet Calculator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How many usable hosts does a /24 have?**
+254. A /24 has 256 addresses, but the first (network) and last (broadcast) can’t be given to devices. In general, usable hosts = 2^(32 − prefix) − 2, except /31 and /32.
+
+**What is a wildcard mask?**
+The inverse of the subnet mask: 0 bits must match and 1 bits can be anything. For 255.255.255.0 it is 0.0.0.255. Cisco access lists and OSPF network statements use wildcard masks.
+
+**How do I find the network and broadcast address?**
+The network address is the IP with all host bits set to 0 (a bitwise AND with the mask); the broadcast address has all host bits set to 1. For 192.168.1.10/24 they are 192.168.1.0 and 192.168.1.255.
+
+**Can a /31 be used?**
+Yes, on point-to-point links between two routers. RFC 3021 lets both addresses be used because a link with two ends needs no broadcast address.
+
+**What subnet size should I use for an IPv6 LAN?**
+A /64. Stateless address autoconfiguration (SLAAC) needs it, and a /64 still holds 18 quintillion addresses. Give each site a /48 or /56 to split into /64s.
+
+**What is VLSM?**
+Variable-length subnet masking: dividing one network into subnets of different sizes to match each LAN’s needs. Allocate the largest subnet first so every block stays aligned — the VLSM tab does this for you.
+
+## Internet Speed Test
+
+URL: https://justtools.info/network-tools/internet-speed-test/
+Category: Internet & Network Tools
+Processing: Contacts an external service to work (see the page).
+Last updated: 2026-10-06
+
+Check download and upload speed, ping, jitter and bufferbloat on Wi-Fi, broadband or mobile data — no app, with a data saver mode.
+
+### At a glance
+
+- Internet Speed Test on Toolspire: measures **download and upload speed** in Mbps, **ping** (latency) and **jitter**, plus **loaded latency** — how much ping rises while the line is busy (bufferbloat).
+- Tests against **Cloudflare’s global network** (speed.cloudflare.com), usually from a data centre in or near your city; the page shows which one.
+- Leaves out connection set-up and server processing time, and reports the 90th-percentile speed of many transfers — the line’s real capacity rather than its slow start.
+- File sizes grow only while transfers stay quick, and **Data saver** caps a run at about 39 MB for mobile data.
+- Rates the connection for 4K streaming, video calls, online gaming, browsing and uploads, and shows which data centre answered, your country and your IP address.
+- Keeps your last 20 results in this browser only. No app or account is needed, and Toolspire never sees your results.
+
+### Features
+
+- **All the numbers that matter**: Download, upload, ping, jitter and loaded latency — not just one big number.
+- **Live gauge**: Watch the speed as it is measured, from a quick ping to the full download and upload runs.
+- **Bufferbloat grade**: See whether calls and games will lag while someone else downloads, graded A+ to F.
+- **Mobile-data friendly**: Data saver mode keeps a test under about 39 MB, and you can stop at any moment.
+- **What it’s good for**: Plain ratings for streaming, video calls, gaming, browsing and uploading files.
+- **Your history**: Compare Wi-Fi with cable, or morning with evening — recent results stay in this tab.
+
+### How to test your internet speed
+
+1. **Close heavy apps** — Pause downloads, streaming and cloud backups on all devices so they don’t share the line during the test.
+2. **Press Start** — Choose **Full test**, or **Data saver** on mobile data, and press **Start**. Ping is measured first.
+3. **Wait for both runs** — Download and then upload are measured, which takes 15–30 seconds on most connections.
+4. **Read the results** — Compare download and upload with your plan, check the ratings, and copy the results to share with your provider.
+
+### Guide
+
+#### What the results mean
+
+| Result | What it measures | Good value |
+| --- | --- | --- |
+| Download | How fast data reaches you — streaming, browsing, downloads | 25 Mbps+ for 4K; 100 Mbps+ for busy homes |
+| Upload | How fast you send data — video calls, uploads, cloud backup | 5 Mbps+ for HD calls; 20 Mbps+ for creators |
+| Ping | Round-trip time to the server, in milliseconds | Under 30 ms great, under 100 ms fine |
+| Jitter | How much ping varies from one moment to the next | Under 10 ms for gaming, under 30 ms for calls |
+| Loaded latency | Ping while the line is busy downloading or uploading | Within 30 ms of the idle ping (grade A) |
+
+#### Why your speed may be lower than your plan
+
+- **Wi-Fi**: walls, distance and older routers or phones cut speed. Test with a cable, or close to the router on 5 GHz, to see what the line delivers.
+- **Other devices**: TVs, updates and backups on the same connection share the bandwidth during the test.
+- **Peak hours**: evenings are busiest, especially on mobile networks and shared fibre.
+- **VPNs and proxies** add distance and encryption overhead.
+- **Very fast plans**: above roughly 1 Gbps, the browser and device can become the limit rather than the line.
+
+### FAQ
+
+**Where does Internet Speed Test run?**
+Internet Speed Test has to reach the network for a public lookup. The page says what leaves your device. Toolspire does not keep a copy of the query.
+
+**How accurate is this speed test?**
+It uses the same method as Cloudflare’s own test: precise browser timings, server time removed, and the 90th-percentile speed of many transfers. Results from different test sites differ a little because they use different servers and methods.
+
+**How much data does a speed test use?**
+It depends on your speed: a full test uses up to a few hundred MB on a very fast line, less on slower ones. Data saver mode uses at most about 39 MB — the page shows the exact amount after each test.
+
+**What is a good ping for gaming?**
+Under 30 ms is excellent and under 60 ms is good for most online games; jitter should stay below about 10–20 ms. Above 100 ms you will notice lag in fast-paced games.
+
+**What is the difference between Mbps and MB/s?**
+Speeds are quoted in megabits per second (Mbps); file sizes in megabytes. One byte is 8 bits, so 100 Mbps downloads about 12.5 MB per second.
+
+**Is the speed test private?**
+The test connects your browser to Cloudflare’s speed test servers, which see your IP address like any website does. Toolspire doesn’t receive or store your results; your history stays in this tab.
+
+**Why is upload slower than download?**
+Most home and mobile plans are asymmetric — designed to receive more than they send. Fibre plans are often symmetric, so similar upload and download speeds are normal there.
+
+## Download Time Calculator
+
+URL: https://justtools.info/network-tools/download-time-calculator/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Download Time Calculator on Toolspire: Work out how long a file takes at a megabit link speed, using decimal bytes and one million bits per second.
+
+### At a glance
+
+- Download Time Calculator on Toolspire: time is **size in bytes × 8 ÷ bits per second**. A byte is eight bits, which is the factor people forget.
+- **1 GB at 100 Mbps is 1 min 20 sec.** 1 GB here is 1,000,000,000 bytes, and 100 Mbps is 100,000,000 bits a second.
+- **1 Mbps is 0.125 MB/s** of decimal bytes. The detail prints that MB/s figure next to the clock time.
+- The page does **not measure** the connection. Packet headers, Wi-Fi and a busy server all make a real transfer slower than this division.
+
+### Features
+
+- **Megabits in, minutes out**: The speed box is Mbps, the unit an ISP prints. The size box is MB, GB or TB of decimal bytes.
+- **The 8× is visible**: The detail shows MB/s as Mbps divided by 8, so a 100 Mbps line is not treated as 100 megabytes a second.
+- **A clock, not a raw second count**: Eighty seconds is shown as 1 min 20 sec. The unrounded seconds stay in the detail.
+
+### How to use the Download Time Calculator
+
+1. **Type the file size in decimal units** — A shop that says 1 GB almost always means 1,000,000,000 bytes. Use GB for that. A 1024-based gibibyte is about 7% larger and is not what this page divides.
+2. **Type the link speed in Mbps** — Use the rate you expect to get, not the number on the router box, if you already know the line is slower than the plan.
+3. **Read the clock as a floor** — The result is the time if every bit of the plan is payload. Add time for a weak signal or a capped server.
+
+### Guide
+
+#### Why 100 Mbps is not 100 MB/s
+
+Network speeds are sold in megabits. Files are sized in megabytes. There are eight bits in a byte, so a 100 Mbps plan moves 12.5 decimal megabytes a second when every bit is file data. Dividing a gigabyte by 100, as if the units matched, gives 10 seconds and is wrong by a factor of eight. This page keeps the units apart: you pick MB, GB or TB, you type Mbps, and the 8× happens in the formula. It does not open a socket and it does not time your own line. The speed test is the page that does that.
+
+### FAQ
+
+**Where does Download Time Calculator run?**
+Download Time Calculator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How long is a 1 GB download at 100 Mbps?**
+1 minute 20 seconds, using a decimal gigabyte and a decimal megabit. 1,000,000,000 bytes × 8 ÷ 100,000,000 bits per second = 80 seconds.
+
+**Is a GB here 1024 megabytes?**
+No. MB, GB and TB on this page are powers of 1,000. A gibibyte (1024³) would take about 7% longer at the same megabit rate.
+
+**Why is my real download slower?**
+The formula assumes the link is full of file bytes. TCP headers, Wi-Fi retries, a busy disk and a server that will not send that fast all add time.
+
+**Does this test my connection?**
+No. You type the speed. The internet speed test is the tool that measures download, upload, ping and jitter.
+
+## Data Usage Calculator
+
+URL: https://justtools.info/network-tools/data-usage-calculator/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Data Usage Calculator on Toolspire: Turn a steady megabit rate and the hours you use it into gigabytes. One megabit is one million bits a second.
+
+### At a glance
+
+- Data Usage Calculator on Toolspire: gigabytes = **Mbps × 1,000,000 × hours × 3,600 × days ÷ 8 ÷ 1,000,000,000**.
+- **10 Mbps for 1 hour is 4.5 GB.** That is the check: 10 million bits × 3,600 seconds ÷ 8 ÷ a billion.
+- Hours are capped at **24 in a day**. A figure over 24 is rejected instead of being treated as more than a full day.
+- Idle time is **not counted**. If the link is full for one hour and quiet for the rest, type 1, not 24.
+
+### Features
+
+- **A full pipe, for the hours you name**: The speed is assumed constant. It is not an average of a speed test taken once.
+- **Decimal gigabytes**: The headline matches the gigabytes an ISP quota usually means: powers of 1,000, not 1,024.
+- **Days are a multiplier**: Thirty days at the same hour count is thirty times one day. There is no hidden “month” of 31 or 28.
+
+### How to use the Data Usage Calculator
+
+1. **Use the speed you sustain, not the plan name** — A 100 Mbps plan that is busy at 10 Mbps should be typed as 10 if that is what the transfer actually holds.
+2. **Count only busy hours** — A laptop asleep on Wi-Fi is not using the full rate. Type the hours the transfer is actually running.
+3. **Multiply by the days you care about** — One day is the easy check against 4.5 GB at 10 Mbps for an hour. Then set 30 if you want a month of identical days.
+
+### Guide
+
+#### A quota is hours at a rate, not a headline speed
+
+An ISP quota is a pile of bytes. A plan speed is a rate. They meet only when you say how long the rate is sustained. This page does that multiplication and converts bits to decimal gigabytes. It will not guess a streaming title, a video call or a game, because those do not fill a 100 Mbps pipe for the whole hour. If you know the file size instead of the duration, the download-time calculator answers the other direction.
+
+### FAQ
+
+**Where does Data Usage Calculator run?**
+Data Usage Calculator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How many GB is 10 Mbps for one hour?**
+4.5 decimal gigabytes. Ten million bits a second for 3,600 seconds is 36 billion bits, which is 4.5 billion bytes.
+
+**Why not 24 hours by default?**
+Because almost nobody fills the pipe all day. The sample is one hour. Change the hours to match the transfer, not the time the computer is switched on.
+
+**Is this the same as the download-time page?**
+No. That page starts from a file size and a speed and returns a clock time. This page starts from a speed and a duration and returns gigabytes.
+
+**Does a speed test replace the Mbps box?**
+Only as a hint. A ten-second test is not the rate of an evening. Type the rate you believe holds for the hours in the second box.
+
+## Uptime Calculator
+
+URL: https://justtools.info/network-tools/uptime-calculator/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Uptime Calculator on Toolspire: Turn an availability percent such as 99.9 into downtime for a day, a 30-day month and a 365-day year. It is arithmetic.
+
+### At a glance
+
+- Uptime Calculator on Toolspire: downtime fraction = **(100 − percent) ÷ 100**. At 99.9% that fraction is 0.001.
+- A **365-day year** at 99.9% allows **8 h 45 min 36 sec**. The year is 365 × 86,400 seconds, not 365.25.
+- The same 99.9% allows about **1 min 26 sec a day** and **43 min 12 sec in a 30-day month**.
+- **100% is 0 seconds.** A percent above 100 or below 0 is rejected. This page does not watch a host.
+
+### Features
+
+- **Three windows from one percent**: The headline is the year. The detail is the day and a 30-day month, so a monthly SLA and a yearly SLA are not mixed up.
+- **A 365-day year on purpose**: Leap seconds and the extra day in a leap year are left out so 99.9% has one published answer.
+- **Nearest second**: 86.4 seconds in a day at 99.9% is shown as 1 min 26 sec. The raw product is not left as a long decimal.
+
+### How to use the Uptime Calculator
+
+1. **Type the percent from the agreement** — 99.9 and 99.99 are different promises. Do not round the contract’s figure before you type it.
+2. **Read the year on the headline** — That is the usual way an annual SLA is spoken. The month in the detail is 30 days, not “this calendar month”.
+3. **Do not treat the number as a ping result** — Nothing is contacted. If you need to see whether a path is up right now, this page will not tell you.
+
+### Guide
+
+#### What the nines actually buy
+
+Each extra nine cuts the allowed downtime by ten. Two nines, 99%, still leave about 3.65 days in a 365-day year. Three nines, 99.9%, leave 8 hours 45 minutes 36 seconds. Four nines leave about 52 minutes 34 seconds. The page is that multiplication and nothing else: no probe, no incident clock, no exclusion for planned maintenance. If the contract excludes a maintenance window, subtract that window yourself. The calculator will not.
+
+### FAQ
+
+**Where does Uptime Calculator run?**
+Uptime Calculator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How much downtime is 99.9% in a year?**
+8 hours, 45 minutes and 36 seconds, in a year of 365 days. Per day it is 1 minute 26 seconds, after rounding 86.4 seconds to the nearest second.
+
+**Why 365 days and not 365.25?**
+So the answer does not change with a leap-year average. A contract that defines a year differently needs that year length, not this one.
+
+**Does 100% mean the service cannot fail?**
+It means the arithmetic allows zero seconds. It does not mean a real service has been, or will be, perfect.
+
+**Will this ping my server?**
+No. You type a percent. The page never opens a connection.
+
+## Port Number Lookup
+
+URL: https://justtools.info/network-tools/port-number-lookup/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Port Number Lookup on Toolspire. Look up a well-known TCP or UDP port, or a service name such as SSH, HTTPS or MySQL, from a fixed list. No host is scanned.
+
+### At a glance
+
+- Port Number Lookup on Toolspire: **443 TCP is HTTPS.** That is the port a browser uses for a site with TLS.
+- **22 TCP is SSH**, including SFTP and Git over SSH. **53 is DNS**, usually UDP, and TCP when the answer is large.
+- Mail is split on purpose: **25** is server-to-server SMTP, **587** is submission from a mail app, **465** is SMTPS.
+- The list is fixed. **Nothing is contacted**, and port 1 returning no row does not mean a host has that port closed.
+
+### Features
+
+- **Number or name**: 443 returns one row. Typing mysql returns 3306. A partial name can return several rows, listed in the detail.
+- **Protocol on the row**: DHCP is labelled UDP. HTTPS is labelled TCP. DNS is labelled TCP/UDP because both are real.
+- **A short note, not a scan**: Each row says what the port is for. The page never sends a packet to an address you did not type, and there is no address box.
+
+### How to use the Port Number Lookup
+
+1. **Type the number or the service** — Use 443, or https, or ssh. The match is the list on this page, not a live host.
+2. **Read the protocol** — A firewall rule that says TCP 53 does not cover ordinary DNS queries, which are UDP. The row says which one the service usually uses.
+3. **Treat a miss as “not in the list”** — Thousands of registered ports are absent. Absence is not a closed port and not an unused port.
+
+### Guide
+
+#### A pocket list, not a port scan
+
+People search a port because a log, a firewall rule or an error named a number. The useful answer is the service name and whether it is TCP, UDP or both. This page answers from a short list of those well-known services: the web, mail, DNS, SSH, databases and a few admin ports. It does not contact an IP address, it does not discover what is listening, and it does not suggest how to reach a service you do not administer. Redis on 6379 and MongoDB on 27017 are included with the note that they should not face the public internet.
+
+### FAQ
+
+**Where does Port Number Lookup run?**
+Port Number Lookup runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is port 443?**
+HTTPS on TCP. It is HTTP inside TLS, the port a browser uses for a secure site.
+
+**What is port 22?**
+SSH on TCP. File transfer with SFTP and Git over SSH use it too.
+
+**Why are there three SMTP ports?**
+Port 25 is how mail servers hand mail to each other. Port 587 is how a person’s mail app submits a message. Port 465 is SMTP wrapped in TLS from the start. They are not interchangeable.
+
+**Does a missing port mean it is closed?**
+No. The page did not look at a computer. The number is simply not one of the named rows.
+
+## MAC Address Generator
+
+URL: https://justtools.info/network-tools/mac-address-generator/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+MAC Address Generator on Toolspire. Check a MAC address, name the unicast and local-admin bits. No account is required.
+
+### At a glance
+
+- MAC Address Generator on Toolspire: A MAC is **48 bits**, shown as six hex bytes. Colons, dashes and Cisco groups of four (`001A.2B3C.4D5E`) all parse.
+- The **lowest bit of the first byte** is the group bit. 1 means multicast or broadcast. 0 means unicast.
+- The **next bit** is the local bit. 1 means locally administered. 0 means a universally administered, vendor-style address.
+- Generate sets those bits to **local and unicast** (`xxxxxx10` in the low two bits). It does not copy a real vendor prefix, and it does not look one up.
+
+### Features
+
+- **Read the two bits that matter**: The detail says unicast or multicast, and local or universal. The other bytes are not turned into a manufacturer name.
+- **One canonical spelling**: Whatever separators you paste, the headline is lowercase hex with colons.
+- **A lab address, not a disguise**: The button builds a local unicast address for a virtual machine or a lab you are allowed to configure. It is not a way onto someone else’s network.
+
+### How to use the MAC Address Generator
+
+1. **Paste an address to read it** — Colons, dashes or Cisco dots are fine. You need 12 hex digits. Anything else is refused.
+2. **Read local versus universal** — A burned-in adapter address has the local bit clear. An address a hypervisor invented usually has it set.
+3. **Generate only for a machine you may configure** — Press the button, then use the result in a lab or a VM setting you control. Do not put it on a network where you are not allowed to choose the address.
+
+### Guide
+
+#### Why the generated address is locally administered
+
+The IEEE leaves a bit so that software can mint an address without colliding with a factory prefix. That is the local bit, the second-lowest bit of the first octet. This generator sets it and clears the group bit, so the result is a unicast address that does not pretend to be a particular vendor’s hardware. There is no manufacturer database on the page, because a partial list would mis-name most addresses. Use the result where you are allowed to set a virtual adapter. It is not a tool for slipping past an access list on a network you do not administer.
+
+### FAQ
+
+**Where does MAC Address Generator run?**
+MAC Address Generator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What does locally administered mean?**
+The address was chosen by software or by an administrator, not burned into a card by a manufacturer. The second-lowest bit of the first octet is 1.
+
+**What is the multicast bit?**
+The lowest bit of the first octet. When it is 1, the address names a group, not a single adapter. ff:ff:ff:ff:ff:ff is the broadcast address and that bit is set.
+
+**Will this tell me the vendor?**
+No. The other five bytes are not looked up. A vendor guess from a short table would be wrong too often to print.
+
+**Can I use a generated address on any network?**
+Only on a lab or a virtual machine you are allowed to configure. The page will not help you substitute an address to get past someone else’s filter.
+
+## CIDR Overlap Checker
+
+URL: https://justtools.info/network-tools/cidr-overlap-checker/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+CIDR Overlap Checker on Toolspire. Compare two IPv4 CIDR prefixes and report whether one contains the other, they are the same range, or they are disjoint.
+
+### At a glance
+
+- CIDR Overlap Checker on Toolspire: each prefix is masked to its **network address and broadcast address**, then the two ranges are compared.
+- **10.0.0.0/8 contains 10.1.2.0/24.** Reverse the boxes and the result is “second contains first”.
+- **10.0.0.0/24 and 10.0.1.0/24 are disjoint.** Same-size neighbours do not share an address.
+- A halfway overlap is **not a possible answer** for two valid CIDR blocks. They nest, they match, or they sit apart. IPv6 is not compared here.
+
+### Features
+
+- **Four plain answers**: Same range, first contains second, second contains first, or disjoint. The detail shows both broadcast ranges.
+- **The host bits are masked off**: 10.1.2.9/24 is the same block as 10.1.2.0/24. The typed host does not create a different range.
+- **IPv4 only**: The subnet calculator is the page for IPv6, VLSM and a single block’s host count. This page only compares two IPv4 prefixes.
+
+### How to use the CIDR Overlap Checker
+
+1. **Type two prefixes with a slash** — 10.0.0.0/8 and 10.1.2.0/24 are the sample. A mask written as 255.255.255.0 is not accepted here.
+2. **Read contains before you read overlap** — If the result says contains, every address of the smaller block is inside the larger one. There is no partial case to worry about.
+3. **Use the subnet page for the host list** — This page does not count usable hosts or split a block. It only answers how the two ranges sit.
+
+### Guide
+
+#### Why CIDR blocks do not overlap halfway
+
+A CIDR prefix is a power-of-two range that starts on its own alignment. Take two of them. Either one range sits entirely inside the other, they are the same range, or they share no address. The awkward case people fear — the first half of one block colliding with the second half of another — cannot happen when both inputs are real prefixes. If a diagram shows that kind of overlap, one of the boxes is not a CIDR block. This checker masks each input, compares the two closed ranges, and uses those four words. It does not plan VLSM and it does not speak IPv6.
+
+### FAQ
+
+**Where does CIDR Overlap Checker run?**
+CIDR Overlap Checker runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Does 10.0.0.0/8 contain 10.1.2.0/24?**
+Yes. The result is “First contains second”. Swap the boxes and it becomes “Second contains first”.
+
+**Can two different /24 networks overlap?**
+No. Two different blocks of the same size are disjoint. 10.0.0.0/24 and 10.0.1.0/24 do not share an address.
+
+**What if I type 10.1.2.9/24?**
+The host bits are cleared. That is the block 10.1.2.0–10.1.2.255, the same as 10.1.2.0/24.
+
+**Where do I calculate hosts or IPv6?**
+On the IP subnet calculator. This page only compares two IPv4 prefixes.
+
+## IPv4 Address Converter
+
+URL: https://justtools.info/network-tools/ipv4-address-converter/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+IPv4 Address Converter on Toolspire: Convert an IPv4 address between dotted decimal, a 32-bit integer, hexadecimal and dotted binary.
+
+### At a glance
+
+- IPv4 Address Converter on Toolspire: the integer is **octet1 × 256³ + octet2 × 256² + octet3 × 256 + octet4**.
+- **192.168.0.1** is **3,232,235,521**, hex **0xc0a80001**, binary **11000000.10101000.00000000.00000001**.
+- You can paste the **dotted form, the decimal integer, or 0x plus hex**. All three name the same 32-bit value.
+- An octet above **255** is rejected. This page does not apply a subnet mask. The subnet calculator is the page for network and broadcast.
+
+### Features
+
+- **Three spellings in, dotted decimal out**: The headline is always the four octets. Integer, hex and binary sit in the detail so you can check each one.
+- **Binary stays in four groups**: Each octet is eight bits, padded. 192 is 11000000, not a single 32-bit string with no dots.
+- **No mask applied**: The address is not reduced to a network address. /24 belongs on the subnet or overlap page.
+
+### How to use the IPv4 Address Converter
+
+1. **Paste one spelling** — Use 192.168.0.1, or 3232235521, or 0xc0a80001. Do not include a prefix length.
+2. **Check the integer against the hex** — The hex is the same 32-bit number. 0xc0 is 192, 0xa8 is 168, 0x00 is 0, 0x01 is 1.
+3. **Leave subnet questions on the other page** — If you need the network or the broadcast, open the subnet calculator. This page will not guess a mask.
+
+### Guide
+
+#### One 32-bit number, four ways of writing it
+
+An IPv4 address is an unsigned 32-bit integer that people print as four decimal bytes. Hex is the same integer with a 0x prefix, eight digits so leading zeros stay visible. Binary is those four bytes in bits, because that is how a mask lines up in a textbook. 192.168.0.1 is the running example: 3,232,235,521, 0xc0a80001, and 11000000.10101000.00000000.00000001. The converter stops there. It does not decide whether the address is private, and it does not find a subnet.
+
+### FAQ
+
+**Where does IPv4 Address Converter run?**
+IPv4 Address Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is 192.168.0.1 as an integer?**
+3,232,235,521. In hex that is 0xc0a80001.
+
+**What is 192 in binary?**
+11000000. The full address 192.168.0.1 is 11000000.10101000.00000000.00000001.
+
+**Can I paste a hex address?**
+Yes, with a 0x prefix and at most eight hex digits, such as 0xc0a80001.
+
+**Does this apply a subnet mask?**
+No. There is no prefix box. Network and broadcast addresses are on the subnet calculator.
+
+## Punycode Converter
+
+URL: https://justtools.info/network-tools/punycode-converter/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Punycode Converter on Toolspire. Convert an international domain name to ASCII punycode and back, using the xn-- prefix from RFC 3492.
+
+### At a glance
+
+- Punycode Converter on Toolspire: punycode is **RFC 3492**. A label that needs it is prefixed with **xn--**.
+- **münchen.de** encodes to **xn--mnchen-3ya.de**. The ASCII label “de” is not encoded.
+- **bücher** encodes to **xn--bcher-kva**. Pasting that ASCII form decodes back to bücher.
+- A scheme, a slash, a space or an **@** is rejected. This page converts a domain, not a full URL.
+
+### Features
+
+- **Encode and decode in one box**: Unicode labels become xn-- in the headline. xn-- labels become Unicode in the detail. ASCII labels pass through.
+- **One label at a time**: www.münchen.de encodes only the middle label. The dots stay dots.
+- **The algorithm is on the page**: The result does not ask a DNS server. A name can be converted even when it is not registered.
+
+### How to use the Punycode Converter
+
+1. **Paste the domain without https://** — münchen.de is enough. A path or a query string is refused so it is not mistaken for part of a label.
+2. **Read ASCII on the headline** — That is the form older DNS software stores. The detail is the Unicode spelling.
+3. **Look the name up elsewhere if you need records** — Conversion is not registration and not a DNS answer. The DNS lookup tool is the one that asks resolvers.
+
+### Guide
+
+#### Why only some labels grow an xn--
+
+A domain is a sequence of labels separated by dots. Punycode is defined for one label. Letters that already fit in ASCII stay as they are, which is why “de” and “www” do not gain a prefix. A label with a character outside ASCII is encoded and written as xn-- plus the punycode. münchen.de therefore becomes xn--mnchen-3ya.de, and bücher becomes xn--bcher-kva. The page implements RFC 3492 for that conversion. It does not speak to a DNS server, and it will not accept a URL with a scheme, because the slashes are not part of the name.
+
+### FAQ
+
+**Where does Punycode Converter run?**
+Punycode Converter runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is the punycode for münchen.de?**
+xn--mnchen-3ya.de. The label de is already ASCII, so only münchen is encoded.
+
+**What is bücher in punycode?**
+xn--bcher-kva. Pasting that value back prints bücher in the Unicode line.
+
+**Does this check that the domain exists?**
+No. Any string of labels can be converted. Existence is a DNS question, and the DNS lookup tool is the one that asks.
+
+**Can I paste a full URL?**
+No. Drop the scheme and the path first. A slash, a space or an @ is rejected so it cannot hide inside a label.
+
+## IPv6 Expander
+
+URL: https://justtools.info/network-tools/ipv6-expander/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+IPv6 Expander on Toolspire: Expand a compressed IPv6 address to eight groups of four hex digits. 2001:db8::1 becomes 2001:0db8:0000:0000:0000:0000:0000:0001.
+
+### At a glance
+
+- IPv6 Expander on Toolspire: **2001:db8::1** expands to **2001:0db8:0000:0000:0000:0000:0000:0001**.
+- **::** replaces consecutive zero groups. There must be **one** of them at most.
+- Each group is padded to **four** hex digits.
+- **::1** is the loopback address in compressed form, eight groups ending in 0001.
+
+### Features
+
+- **Padding is visible**: db8 becomes 0db8 so every group has four digits.
+- **A double compression is refused**: Two :: marks do not have a unique expansion.
+- **No DNS**: The page rewrites the text. It does not resolve a name.
+
+### How to use the IPv6 Expander
+
+1. **Paste the compressed address** — The sample should fill seven zero-padded groups around db8 and 1.
+2. **Try ::1** — It should be seven zero groups and 0001.
+3. **Do not paste a name** — example.com is not an address.
+
+### Guide
+
+#### One abbreviation, eight groups
+
+An IPv6 address is eight 16-bit groups. A single :: stands for one or more of those groups being zero, and the number of zeros is whatever is needed to reach eight. 2001:db8::1 has two written groups, so six zero groups are inserted. Each group is then padded to four hex digits. A second :: would make the width ambiguous, so it is rejected.
+
+### FAQ
+
+**Where does IPv6 Expander run?**
+IPv6 Expander runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is the full form of 2001:db8::1?**
+2001:0db8:0000:0000:0000:0000:0000:0001.
+
+**What is ::1?**
+0000:0000:0000:0000:0000:0000:0000:0001, the loopback address.
+
+**Why are two :: marks rejected?**
+The number of zero groups would not be unique.
+
+**Does this look up the address?**
+No.
+
+## Wildcard Mask Calculator
+
+URL: https://justtools.info/network-tools/wildcard-mask-calculator/
+Category: Internet & Network Tools
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Turn an IPv4 prefix length into a subnet mask and the Cisco-style wildcard, which is the mask with the bits flipped. /26 is mask 255.255.255.192.
+
+### At a glance
+
+- Wildcard Mask Calculator on Toolspire: **/26** has subnet mask **255.255.255.192** and wildcard **0.0.0.63**.
+- The wildcard is the **bitwise NOT** of the mask, on 32 bits.
+- **/32** is mask **255.255.255.255** and wildcard **0.0.0.0**. One address.
+- **/0** is mask **0.0.0.0** and wildcard **255.255.255.255**. Every address.
+
+### Features
+
+- **Both masks**: The headline is the wildcard. The detail is the subnet mask people already know.
+- **/26 is the check**: The last six bits are host bits, and 2^6 − 1 is 63.
+- **Not a full subnet plan**: Network and broadcast addresses need an IP as well. The subnet calculator takes that.
+
+### How to use the Wildcard Mask Calculator
+
+1. **Type the prefix length** — 26 is the sample.
+2. **Read 0.0.0.63** — That is the wildcard.
+3. **Use the subnet calculator for a specific network** — This page has no IP address box.
+
+### Guide
+
+#### Host bits become the wildcard
+
+A /26 prefix fixes the first 26 bits and leaves 6 bits for the host. The subnet mask has those 26 bits set: 255.255.255.192. The wildcard used in many ACLs sets the other bits: the 6 host bits, which is 63 in the last octet, 0.0.0.63. Flipping every bit of the mask is the whole conversion. It does not compute a network address, because no IP was given.
+
+### FAQ
+
+**Where does Wildcard Mask Calculator run?**
+Wildcard Mask Calculator runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**What is the wildcard for /26?**
+0.0.0.63. The subnet mask is 255.255.255.192.
+
+**What is /32?**
+Wildcard 0.0.0.0. The mask is all ones.
+
+**What is /0?**
+Wildcard 255.255.255.255. The mask is all zeros.
+
+**Does this need an IP address?**
+No. The prefix alone fixes both masks.
+

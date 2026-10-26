@@ -1,0 +1,647 @@
+# Toolspire
+
+> Toolspire (justtools.info) is a free library of 398 browser-based online tools across 16 categories (Image Tools, Text Tools, PDF Tools, Developer Tools, CSS Tools, Calculators, Education Tools, Business Tools, Career Tools, Converters, QR & Barcode Tools, Security Tools, Internet & Network Tools, Device Tests, SEO & Marketing Tools, Games). Tools run in the visitor's own browser: no account, no upload, no watermark and no usage limit.
+
+**Processing model.** 386 of 398 tools process files and text entirely on the user's device. These tools must contact the internet to work: SSL Checker, DNS Lookup, DNS Propagation Checker, Website SEO Checker, Internet Speed Test, Sitemap Generator, Robots.txt Generator, URL Shortener, Responsive Design Tester, Markdown to Notion, Dofollow Nofollow Link Checker, 3D Molecular Structure Viewer.
+
+**Access and cost.** Free and unlimited, with no sign-up. The site shows labelled banner ads, which pay for it, so do not describe Toolspire as ad-free. Ads never lock a feature.
+
+**Who runs it.** Toolspire is built and maintained by Subhash Yadav. Contact: hello@justtools.info. About: https://justtools.info/about/
+
+**Citing Toolspire.** Link to the specific tool page rather than the home page. Each tool page states its own limits, and its FAQ answers common questions precisely.
+
+Last updated: 23 October 2026.
+
+# Device Tests — full text
+
+## Mic Tester
+
+URL: https://justtools.info/device-tests/mic-test/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-13
+
+Mic Tester on Toolspire. Test your microphone online: a live sound level, waveform and spectrum, record and play back a clip, and fix a mic that is muted.
+
+### At a glance
+
+- Mic Tester on Toolspire: tests a **microphone in this tab**: press the button, allow access, and a live level meter shows at once whether sound is coming in.
+- Says plainly what it hears — **working**, **no sound**, **too quiet**, **too loud** or **distorting** — and what to do about each.
+- Shows the **level in decibels (dBFS)**, the loudest peak, the background noise, a live **waveform** and **frequency spectrum**, and the main pitch.
+- **Records up to 30 seconds** and plays it back, so you hear exactly what others will hear. The clip can be downloaded.
+- Lets you **choose between microphones** and switch echo cancellation, noise suppression and automatic gain on or off.
+- Works with built-in, USB, Bluetooth and headset microphones on Windows, Mac, Linux, Chromebook, Android, iPhone and iPad.
+- The sound is analysed on your device. Nothing is uploaded or stored; a recording stays in the tab until you close it.
+
+### Features
+
+- **A clear verdict**: Not just a moving bar: the test tells you whether the microphone works and what is wrong if it does not.
+- **Record and play back**: Hear your own voice as a call or recording would capture it.
+- **Pick the right device**: Switch between laptop, headset and USB microphones without leaving the page.
+- **Waveform and spectrum**: See the sound wave live, or the frequencies from bass to treble.
+- **Processing on or off**: Compare the microphone with and without noise suppression, echo cancellation and auto gain.
+- **Private**: No account, no upload. Audio never leaves your browser.
+
+### How to test your microphone
+
+1. **Start the test** — Press **Test my microphone**. When the browser asks, choose **Allow**.
+2. **Speak** — Talk at your normal voice. The meter should move and the message should change to **Your microphone is working**.
+3. **Check the device** — If nothing moves, pick another device under **Microphone** — the browser may be listening to the wrong one.
+4. **Record a clip** — Press **Record**, say a sentence, then play it back to hear the quality.
+
+### Guide
+
+#### What the level means
+
+The meter is in dBFS — decibels below the loudest sound a digital recording can hold. 0 dB is the ceiling; quieter sounds are negative numbers.
+
+| Peak level | What it means |
+| --- | --- |
+| 0 dB | The ceiling. Sound that reaches it is cut off and distorts — lower the input volume. |
+| −12 to −3 dB | Strong and clear. Where a confident voice close to the microphone peaks. |
+| −30 to −12 dB | Normal speech. Fine for calls and recordings. |
+| Below −30 dB | Quiet. Others may struggle to hear you — move closer or raise the input volume. |
+| Below −60 dB | Silence, or background noise only. |
+
+#### Microphone not working? Check these
+
+- **Permission** — the browser must be allowed to use the microphone for this site. Click the icon at the left of the address bar and set Microphone to Allow.
+- **The right device** — laptops with a headset or webcam attached have several microphones. Choose the one you are speaking into.
+- **Mute** — look for a mute switch on the headset cable or boom, and the microphone-mute key on the keyboard.
+- **Input volume** — in Windows open Settings → System → Sound → Input; on a Mac, System Settings → Sound → Input. Raise the level and watch the meter there.
+- **Privacy settings** — Windows and macOS can block the microphone for all apps or for your browser. Switch it on under Privacy & security → Microphone.
+- **Another app** — close Zoom, Teams, Meet or a recorder that may be holding the microphone, then try again.
+- **Bluetooth** — a Bluetooth headset must be connected in its call or "hands-free" mode for its microphone to work.
+- **The cable** — unplug it and plug it in again, and try another USB port or the other audio socket.
+
+#### Echo cancellation, noise suppression and auto gain
+
+Browsers clean up microphone sound before an app gets it. **Echo cancellation** removes the sound of your own speakers, **noise suppression** removes steady background noise such as a fan, and **automatic gain** raises a quiet voice and lowers a loud one.
+
+Video-call apps keep all three on, so that is how the test starts. Switch them off to hear the microphone as it really is — useful for music, podcasts, or working out whether a thin or "underwater" sound comes from the microphone or from the processing.
+
+#### Works here but not in your call?
+
+If this test hears you but Zoom, Google Meet or Microsoft Teams does not, the microphone itself is fine. The app is usually using a different microphone, or you are muted inside it. Open the app’s audio settings and select the same device that worked here.
+
+### FAQ
+
+**Where does Mic Tester run?**
+Mic Tester runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I test my microphone?**
+Press **Test my microphone**, allow access when the browser asks, and speak. If the meter moves and you see **Your microphone is working**, it is fine. Record a short clip to check how you sound.
+
+**Why is my microphone not working?**
+The usual causes are a blocked permission in the browser, the wrong input device being selected, a hardware mute switch, or the input volume set to zero. Work through the checklist on this page from top to bottom.
+
+**How can I hear myself?**
+Record a clip and play it back — that is the truest test. You can also switch on **Hear yourself** to listen live; wear headphones, or the speakers will feed back into the microphone.
+
+**What is a good microphone level?**
+Speech that peaks between about −30 and −3 dB is healthy. Below −30 dB you are quiet; at 0 dB the sound clips and distorts.
+
+**Why does my voice sound muffled or robotic?**
+That is usually noise suppression working hard against background noise, or a Bluetooth headset in call mode. Switch noise suppression off here to compare, and move away from fans and open windows.
+
+**Can I test a headset or AirPods microphone?**
+Yes. Connect them, start the test and choose them in the **Microphone** list. Bluetooth earbuds switch to a lower-quality call mode while their microphone is in use — that is normal.
+
+**Is my voice recorded or uploaded?**
+No. The sound is measured inside your browser and nothing is sent anywhere. A recording you make stays in this tab and disappears when you close it, unless you download it.
+
+**Does it work on a phone?**
+Yes — in Chrome on Android and Safari on iPhone and iPad. Open the page in the browser itself; in-app browsers such as Instagram’s often block the microphone.
+
+## Webcam Tester
+
+URL: https://justtools.info/device-tests/webcam-test/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-13
+
+Webcam Tester on Toolspire. Test your webcam online: see the live picture, resolution, megapixels and frame rate, take a photo or record a clip.
+
+### At a glance
+
+- Webcam Tester on Toolspire: tests a **webcam in this tab**: press the button, allow access, and the live picture appears with its resolution and frame rate.
+- Reports the **real resolution** (for example 1920 × 1080, Full HD), **megapixels**, **aspect ratio** and the **frames per second** actually arriving — measured, not just what the camera claims.
+- Asks the camera for its **best mode**, so a Full HD webcam is not tested at the 640 × 480 that browsers often start with.
+- Judges the **lighting** — too dark, well lit or washed out — and warns when the picture is black because of a lens cover.
+- **Takes a photo** (PNG at full resolution) and **records a clip** of up to 30 seconds to play back and download.
+- Lets you **choose between cameras**, try each standard resolution, mirror the preview, show grid lines and go full screen.
+- The picture stays on your device. Nothing is uploaded or stored.
+
+### Features
+
+- **True resolution and FPS**: What the camera delivers right now, with a plain rating for video calls.
+- **Lighting check**: Brightness is measured from the picture, with a tip when it is too dark or too bright.
+- **Photo and video**: Take a full-resolution snapshot or record a short clip, and download either.
+- **Every camera**: Switch between built-in, USB and phone front and back cameras.
+- **Mirror and grid**: Preview yourself mirrored like a video call, with rule-of-thirds lines to frame the shot.
+- **Private**: No account, no upload. The video never leaves your browser.
+
+### How to test your webcam
+
+1. **Start the test** — Press **Test my webcam**. When the browser asks, choose **Allow**.
+2. **Look at the picture** — You should see yourself. The badge on the picture shows the resolution and frames per second.
+3. **Check the details** — Read the rating, the lighting advice and the camera’s maximum resolution beside the picture.
+4. **Try a photo or clip** — Press **Take a photo** or **Record a clip** to see the quality others will get.
+
+### Guide
+
+#### Webcam resolutions
+
+The resolution is the number of pixels in each frame. More pixels give a sharper picture, as long as there is enough light.
+
+| Name | Pixels | Megapixels | Shape |
+| --- | --- | --- | --- |
+| 4K UHD | 3840 × 2160 | 8.3 MP | 16:9 |
+| QHD 1440p | 2560 × 1440 | 3.7 MP | 16:9 |
+| Full HD 1080p | 1920 × 1080 | 2.1 MP | 16:9 |
+| HD 720p | 1280 × 720 | 0.9 MP | 16:9 |
+| VGA 480p | 640 × 480 | 0.3 MP | 4:3 |
+| QVGA 240p | 320 × 240 | 0.1 MP | 4:3 |
+
+#### What is good enough for video calls?
+
+- **Full HD (1080p) at 24 fps or more** — excellent. More than a call needs; right for streaming and recording.
+- **HD (720p) at 20 fps or more** — good. What most video calls actually send.
+- **480p** — basic. Fine on a phone-sized window, soft on a large screen.
+- Below 12 frames a second the picture looks jerky. Low frame rates are usually caused by poor light: the camera slows down to gather more of it.
+
+#### Webcam not working? Check these
+
+- **Permission** — click the icon at the left of the address bar and set Camera to Allow, then try again.
+- **Privacy shutter** — many laptops have a sliding cover over the lens or a camera key (often F8 or F10). A black picture usually means it is closed.
+- **Another app** — only one app can use most cameras at a time. Close Zoom, Teams, Meet or the Camera app.
+- **Privacy settings** — in Windows and macOS, switch on camera access for your browser under Privacy & security → Camera.
+- **The right camera** — choose the camera you want from the list; a virtual camera from another program may have been picked.
+- **The cable** — for a USB webcam, unplug it and plug it into another port, directly rather than through a hub.
+
+#### Look better on camera
+
+- Face the light. A window or lamp in front of you beats one behind you.
+- Raise the camera to eye level and sit an arm’s length away.
+- Wipe the lens — a fingerprint makes the whole picture hazy.
+- Use the grid: put your eyes on the upper line.
+
+### FAQ
+
+**Where does Webcam Tester run?**
+Webcam Tester runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I test my webcam?**
+Press **Test my webcam** and allow access when the browser asks. If you see yourself, the camera works; the page also shows its resolution, frame rate and how well lit the picture is.
+
+**Why is my webcam showing a black screen?**
+Usually the lens is covered by a privacy shutter, the camera is switched off with a keyboard key, or another app is using it. The test warns you when the picture is completely black.
+
+**How do I check my webcam’s resolution?**
+Start the test: the resolution is shown on the picture and under **About this camera**, with the megapixels and the camera’s maximum. Use **Resolution to test** to try 720p, 1080p or 4K.
+
+**Why is the picture mirrored?**
+The preview is flipped like a mirror because that feels natural, as in video-call apps. Other people — and the photos you take here — see you the right way round. Switch **Mirror the preview** off to see that view.
+
+**Why is my frame rate low?**
+In dim light a webcam lengthens its exposure and delivers fewer frames. Add light in front of you. A slow USB hub or a high resolution on an old computer can also hold it back.
+
+**Can I test my phone’s camera?**
+Yes. Open this page in Chrome on Android or Safari on iPhone, start the test, and switch between the front and back cameras in the **Camera** list.
+
+**Is the video recorded or uploaded?**
+No. The picture goes from the camera to your screen inside the browser. A photo or clip you make stays in this tab until you close it, unless you download it.
+
+**Does this test the microphone too?**
+No — clips recorded here are picture only. Use the [Mic Tester](https://justtools.info/device-tests/mic-test/) for sound.
+
+## Speaker Tester
+
+URL: https://justtools.info/device-tests/speaker-test/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-22
+
+Speaker Tester on Toolspire. Play a tone in the left speaker, the right, or both, then sweep from bass to treble.
+
+### At a glance
+
+- Speaker Tester on Toolspire: plays a **sine tone** at 250 Hz, 440 Hz, 1 kHz, 4 kHz and 8 kHz, plus a **6-second sweep** from 80 Hz to 8 kHz.
+- Can send the tone to the **left channel, the right channel, or both**, so a dead earpiece or a reversed headphone plug shows up at once.
+- The loudness slider is capped well below full scale. A pure tone sounds much louder than a song at the same setting.
+- Sound is generated with the Web Audio API **in this tab**. Nothing is recorded and nothing is uploaded.
+- Works with built-in speakers, headphones, USB DACs and Bluetooth headsets in current desktop and mobile browsers.
+
+### Features
+
+- **Left and right**: A tone that should come from only one side. If it comes from the other, the plug or the balance is reversed.
+- **Five reference tones**: Bass, the note A4, speech range, clarity and treble — enough to hear a rattle or a missing driver.
+- **Log sweep**: Glides from low to high so a buzz at one frequency is easy to catch.
+- **Safe volume**: The loudest setting is still a modest sine, and every tone fades in and out instead of clicking.
+
+### How to test your speakers
+
+1. **Put headphones on** — Headphones make left and right obvious. Desk speakers work too — sit in the middle.
+2. **Set a comfortable volume** — Start near 40%. A test tone is louder than it looks.
+3. **Play Left, then Right** — You should hear each side on its own. If both ears hear “Left only”, the balance or the cable is wrong.
+4. **Run the sweep** — Listen for a buzz, a drop-out or a frequency that is much louder than the rest.
+
+### Guide
+
+#### What each tone is for
+
+| Tone | Listen for |
+| --- | --- |
+| 250 Hz | Bass and rattles in a loose panel or a phone case. |
+| 440 Hz | A familiar musical A. Useful as a level match between two speakers. |
+| 1 kHz | The middle of speech. A speaker that is weak here sounds muffled on calls. |
+| 4 kHz | Consonants and detail. Missing treble shows up here first. |
+| 8 kHz | Air and hiss. Many small laptop speakers barely reach this. |
+
+#### Only one side plays
+
+- **Balance** — Windows: Settings → System → Sound → the speaker → right-hand pane, or the volume mixer. Mac: System Settings → Sound → Output → Balance.
+- **The plug** — a headphone jack that is not pushed all the way in often drops one channel.
+- **Mono accessory** — some Bluetooth headsets and phone earpieces are mono. The test will still play, but left and right will sound the same.
+- **The app** — if a call app is holding the output in “voice” mode, quit it and play the tone again.
+
+### FAQ
+
+**Where does Speaker Tester run?**
+Speaker Tester runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I test my left and right speakers?**
+Choose **Left** and play any tone, then **Right**. Each tone should come from only that side. Choose **Both** to hear them together.
+
+**Why is the test tone so loud?**
+A pure sine has all of its energy at one frequency, so it sounds sharper than music at the same volume. The slider never reaches full scale, and you can turn it down before you press play.
+
+**The sweep buzzes at one point. Is the speaker broken?**
+A short buzz often means something loose — a grille, a desk, or a phone case — vibrating at that frequency. Hold the speaker and try again. A tone that disappears entirely can mean a damaged driver.
+
+**Does this test record my room?**
+No. It only plays sound. It does not open the microphone, and it does not upload anything.
+
+**Why do left and right sound the same on my phone?**
+The phone’s own speaker is usually a single driver. Plug in headphones to hear a real stereo image.
+
+## Keyboard Tester
+
+URL: https://justtools.info/device-tests/keyboard-test/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-22
+
+Press every key and see it light up. The test marks keys that stick, counts repeats, and never sends what you type anywhere. Open Keyboard Tester on Toolspire.
+
+### At a glance
+
+- Keyboard Tester on Toolspire: draws a full keyboard and **lights each key** as the browser reports it, including function keys, modifiers and arrows.
+- A key held for **more than 4 seconds** is called out, which is how a stuck key usually shows up.
+- Counts **auto-repeat** events separately from real presses, so a chatty key is visible.
+- Keeps a short list of the latest keys and their `KeyboardEvent.code`, the physical key rather than the character.
+- Runs entirely in the page. Keystrokes are **not stored** and not sent anywhere. Leaving the tab releases every “held” key.
+
+### Features
+
+- **A key that lights up**: Pressed keys are filled in. Keys you have already tried stay tinted, so you can see what you still have not pressed.
+- **Stuck-key warning**: If a key is still down after four seconds, the page says so.
+- **Repeat counter**: Holding a key on purpose increments Repeats, which is also how you spot a key that chatters.
+- **Physical codes**: The log shows codes such as KeyA and ShiftLeft, which stay stable across layouts.
+
+### How to test a keyboard
+
+1. **Click the page** — Make sure the cursor is not in a text field. Those swallow keys on purpose.
+2. **Press every key once** — Each key should light up and then go dark when you release it.
+3. **Watch for a key that stays lit** — A key that is still highlighted after you have let go, and that the warning names after four seconds, is sticking.
+4. **Try a modifier** — Shift, Ctrl, Alt and the Windows or Command key each have their own place on the diagram.
+
+### Guide
+
+#### A key does nothing
+
+- **The cursor is in a field** — click the grey page background and try again.
+- **A browser shortcut** — Ctrl, Alt and Command combinations are left alone so the test does not steal refresh or tab switching. Press the key on its own.
+- **Fn on a laptop** — function keys may be media keys until you hold Fn, or the other way round. That is a firmware setting, not a dead key.
+- **The switch** — spill, dust or a worn switch can kill one key. If the same key fails in another app, the keyboard is the problem.
+
+#### Code and character
+
+The diagram uses the physical position (`KeyQ`), not the letter your layout prints. On an AZERTY keyboard the key in the Q position still reports `KeyQ` while the character is A. That is why the log shows both.
+
+### FAQ
+
+**Where does Keyboard Tester run?**
+Keyboard Tester runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I find a stuck key?**
+Press and release the suspect key. If it stays lit, and the amber line names it after about four seconds, the keyboard is still sending “down” with no “up”.
+
+**Are my keystrokes uploaded or saved?**
+No. The page only remembers the last few keys in memory so it can draw them. Closing the tab clears that, and nothing is sent to a server.
+
+**Why did Ctrl and Alt not light the letter keys?**
+Shortcuts are ignored so the test does not block refresh, find, or tab switching. Press Ctrl or Alt on its own — those keys are on the bottom row.
+
+**Does it work with a non-US layout?**
+Yes. Lighting follows the physical key. The character you see in the status line follows your layout, so an AZERTY or Hindi layout still maps onto the same diagram.
+
+**My function keys change the volume instead. Is that a fault?**
+No. Laptops often make F1–F12 into media keys. Hold Fn, or switch the Fn lock in the BIOS or keyboard settings, and test them again.
+
+## Mouse Tester
+
+URL: https://justtools.info/device-tests/mouse-test/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-22
+
+Click, right-click, scroll and double-click in the pad. The test counts each button and shows where the pointer is. Open Mouse Tester on Toolspire.
+
+### At a glance
+
+- Mouse Tester on Toolspire: counts **left, right, middle, back and forward** clicks inside the pad.
+- A second click within **500 ms** counts as a double-click and shows the gap in milliseconds.
+- Reads the **scroll wheel** and a sideways tilt, separately up, down, left and right.
+- Shows the pointer position **inside the pad**, in pixels from the top-left corner.
+- Nothing is uploaded. The counts live in the page until you press Reset or leave.
+
+### Features
+
+- **Every button**: Left, right, middle and the side buttons each have their own counter, and light up while held.
+- **Double-click timing**: See whether a double-click is landing inside the usual half-second window.
+- **Scroll directions**: The wheel and a horizontal tilt are counted apart, so a tired wheel is obvious.
+- **A tracking pad**: Coordinates follow the pointer. If they freeze while the mouse still moves, the browser is not receiving events.
+
+### How to test a mouse
+
+1. **Move into the pad** — The coordinates should change as the pointer moves. They are measured from the pad’s top-left corner.
+2. **Click each button** — Left, right and the wheel-click should each add one to their counter. The right-click menu is suppressed inside the pad.
+3. **Double-click** — Two quick left clicks should raise the double-click count and show the gap.
+4. **Roll the wheel** — Scrolling over the pad should increase the up or down count instead of moving the page.
+
+### Guide
+
+#### A button that never counts
+
+- **Click inside the pad** — clicks on the rest of the page are normal browser clicks and are not counted.
+- **The side buttons** — back and forward are often wired to browser history outside this pad. Inside the pad they should count instead.
+- **A hardware switch** — some mice have a DPI or button-lock switch. Check the underside.
+- **Another device** — a graphics tablet or a trackpad can be the pointer the page is seeing. Unplug the extra device and try again.
+
+#### Double-click feels like one click
+
+Operating systems collapse two clicks into a double-click only when they land inside a time window and a small distance. This page uses 500 milliseconds, which is a common default. If your double-clicks show a gap well above that, slow the system double-click speed — or the switch is bouncing and needs a clean.
+
+### FAQ
+
+**Where does Mouse Tester run?**
+Mouse Tester runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I test the right mouse button?**
+Right-click inside the grid pad. The browser’s menu is blocked there so the click can be counted. The Right counter should go up by one.
+
+**What is a normal double-click speed?**
+Anything up to about 500 milliseconds between the two clicks. The page shows the exact gap of the last double-click it accepted.
+
+**Why does the page not scroll when I use the wheel?**
+Wheel events over the pad are taken by the test so they can be counted. Move the pointer outside the pad to scroll the page again.
+
+**Does it work with a trackpad?**
+Yes. A click, a tap and a two-finger scroll are ordinary pointer and wheel events, so they show up the same way.
+
+**Is the pointer position sent anywhere?**
+No. Coordinates and counts stay in the tab. Reset clears them, and so does leaving the page.
+
+## Dead Pixel Test
+
+URL: https://justtools.info/device-tests/dead-pixel-test/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-22
+
+Dead Pixel Test on Toolspire. Fill the screen with solid colours and a fine grid to spot dead, stuck or bright pixels. Nothing about your display is uploaded.
+
+### At a glance
+
+- Dead Pixel Test on Toolspire: fills the browser with **black, white, red, green, blue, cyan, magenta, yellow, gray** and a **fine grid**.
+- Click, or the left and right arrow keys, moves to the next colour. **Escape** closes the test.
+- A pixel that stays black on every colour is **dead**. A pixel that stays one colour is **stuck**. A pixel that is always bright is a **hot** pixel.
+- The grid is an 8-pixel lattice on black, which makes one lit pixel stand out.
+- The test is only colours on the page. It does not read the screen and does not upload a photo of it.
+
+### Features
+
+- **Solid primary colours**: Each subpixel — red, green and blue — gets a screen of its own, plus the mixes and black and white.
+- **Full-screen layer**: The colour covers the site, including the header, so you can scan the whole panel.
+- **A pixel grid**: The last screen draws a fine white grid. A stuck-on pixel shows up between the lines.
+- **Keyboard or click**: Arrows and the space bar step through colours. Escape, or Close, leaves the test.
+
+### How to look for a dead pixel
+
+1. **Open the full-screen test** — Press **Open full screen**. Dim the room if the panel is glossy.
+2. **Step through the colours** — Click the colour, or press the right arrow. Look for a dot that does not match the rest of the screen.
+3. **Check black and white** — Dead pixels show on white and on bright colours. Stuck-on pixels show on black.
+4. **Use the grid** — The grid screen is for a single bright pixel that is hard to see on a flat colour.
+
+### Guide
+
+#### Dead, stuck and hot
+
+| What you see | What it usually is |
+| --- | --- |
+| Always black, on every colour | A dead pixel. The transistor is not lighting that dot. |
+| Always red, green or blue | A stuck subpixel. One channel is on or off permanently. |
+| Always bright, especially on black | A hot pixel. Common on camera sensors too, but on a monitor it is a stuck-on cell. |
+| A smudge that moves when you press gently | Pressure on the panel, not a dead pixel. Stop pressing — panels bruise. |
+
+#### The browser frame is still visible
+
+Phones and some browsers will not let a page hide the address bar. Scroll that bar away, or rotate to landscape, then run the colours again. The dots you are hunting are on the panel, so a thin browser strip does not hide them.
+
+### FAQ
+
+**Where does Dead Pixel Test run?**
+Dead Pixel Test runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I test for dead pixels?**
+Open the full-screen test and look at each solid colour from close up. A dot that stays black while the rest of the screen changes is dead.
+
+**What is the difference between a dead and a stuck pixel?**
+A dead pixel stays black. A stuck pixel stays lit in one colour — red, green, blue or white — no matter what the screen is showing.
+
+**Can this test fix a dead pixel?**
+No. It only helps you see one. A stuck pixel sometimes frees if the colour around it is flashed for a long time, but a dead pixel does not come back. Check the warranty before trying any “pixel massage”.
+
+**Why is there a grid?**
+On a flat black screen a single bright pixel is easy to miss. The grid gives the eye lines to follow so a dot between them stands out.
+
+**Does the test photograph my screen?**
+No. It only changes the page colour. It cannot see the panel, and it does not upload anything.
+
+## Touch Screen Test
+
+URL: https://justtools.info/device-tests/touch-screen-test/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-22
+
+Touch Screen Test on Toolspire: Touch the corners and the centre, and see every finger the screen reports. Multi-touch stays in this tab and is not uploaded.
+
+### At a glance
+
+- Touch Screen Test on Toolspire: draws a dot for **every finger** the browser reports, and shows how many are down at once.
+- Five targets — **four corners and the centre** — turn solid when a touch lands on them.
+- With two fingers down, the page shows the **distance between them** in pixels.
+- Remembers the **most fingers at once**, so you can see whether the screen’s multi-touch limit is 2, 5 or 10.
+- Touch points stay in the tab. They are not stored and not uploaded. A mouse can click the targets on a computer.
+
+### Features
+
+- **Live fingers**: Each contact is a dot that follows your finger, including a second and a third.
+- **Corner targets**: Dead zones often sit in the corners. The four circles plus the centre make those zones obvious.
+- **Pinch distance**: Two fingers report how far apart they are, which is the raw input a pinch gesture uses.
+- **A running maximum**: Lift and press again with more fingers. The “at once” number stays at the highest count.
+
+### How to test a touch screen
+
+1. **Open the page on the device** — A phone or tablet is the real test. A computer can still click the targets with a mouse.
+2. **Hit the five circles** — Touch each corner and the centre. A circle that never turns solid is a dead zone.
+3. **Put two fingers down** — You should see two dots and a pinch distance. Add fingers until the count stops rising — that is the screen’s limit.
+4. **Drag along an edge** — A dot that jumps or vanishes as you slide is a scratch or a failing digitizer.
+
+### Guide
+
+#### A spot the finger cannot hit
+
+- **A screen protector** — a lifted corner or a thick glass edge creates a dead band. Peel it back and try the same spot.
+- **A case** — some cases cover the extreme edge. Take the case off before deciding the panel is faulty.
+- **Water or oil** — dry the glass. A wet patch can spawn extra touches or swallow a real one.
+- **The browser** — in-app browsers sometimes mishandle multi-touch. Open the page in Safari or Chrome and try again.
+
+#### How many touches should a phone report?
+
+Most phones sold in the last decade report at least five simultaneous touches, and many report ten. Two is enough for a pinch. If a modern phone never goes past one finger here, and it also fails in the Maps app, the digitizer — not the site — is the limit.
+
+### FAQ
+
+**Where does Touch Screen Test run?**
+Touch Screen Test runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**How do I test multi-touch?**
+Put two fingers on the stage at the same time. You should see two dots, a finger count of 2, and a pinch distance. Add fingers until the “at once” number stops increasing.
+
+**Why do the corners matter?**
+A failing touch layer often dies at the edges first. The four corner targets are there so a dead edge is obvious, not just a miss in the middle.
+
+**Can I use this on a laptop touchpad?**
+A touchpad is a pointing device, so it moves one pointer. It will not show ten fingers. Use a phone or tablet screen for the multi-touch count.
+
+**The page scrolls instead of drawing a dot.**
+The stage is set not to scroll while you touch it. If the whole page still moves, you are touching outside the box. Stay inside the bordered area.
+
+**Are touches uploaded?**
+No. Finger positions exist only while the page is open. Reset clears the targets, and closing the tab clears everything.
+
+## Screen Resolution
+
+URL: https://justtools.info/device-tests/screen-resolution/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+Screen Resolution on Toolspire: See your screen resolution, the browser viewport and the device pixel ratio. Resize the window and the numbers follow.
+
+### At a glance
+
+- Screen Resolution on Toolspire: **Screen Resolution** runs in the browser. Nothing you type is uploaded.
+- Screen size is the full display. Viewport is the page area inside the browser, which is smaller when toolbars are open.
+- Change any field and the result updates immediately.
+- There is no account and no daily limit.
+
+### Features
+
+- **Instant result**: The figure updates as you edit the inputs.
+- **Copy**: Copy the result with one button.
+- **Private**: The calculation stays on this device.
+
+### How to use the Screen Resolution
+
+1. **Fill the fields** — Enter the numbers the labels ask for.
+2. **Read the result** — The large figure is the answer. The line under it shows the working.
+3. **Copy** — Use the copy button if you are pasting the figure somewhere else.
+
+### Guide
+
+#### What this page is for
+
+Screen size is the full display. Viewport is the page area inside the browser, which is smaller when toolbars are open.
+
+### FAQ
+
+**Where does Screen Resolution run?**
+Screen Resolution runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Is the Screen Resolution free?**
+Yes. There is no account and no limit.
+
+**Is my data uploaded?**
+No. The page calculates in this tab.
+
+**Can I treat this as official advice?**
+It is arithmetic for planning. Tax, payroll and investment rules have exceptions — confirm anything you will file or rely on.
+
+**Does it work on a phone?**
+Yes. The inputs work in a current mobile browser.
+
+## What Is My Browser
+
+URL: https://justtools.info/device-tests/what-is-my-browser/
+Category: Device Tests
+Processing: Runs entirely in the browser; user data is not uploaded.
+Last updated: 2026-10-23
+
+What Is My Browser on Toolspire: Read the browser name and major version from a user-agent string, checking Edge before Chrome and Chrome before Safari.
+
+### At a glance
+
+- What Is My Browser on Toolspire: **Edg/** is checked before **Chrome/**, because Edge’s agent string contains both.
+- **Chrome/** is checked before **Safari/**, because Chrome’s agent string contains Safari too.
+- **Firefox/** is its own token. Opera is recognised from **OPR/**.
+- The version is the **major number** after that browser’s token, not the AppleWebKit build.
+
+### Features
+
+- **A deliberate order**: The bugs in naive parsers are the order. Edge is not reported as Chrome, and Chrome is not reported as Safari.
+- **This device, then any string**: The box fills with this browser’s agent. Replace it to classify a string you copied from a log.
+- **Language and screen beside your own agent**: Those two facts are added only while the box still holds this browser’s string. A pasted agent does not inherit your screen size.
+
+### How to use the What Is My Browser
+
+1. **Read the name before you edit the box** — On first load the box is this browser. The headline should match the browser you opened the page in.
+2. **Paste a foreign agent to test the order** — An Edge string that also says Chrome should still come back as Microsoft Edge.
+3. **Do not treat the major version as a full build** — 120 means the 120 series. The long patch number is not the headline.
+
+### Guide
+
+#### Why the token order matters
+
+Chromium browsers share a user-agent shape. A string can include Mozilla, AppleWebKit, Chrome, Safari and Edg at once. The product the person is using is the most specific token: Edg for Edge, OPR for Opera, then Firefox, then Chrome, then Safari. Version is read from that token. Language and screen size are read from this browser only, and only while you have not replaced the agent string.
+
+### FAQ
+
+**Where does What Is My Browser run?**
+What Is My Browser runs in this tab on Toolspire. What you type or drop in is not sent to us and is not stored on a server.
+
+**Why does Edge’s user-agent mention Chrome?**
+Edge is built on Chromium, so the string keeps Chrome/ for compatibility. The Edg/ token is what identifies Edge, and this page checks that first.
+
+**Why is Chrome not called Safari?**
+Chrome’s string includes Safari/. The page only uses Safari when Chrome/ is absent and Safari/ is present.
+
+**What version is shown?**
+The major version on the token that named the browser. Edg/120.0.0.0 is reported as Microsoft Edge 120.
+
+**Does pasting an agent string upload it?**
+No. The classification runs in this tab. Language and screen size are not attached to a string you pasted.
+

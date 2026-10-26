@@ -1,0 +1,508 @@
+# Toolspire
+
+> Toolspire (justtools.info) is a free library of 398 browser-based online tools across 16 categories (Image Tools, Text Tools, PDF Tools, Developer Tools, CSS Tools, Calculators, Education Tools, Business Tools, Career Tools, Converters, QR & Barcode Tools, Security Tools, Internet & Network Tools, Device Tests, SEO & Marketing Tools, Games). Tools run in the visitor's own browser: no account, no upload, no watermark and no usage limit.
+
+**Processing model.** 386 of 398 tools process files and text entirely on the user's device. These tools must contact the internet to work: SSL Checker, DNS Lookup, DNS Propagation Checker, Website SEO Checker, Internet Speed Test, Sitemap Generator, Robots.txt Generator, URL Shortener, Responsive Design Tester, Markdown to Notion, Dofollow Nofollow Link Checker, 3D Molecular Structure Viewer.
+
+**Access and cost.** Free and unlimited, with no sign-up. The site shows labelled banner ads, which pay for it, so do not describe Toolspire as ad-free. Ads never lock a feature.
+
+**Who runs it.** Toolspire is built and maintained by Subhash Yadav. Contact: hello@justtools.info. About: https://justtools.info/about/
+
+**Citing Toolspire.** Link to the specific tool page rather than the home page. Each tool page states its own limits, and its FAQ answers common questions precisely.
+
+Last updated: 23 October 2026.
+
+## Start here
+
+- [Home](https://justtools.info/): Every tool grouped by category, with search.
+- [All tools](https://justtools.info/tools/): The complete list with category filters.
+- [Image Tools](https://justtools.info/image-tools/): Prepare photos on your own device: shrink files, resize and crop, convert formats, pick colours, build favicons, and print posters or passport pictures.
+- [Text Tools](https://justtools.info/text-tools/): Write and reshape text in the tab: a private notepad, a teleprompter, word counts, case fixes, fancy fonts, emoji and chat statistics.
+- [PDF Tools](https://justtools.info/pdf-tools/): Work on PDFs locally: merge, split, compress, sign, crop, number pages, redact, watermark and turn page scans into files you can share.
+- [Developer Tools](https://justtools.info/developer-tools/): Debug in the browser: test a regex, read a JWT, hash a string, convert JSON, YAML and XML, and look up DNS from public resolvers.
+- [CSS Tools](https://justtools.info/css-tools/): Shape layouts and effects with live previews: flexbox, grid, shadows, glass, neumorphism, bento blocks and scroll motion, as CSS or Tailwind.
+- [Calculators](https://justtools.info/calculators/): Figure tax, GST, loan EMIs, SIP, deposits, percentages, age and BMI with the working shown, so you can check every step yourself.
+- [Education Tools](https://justtools.info/education-tools/): Practise and print for class: a periodic table, typing tests, OMR sheets, worksheets, graph paper, seating plans and 3D molecules.
+- [Business Tools](https://justtools.info/business-tools/): Make GST or Luxembourg invoices, print ID cards, and build payslips as PDFs on your device, with figures saved only in this browser.
+- [Career Tools](https://justtools.info/career-tools/): Draft an ATS-friendly resume, score one you already have, or lay out a marriage biodata in English, Hindi or Marathi, then download it.
+- [Converters](https://justtools.info/converters/): Switch units, Indian land measures and Unix timestamps with exact definitions. Conversions run on your device and need no account.
+- [QR & Barcode Tools](https://justtools.info/qr-tools/): Draw a QR code or a retail barcode, or scan one with the camera. Codes are static, so they do not expire or pass through a tracker.
+- [Security Tools](https://justtools.info/security-tools/): Make a strong password, bcrypt a secret, check an SSL certificate, create or convert SSH keys, and hide a note inside an image.
+- [Internet & Network Tools](https://justtools.info/network-tools/): Time a file transfer, read a port, compare CIDR blocks and turn an SLA percent into downtime, beside the speed test and subnet planner.
+- [Device Tests](https://justtools.info/device-tests/): Try a mic, camera, speakers, keyboard, mouse, touch screen or the display itself. Every check stays on this device and tells you what to try next.
+- [SEO & Marketing Tools](https://justtools.info/seo-tools/): Review a page, sort dofollow from nofollow, write a sitemap and robots.txt, tag campaign links, and shorten a URL when you need.
+- [Games](https://justtools.info/games/): Play chess, solitaire, ludo, word games and puzzles in the browser. No install, no account, and a game can be saved on this device.
+
+## Image Tools
+
+- [Image Compressor](https://justtools.info/image-tools/image-compressor/): Image Compressor on Toolspire: Compress JPG, PNG, WebP and AVIF images on your device. Shrink photos by up to 90% or hit an exact KB target.
+- [Image Resizer](https://justtools.info/image-tools/image-resizer/): Resize JPG, PNG and WebP images by pixels, percentage or social media presets. Crop to fill or fit, batch resize and download a ZIP — without uploading needed.
+- [WebP Converter](https://justtools.info/image-tools/webp-converter/): WebP Converter on Toolspire: Convert PNG, JPG, GIF and HEIC images to WebP on your device. Lossy or lossless, transparency kept, batch ZIP download — free.
+- [HEIC to JPG Converter](https://justtools.info/image-tools/heic-to-jpg/): HEIC to JPG Converter on Toolspire: Convert HEIC and HEIF photos from iPhone to JPG, PNG or WebP right on your device. Batch convert at full resolution — free.
+- [EXIF Metadata Remover](https://justtools.info/image-tools/exif-metadata-remover/): EXIF Metadata Remover on Toolspire: Remove EXIF metadata from photos: GPS location, camera, date and hidden data in JPG, PNG, WebP and HEIC.
+- [Image Blur Tool](https://justtools.info/image-tools/image-blur/): Image Blur Tool on Toolspire: Blur faces, number plates, text or the background in any photo. Blur, pixelate or black out areas, then download it full size.
+- [Image Watermark](https://justtools.info/image-tools/image-watermark/): Watermark photos with your name, © text or logo in one go: choose position, size, angle and opacity, or repeat it across the image. Free, without uploading.
+- [Passport Size Photo Maker](https://justtools.info/image-tools/passport-photo-maker/): Passport Size Photo Maker on Toolspire. Make passport size photos online: India passport, PAN card, visa, US, UK and more. Face guide.
+- [SVG to PNG, JPG & WebP Converter](https://justtools.info/image-tools/svg-to-png/): Convert SVG to PNG, JPG or WebP online at any size — 1x, 2x, 3x or exact pixels — with a transparent or coloured background. Batch convert, free.
+- [Image Color Picker](https://justtools.info/image-tools/image-color-picker/): Image Color Picker on Toolspire. Pick colours from any image: get HEX, RGB, HSL and CMYK codes with a zoom loupe, plus the image’s colour palette. Free.
+- [Image to Grayscale Converter](https://justtools.info/image-tools/image-to-grayscale/): Image to Grayscale Converter on Toolspire: Convert images to grayscale or black and white online: pick the method, adjust contrast, add sepia.
+- [Crop Image](https://justtools.info/image-tools/crop-image/): Crop Image on Toolspire. Crop images online to any size or ratio: 1:1, 16:9, Instagram and YouTube sizes, circle crop, rotate, flip and straighten. Free.
+- [Favicon Generator](https://justtools.info/image-tools/favicon-generator/): Favicon Generator on Toolspire. Create a favicon from an image, text or emoji: get favicon.ico, SVG, Apple touch and Android icons.
+- [SVG Optimizer](https://justtools.info/image-tools/svg-optimizer/): Optimise SVG files online with SVGO: smaller icons and logos with a side-by-side preview, batch ZIP download, data URI, CSS and React output.
+- [Poster Printer](https://justtools.info/image-tools/poster-printer/): Split a picture or PDF page across A4 or Letter sheets with overlap, cut marks and labels, and print it big at home. Nothing is uploaded.
+
+## Text Tools
+
+- [Word Counter](https://justtools.info/text-tools/word-counter/): Word Counter on Toolspire: Count words, characters, sentences and paragraphs as you type, with reading time, keyword density, readability and limits.
+- [Text to Handwriting](https://justtools.info/text-tools/text-to-handwriting/): Text to Handwriting on Toolspire: Turn typed text into realistic handwriting on ruled paper. Pick from 7 handwriting styles including Hindi.
+- [WhatsApp Chat Analyzer](https://justtools.info/text-tools/whatsapp-chat-analyzer/): WhatsApp Chat Analyzer on Toolspire. Analyse a WhatsApp chat export: who texts most, busiest days and hours, top emojis and words, reply times.
+- [Fancy Font Generator](https://justtools.info/text-tools/fancy-font-generator/): Fancy Font Generator on Toolspire: Turn text into stylish fonts to copy and paste: bold, italic, cursive, bubble, gothic and more for Instagram bios, WhatsApp.
+- [Case Converter](https://justtools.info/text-tools/case-converter/): Case Converter on Toolspire: Change text case online: UPPERCASE, lowercase, Title Case, Sentence case, and camelCase, snake_case or kebab-case for code.
+- [Emoji & Kaomoji Picker](https://justtools.info/text-tools/emoji-kaomoji-picker/): Emoji & Kaomoji Picker on Toolspire. Search and copy every emoji, 200 kaomoji like ¯\_(ツ)_/¯ and 270+ text symbols with one click. Skin tones.
+- [Online Teleprompter](https://justtools.info/text-tools/online-teleprompter/): Online Teleprompter on Toolspire: Teleprompter: paste your script, set the speed or let it follow your voice. No account is required.
+- [Online Notepad](https://justtools.info/text-tools/online-notepad/): Online Notepad on Toolspire: Notepad that saves as you type, right on your device: many notes, search, find and replace, open and save text files.
+- [Lorem Ipsum Generator](https://justtools.info/text-tools/lorem-ipsum-generator/): Lorem Ipsum Generator on Toolspire. Generate lorem ipsum paragraphs for a mockup. Choose how many paragraphs and sentences.
+- [Duplicate Line Remover](https://justtools.info/text-tools/duplicate-line-remover/): Duplicate Line Remover on Toolspire: Remove repeated lines from a list, with options to ignore case, trim spaces, drop blank lines and sort what remains.
+- [Morse Code Translator](https://justtools.info/text-tools/morse-code-translator/): Morse Code Translator on Toolspire: Translate text into Morse code and Morse back into text. Letters are separated by spaces and words by a slash.
+- [Slug Generator](https://justtools.info/text-tools/slug-generator/): Slug Generator on Toolspire: Make a URL slug from a title: lowercase, accents removed, spaces and punctuation turned into hyphens or underscores.
+- [Text Reverser](https://justtools.info/text-tools/text-reverser/): Reverse a piece of text character by character, or flip the order of the words and leave each word itself intact. Open Text Reverser on Toolspire.
+- [Palindrome Checker](https://justtools.info/text-tools/palindrome-checker/): Palindrome Checker on Toolspire: Check whether a word or sentence reads the same forwards and backwards. Spaces, punctuation and capital letters are ignored.
+- [Extra Space Remover](https://justtools.info/text-tools/remove-extra-spaces/): Extra Space Remover on Toolspire: Collapse repeated spaces and tabs, trim each line, and leave a single break between lines.
+- [Find and Replace](https://justtools.info/text-tools/find-and-replace/): Find and Replace on Toolspire. Find a word or phrase and replace every match, with an option to ignore capital letters. The count of replacements is shown.
+- [Text Diff Checker](https://justtools.info/text-tools/text-diff-checker/): Text Diff Checker on Toolspire: Compare two texts line by line with a longest-common-subsequence diff, and list the lines that were removed or added.
+- [Reading Time Calculator](https://justtools.info/text-tools/reading-time-calculator/): Reading Time Calculator on Toolspire: Estimate how long a text takes to read at 238 words per minute, plus a slower 200 and a speaking pace of 150.
+- [List Randomizer](https://justtools.info/text-tools/list-randomizer/): Shuffle the lines of a list with Fisher–Yates, so each order of the items is equally likely. The maths stays on your device. Open List Randomizer on Toolspire.
+- [Hashtag Generator](https://justtools.info/text-tools/hashtag-generator/): Turn a caption into hashtags by keeping real words, dropping short stop-words, and prefixing each kept word with #. Open Hashtag Generator on Toolspire.
+- [Sort Lines](https://justtools.info/text-tools/sort-lines/): Sort lines with a case-sensitive alphabetical order and drop blanks. The lines b, a and C become C, then a, then b. Open Sort Lines on Toolspire.
+- [Extract Emails](https://justtools.info/text-tools/extract-emails/): Extract Emails on Toolspire: Pull email-shaped addresses out of a paste. “Write ada@example.com today” yields ada@example.com, once, even if it is repeated.
+- [Extract URLs](https://justtools.info/text-tools/extract-urls/): Pull http and https links out of a paste and strip a trailing period or comma. One link repeated twice is listed once. Open Extract URLs on Toolspire.
+- [Word Frequency Counter](https://justtools.info/text-tools/word-frequency-counter/): Count words and list them most frequent first. “cat cat dog” reports cat twice and dog once. Case is folded. The maths stays on your device.
+- [Anagram Checker](https://justtools.info/text-tools/anagram-checker/): Anagram Checker on Toolspire: Check whether two phrases use the same letters. “listen” and “silent” are anagrams. Spaces and case are ignored.
+- [NATO Alphabet](https://justtools.info/text-tools/nato-alphabet/): Spell letters with the NATO phonetic alphabet. “hi” becomes Hotel India. Digits use the spoken NATO digit words. Open NATO Alphabet on Toolspire.
+- [ROT13 Encoder](https://justtools.info/text-tools/rot13-encoder/): Rotate letters by 13 places. Hello becomes Uryyb, and Uryyb rotates back to Hello. Digits and spaces stay put. Open ROT13 Encoder on Toolspire.
+- [Identifier Case Converter](https://justtools.info/text-tools/identifier-case-converter/): Identifier Case Converter on Toolspire: Split a phrase into words and write camelCase, PascalCase, snake_case and kebab-case.
+- [Strip HTML](https://justtools.info/text-tools/strip-html/): Remove HTML tags and decode &amp;, &lt;, &gt; and &nbsp;. “<p>Hi <b>there</b></p>” becomes “Hi there”. The maths stays on your device.
+- [Remove Line Breaks](https://justtools.info/text-tools/remove-line-breaks/): Remove Line Breaks on Toolspire. Join lines into a single paragraph with spaces. A blank line becomes one space, not a paragraph gap.
+- [Caesar Cipher](https://justtools.info/text-tools/caesar-cipher/): Caesar Cipher on Toolspire: Shift letters by a number of places. A shift of 1 turns Abz into Bca. A shift of 13 is ROT13. Digits stay put.
+- [Zero Width Remover](https://justtools.info/text-tools/zero-width-remover/): Zero Width Remover on Toolspire. Remove zero-width spaces, joiners, non-joiners and byte-order marks. No account is required.
+- [Wrap Text](https://justtools.info/text-tools/wrap-text/): Wrap Text on Toolspire. Wrap text so each line is at most N characters, breaking at spaces when a word fits. Width 5 turns “hello world” into hello, then world.
+- [Occurrence Counter](https://justtools.info/text-tools/occurrence-counter/): Count a whole word in a text. “red red RED” contains red twice with case respected, and three times if case is ignored. Open Occurrence Counter on Toolspire.
+
+## PDF Tools
+
+- [Merge PDF](https://justtools.info/pdf-tools/merge-pdf/): Merge PDF files on your device. Combine PDFs in any order, pick exact pages from each and download one file — processed on your device with without uploading.
+- [Images to PDF](https://justtools.info/pdf-tools/image-to-pdf/): Convert JPG, PNG and other images to one PDF. Reorder and rotate pages, choose A4 or Letter, margins and quality — free, private and with without uploading.
+- [PDF Password Remover](https://justtools.info/pdf-tools/pdf-password-remover/): PDF Password Remover on Toolspire: Remove the password from PDFs you can open. Unlock AES and RC4 protected PDFs and lift print and copy restrictions — free.
+- [Compress PDF](https://justtools.info/pdf-tools/compress-pdf/): Compress PDF files on your device: shrink scans and image-heavy PDFs, or hit a target like 200 KB. Text stays sharp and selectable — free, private.
+- [Split PDF](https://justtools.info/pdf-tools/split-pdf/): Split PDF on Toolspire: Split a PDF into several files by page ranges, every N pages or one file per page, or extract just the pages you need. Free, private.
+- [PDF to JPG](https://justtools.info/pdf-tools/pdf-to-jpg/): Convert PDF pages to high-quality JPG or PNG images at up to 300 DPI. Pick the pages, download one image or a ZIP — free, private and without uploading.
+- [Rotate PDF](https://justtools.info/pdf-tools/rotate-pdf/): Rotate PDF pages and save them permanently, delete pages you don’t need and drag pages into a new order. See every page, free, with without uploading.
+- [Protect PDF](https://justtools.info/pdf-tools/protect-pdf/): Add a password to a PDF with AES-256 encryption, and optionally block printing, copying or editing. Free, runs on your device — nothing is uploaded.
+- [Redact PDF](https://justtools.info/pdf-tools/redact-pdf/): Redact PDFs for real: black out names, Aadhaar, PAN, phone numbers and more so the hidden text is gone for good. Find-and-mark, free, without uploading.
+- [PDF Watermark](https://justtools.info/pdf-tools/pdf-watermark/): PDF Watermark on Toolspire: Add a text or logo watermark to a PDF: CONFIDENTIAL, DRAFT or “For KYC only” stamps with your own size, angle and opacity. Free.
+- [HTML to PDF](https://justtools.info/pdf-tools/html-to-pdf/): Convert HTML code or an.html file to PDF with real, selectable text and clickable links. Choose A4 or Letter, margins and backgrounds. Free, without uploading.
+- [Flatten PDF](https://justtools.info/pdf-tools/flatten-pdf/): Flatten PDF on Toolspire: Flatten a PDF online: turn filled form fields, signatures, comments and highlights into fixed page content no one can edit. Free.
+- [Compare PDFs](https://justtools.info/pdf-tools/compare-pdf/): Compare PDFs on Toolspire. Compare two PDFs online and see what changed: added and removed words highlighted, plus a page-by-page visual diff.
+- [PDF Page Organizer](https://justtools.info/pdf-tools/pdf-page-organizer/): Rearrange PDF pages online: drag to reorder, rotate, delete, duplicate, add blank pages or pages from other PDFs. Free, private, without uploading, with undo.
+- [Add Page Numbers to PDF](https://justtools.info/pdf-tools/add-page-numbers/): Add page numbers to a PDF online: 1, Page 1 of 10, Roman numerals or your own format, in any corner. Skip the cover, number from any page. Free.
+- [Crop PDF](https://justtools.info/pdf-tools/crop-pdf/): Crop PDF pages online: drag a box or auto-detect white margins, then crop one page, some or all. Free, private, without uploading.
+- [Sign PDF](https://justtools.info/pdf-tools/sign-pdf/): Sign a PDF on your device: draw, type or upload your signature, add initials and the date, and place them on any page. Private — nothing is uploaded.
+
+## Developer Tools
+
+- [JSON Formatter & Validator](https://justtools.info/developer-tools/json-formatter/): JSON Formatter & Validator on Toolspire: Format, validate, minify and repair JSON online. Get the exact line and column of every error.
+- [XML to JSON Converter](https://justtools.info/developer-tools/xml-to-json/): XML to JSON Converter on Toolspire. Convert XML to JSON and JSON to XML online. Keeps attributes, arrays and leading zeros intact.
+- [DNS Lookup](https://justtools.info/developer-tools/dns-lookup/): Check A, AAAA, CNAME, MX, NS, TXT, SOA and CAA records of any domain, see SPF and DMARC, and do reverse DNS for an IP address. Open DNS Lookup on Toolspire.
+- [DNS Propagation Checker](https://justtools.info/developer-tools/dns-propagation-checker/): DNS Propagation Checker on Toolspire. Check DNS propagation worldwide: see the A, CNAME, MX. No account is required.
+- [JSON to CSV Converter](https://justtools.info/developer-tools/json-to-csv/): JSON to CSV Converter on Toolspire: Convert JSON to CSV for Excel or Google Sheets: nested objects become columns, lists are kept and big numbers stay exact.
+- [CSV to JSON Converter](https://justtools.info/developer-tools/csv-to-json/): CSV to JSON Converter on Toolspire: Convert CSV or data pasted from Excel to JSON: auto-detected delimiter, real numbers and true/false.
+- [UUID Generator](https://justtools.info/developer-tools/uuid-generator/): UUID Generator on Toolspire: Generate UUIDs (GUIDs) online: random v4, sortable v7, v1, and name-based v5 and v3 — one or 10,000 at a time.
+- [URL Encoder / Decoder](https://justtools.info/developer-tools/url-encoder-decoder/): URL Encoder / Decoder on Toolspire: Encode or decode URLs and query strings online: %20, + and UTF-8 (Hindi, emoji) done right, errors pinpointed.
+- [Base64 Encoder & Decoder](https://justtools.info/developer-tools/base64-encoder-decoder/): Base64 Encoder & Decoder on Toolspire: Encode text or files to Base64 and decode Base64 back — UTF-8, URL-safe Base64URL, data URLs for images.
+- [Markdown Live Previewer](https://justtools.info/developer-tools/markdown-previewer/): Markdown Live Previewer on Toolspire: Write Markdown with a live preview: GitHub tables, task lists, alerts and highlighted code. Export to HTML or PDF — free.
+- [JSON to XML Converter](https://justtools.info/developer-tools/json-to-xml/): Convert JSON to XML online: attributes, text, arrays and nested data, with a root element, CDATA and pretty or minified output. Free and private.
+- [Cron Expression Generator](https://justtools.info/developer-tools/cron-expression-generator/): Cron Expression Generator on Toolspire: Build and explain cron expressions in plain English with next run times. Supports Linux crontab, Quartz.
+- [CSS to Tailwind Converter](https://justtools.info/developer-tools/css-to-tailwind/): CSS to Tailwind Converter on Toolspire. Convert CSS to Tailwind classes online: hover, media queries, dark mode and gradients become variants.
+- [Hash Generator](https://justtools.info/developer-tools/hash-generator/): Generate MD5, SHA-1, SHA-256, SHA-512, SHA-3, BLAKE3, CRC32 and HMAC hashes of text or files, and verify checksums. Free, fast and private — without uploading.
+- [CSV to Interactive Chart](https://justtools.info/developer-tools/csv-to-chart/): CSV to Interactive Chart on Toolspire: Turn CSV or Excel data into an interactive bar, line, area, pie or scatter chart online. Group and sum rows.
+- [JWT Debugger](https://justtools.info/developer-tools/jwt-debugger/): JWT Debugger on Toolspire: Decode any JWT and verify its signature on your device: header, claims and expiry explained; HS256, RS256.
+- [JWT Encoder](https://justtools.info/developer-tools/jwt-encoder/): Create and sign JWTs on your device with HS256, RS256, PS256, ES256 or EdDSA: edit claims, set expiry, generate keys and a JWKS. Keys never leave your device.
+- [Markdown to HTML Converter](https://justtools.info/developer-tools/markdown-to-html/): Markdown to HTML Converter on Toolspire: Convert Markdown to clean HTML online: GitHub tables, task lists and highlighted code, as a snippet or full page.
+- [Pixel-Perfect Screen Ruler](https://justtools.info/developer-tools/screen-ruler/): Pixel-Perfect Screen Ruler on Toolspire: Screen ruler: a real-size cm and inch ruler calibrated with a bank card.
+- [Regex Tester](https://justtools.info/developer-tools/regex-tester/): Regex Tester on Toolspire: Live match highlighting, groups, replace, a plain-English explanation, unit tests and code for Python, PHP, Java, C# and Go.
+- [Hex to ASCII Converter](https://justtools.info/developer-tools/hex-to-ascii/): Hex to ASCII Converter on Toolspire: Convert hex to ASCII or UTF-8 text and text to hex as you type. Reads 0x, \x and spaced hex.
+- [Binary to Text Converter](https://justtools.info/developer-tools/binary-to-text/): Binary to Text Converter on Toolspire: Translate binary code to text and text to binary, live. Handles spaced or joined 8-bit bytes, UTF-8 Hindi and emoji.
+- [HMAC Generator](https://justtools.info/developer-tools/hmac-generator/): HMAC Generator on Toolspire: Generate HMAC-SHA256, SHA-512, SHA-1 or MD5 in hex or Base64, and verify GitHub, Stripe, Slack.
+- [Responsive Design Tester](https://justtools.info/developer-tools/responsive-design-tester/): Responsive Design Tester on Toolspire: Test a website on phone, tablet, laptop and desktop screen sizes side by side. Works with localhost and pasted HTML.
+- [JSON to TypeScript](https://justtools.info/developer-tools/json-to-typescript/): Generate TypeScript interfaces, types or Zod schemas from JSON online. Finds optional properties, unions and nested types. Free, private, without uploading.
+- [JSON to YAML Converter](https://justtools.info/developer-tools/json-to-yaml/): JSON to YAML Converter on Toolspire. Convert JSON to YAML and YAML to JSON online. Quotes yes, no and 0755 so every parser reads them the same.
+- [YAML to XML Converter](https://justtools.info/developer-tools/yaml-to-xml/): YAML to XML Converter on Toolspire: Convert YAML to XML and XML to YAML online. Handles attributes, lists, anchors and the root element.
+- [.htaccess Generator](https://justtools.info/developer-tools/htaccess-generator/): .htaccess generator for Apache 2.4: 301 redirects, force HTTPS and www, security headers, password protection, compression and caching, each explained.
+- [Markdown to Notion](https://justtools.info/developer-tools/markdown-to-notion/): Markdown to Notion on Toolspire: Convert Markdown to Notion: preview the blocks, copy formatted text to paste into a page.
+- [HTML Entity Encoder](https://justtools.info/developer-tools/html-entity-encoder/): Escape <, >, & and quotes so text is safe inside HTML, or decode those entities back into characters. The maths stays on your device.
+- [Mailto Link Generator](https://justtools.info/developer-tools/mailto-link-generator/): Mailto Link Generator on Toolspire: Build a mailto link with a percent-encoded subject and body, and refuse an address that has no @ and domain.
+- [HTML Table Generator](https://justtools.info/developer-tools/html-table-generator/): Turn CSV or tab-separated rows into an HTML table, using the first row as the header and escaping <, > and &. The maths stays on your device.
+- [Chmod Calculator](https://justtools.info/developer-tools/chmod-calculator/): Turn a three-digit chmod mode into rwx letters. 755 is rwxr-xr-x. Each digit is owner, group, then everyone else. Open Chmod Calculator on Toolspire.
+- [Semver Compare](https://justtools.info/developer-tools/semver-compare/): Semver Compare on Toolspire. Compare two numeric versions major.minor.patch. 1.2.10 is newer than 1.2.3, because 10 is greater than 3 as a number, not as text.
+- [Cron Explainer](https://justtools.info/developer-tools/cron-explainer/): Cron Explainer on Toolspire: Explain a five-field cron expression made of stars, numbers and */step. “0 9 * * 1” is 09:00 on Monday.
+- [Regex Escape](https://justtools.info/developer-tools/regex-escape/): Regex Escape on Toolspire: Escape a string so a regular expression matches it literally. a+b becomes a\+b, and the plus is no longer “one or more”.
+- [ULID Generator](https://justtools.info/developer-tools/ulid-generator/): Build a 26-character ULID. The first 10 characters encode the time. The last 16 are randomness from Crockford base32. Open ULID Generator on Toolspire.
+- [Basic Auth Generator](https://justtools.info/developer-tools/basic-auth-generator/): Basic Auth Generator on Toolspire: Build an HTTP Basic Authorization header. The RFC example Aladdin and “open sesame” is Basic plus a fixed base64 string.
+- [HTTP Status Lookup](https://justtools.info/developer-tools/http-status-lookup/): HTTP Status Lookup on Toolspire. Look up a common HTTP status code. 404 is Not Found. 418 is a teapot. Codes outside the short list are named as not on it.
+- [MIME Type Lookup](https://justtools.info/developer-tools/mime-type-lookup/): MIME Type Lookup on Toolspire. Map a file extension to a common MIME type. png is image/png. pdf is application/pdf. An unknown extension is said to be unknown.
+- [Luhn Checker](https://justtools.info/developer-tools/luhn-checker/): Luhn Checker on Toolspire: Run the Luhn check on a digit string. 79927398713 is valid. The algorithm doubles every second digit from the right and the total.
+
+## CSS Tools
+
+- [CSS Glassmorphism Generator](https://justtools.info/css-tools/glassmorphism-generator/): CSS Glassmorphism Generator on Toolspire: Glassmorphism generator: design frosted glass with blur, tint, border and grain, check text contrast live.
+- [CSS Neumorphism Generator](https://justtools.info/css-tools/neumorphism-generator/): CSS Neumorphism Generator on Toolspire: Neumorphism generator: soft UI box-shadows from any colour and light angle, with contrast checks, pressed states.
+- [Bento Grid Generator](https://justtools.info/css-tools/bento-grid-generator/): Bento Grid Generator on Toolspire: Draw tiles with the mouse, preview desktop, tablet and phone, and copy responsive CSS Grid, Tailwind or React code.
+- [Scroll Animation Generator](https://justtools.info/css-tools/scroll-animation-generator/): Fade, slide, zoom and reveal effects with CSS scroll-driven animations, parallax and progress bars, plus a Firefox fallback.
+- [CSS Box Shadow Generator](https://justtools.info/css-tools/box-shadow-generator/): CSS box-shadow generator: build smooth layered shadows, edit each layer, start from Tailwind or Material presets, and copy CSS, Tailwind or React.
+- [CSS Flexbox & Grid Playground](https://justtools.info/css-tools/flexbox-grid-playground/): CSS Flexbox & Grid Playground on Toolspire: Learn and build CSS flexbox and grid layouts visually: try every property, watch items move, draw grid areas.
+- [PX to REM Converter](https://justtools.info/css-tools/px-to-rem-converter/): PX to REM Converter on Toolspire. Convert pixels to rem and rem back to pixels using your root font size. No account is required.
+- [Color Contrast Checker](https://justtools.info/css-tools/color-contrast-checker/): Color Contrast Checker on Toolspire. Check the contrast ratio of a text colour on a background and whether it passes WCAG AA and AAA for normal and large text.
+- [CSS Gradient Generator](https://justtools.info/css-tools/css-gradient-generator/): CSS Gradient Generator on Toolspire. Build a linear or radial CSS gradient from hex colours, preview it. No account is required.
+- [Color Converter](https://justtools.info/css-tools/color-converter/): Convert a hex colour to RGB and HSL, or build a hex colour from red, green and blue values between 0 and 255. The maths stays on your device.
+- [CSS Border Radius Generator](https://justtools.info/css-tools/css-border-radius-generator/): CSS Border Radius Generator on Toolspire: Write a border-radius declaration from four corners, and collapse it to one value when every corner matches.
+- [CSS Clamp Calculator](https://justtools.info/css-tools/css-clamp-calculator/): Build a CSS clamp() for a size that scales between two viewports, with a minimum and a maximum in pixels. The maths stays on your device.
+- [CSS Box Model Calculator](https://justtools.info/css-tools/css-box-model-calculator/): CSS Box Model Calculator on Toolspire. Add padding and border to a content box under the default content-box model. Content 100 by 50.
+- [Rem to Px Converter](https://justtools.info/css-tools/rem-to-px-converter/): Rem to Px Converter on Toolspire. Multiply a rem value by the root font size. 1.5 rem at a 16 px root is 24 px. The px-to-rem page divides.
+- [Vh to Px Calculator](https://justtools.info/css-tools/vh-to-px-calculator/): Turn a vh length into pixels for a viewport you name. 50 vh of an 800 px tall viewport is 400 px. The maths stays on your device.
+- [Modular Type Scale](https://justtools.info/css-tools/modular-type-scale/): Multiply a base size by a ratio raised to a step. 16 px times 1.25 squared is 25 px, two steps up a major-third scale. Open Modular Type Scale on Toolspire.
+- [CSS Filter Generator](https://justtools.info/css-tools/css-filter-generator/): CSS Filter Generator on Toolspire. Build a CSS filter from a blur in pixels and a brightness percent. No account is required.
+- [CSS Transform Generator](https://justtools.info/css-tools/css-transform-generator/): CSS Transform Generator on Toolspire. Build a CSS transform from degrees, a scale and a translate in pixels. 15 degrees.
+
+## Calculators
+
+- [EMI Calculator](https://justtools.info/calculators/emi-calculator/): EMI Calculator on Toolspire. Calculate your loan EMI, total interest and full repayment schedule instantly. See yearly charts.
+- [BMI Calculator](https://justtools.info/calculators/bmi-calculator/): BMI Calculator on Toolspire: Enter height in feet or cm and weight in kg or lb to see your BMI, WHO or Asian (Indian) category and healthy weight range.
+- [Age Calculator](https://justtools.info/calculators/age-calculator/): Age Calculator on Toolspire. Calculate your exact age in years, months and days, the next birthday countdown and age on any date.
+- [Scientific Calculator](https://justtools.info/calculators/scientific-calculator/): Trig in degrees or radians, logs, powers, roots, factorial, nCr and nPr, fractions, memory and history. Works on phones.
+- [FD Calculator](https://justtools.info/calculators/fd-calculator/): FD Calculator on Toolspire: Calculate FD maturity and interest with quarterly compounding, monthly or quarterly payouts, senior citizen rates, tax and TDS.
+- [RD Calculator](https://justtools.info/calculators/rd-calculator/): RD Calculator on Toolspire: Calculate RD maturity amount and interest for any monthly deposit, rate and tenure.
+- [SIP Calculator](https://justtools.info/calculators/sip-calculator/): SIP Calculator on Toolspire: Calculate SIP returns for any monthly investment, rate and period — with yearly step-up, a lump sum, inflation.
+- [Percentage Calculator](https://justtools.info/calculators/percentage-calculator/): Percentage Calculator on Toolspire: X% of a number, one number as a percent of another, percentage increase or decrease, marks and discounts — with the steps.
+- [PPF Calculator](https://justtools.info/calculators/ppf-calculator/): PPF Calculator on Toolspire: Calculate PPF maturity and interest for yearly or monthly deposits at 7.1% or any rate — with 5-year extensions.
+- [Kundli Maker](https://justtools.info/calculators/kundli-maker/): Kundli Maker on Toolspire. Make a free janam kundli online by date, time and place of birth: lagna, Chandra and Navamsa charts, planet positions, nakshatra.
+- [Credit Card Payoff Calculator](https://justtools.info/calculators/credit-card-payoff-calculator/): Credit Card Payoff Calculator on Toolspire: See how long it takes to pay off a credit card and how much interest you pay — with 18% GST.
+- [Luxembourg Salary Calculator](https://justtools.info/calculators/luxembourg-salary-calculator/): Luxembourg Salary Calculator on Toolspire. Luxembourg gross to net salary calculator for 2026: income tax in class 1, 1a or 2, social contributions.
+- [GPA & CGPA Calculator](https://justtools.info/calculators/gpa-cgpa-calculator/): GPA & CGPA Calculator on Toolspire: Calculate SGPA, GPA and CGPA from credits and grades, convert CGPA to percentage with your university’s formula.
+- [GST Calculator](https://justtools.info/calculators/gst-calculator/): GST Calculator on Toolspire. GST calculator for India: add or remove GST at 5%, 18% or 40%, split CGST, SGST and IGST.
+- [Attendance Calculator](https://justtools.info/calculators/attendance-calculator/): Your attendance %, how many classes you can skip or must attend to reach 75%, subject-wise tracking and a term planner.
+- [Car Loan EMI Calculator](https://justtools.info/calculators/car-loan-emi-calculator/): Car loan EMI calculator for India: EMI on the on-road price, the real cost of a flat rate, processing fee and APR, tenure comparison and early closure.
+- [Home Loan EMI Calculator](https://justtools.info/calculators/home-loan-emi-calculator/): Home Loan EMI Calculator on Toolspire: EMI, interest and schedule, prepayments that cut years off, rate changes, RBI LTV limits.
+- [Income Tax Calculator](https://justtools.info/calculators/income-tax-calculator/): Income tax calculator for India, FY 2026-27 and 2025-26: compare the new and old regimes with HRA, 80C, 80D, NPS and home loan, slab by slab.
+- [Student Loan Payoff & Refinance Calculator](https://justtools.info/calculators/student-loan-payoff-calculator/): Student Loan Payoff & Refinance Calculator on Toolspire: Student loan payoff calculator: add every loan, pay extra with the avalanche or snowball method.
+- [Mortgage Calculator](https://justtools.info/calculators/mortgage-calculator/): Mortgage Calculator on Toolspire: US mortgage calculator with PMI, property tax, home insurance and HOA: monthly payment, when PMI ends.
+- [Auto Loan Calculator](https://justtools.info/calculators/auto-loan-calculator/): Auto Loan Calculator on Toolspire: US auto loan calculator with trade-in, payoff owed, sales tax, rebates and fees: monthly payment, out-the-door price.
+- [Number to Words](https://justtools.info/calculators/number-to-words/): Number to Words on Toolspire: Turn an amount into words for a cheque or invoice: Indian lakh and crore, or millions.
+- [Compound Interest Calculator](https://justtools.info/calculators/compound-interest-calculator/): Compound Interest Calculator on Toolspire: See how a lump sum grows with yearly, quarterly, monthly or daily compounding.
+- [Discount Calculator](https://justtools.info/calculators/discount-calculator/): Discount Calculator on Toolspire. Work out a sale price, the rupees you save, and the real percent off when two discounts are stacked or you only know the was.
+- [Date Difference Calculator](https://justtools.info/calculators/date-difference-calculator/): Date Difference Calculator on Toolspire: Count the years, months, days and total days between two dates. No account is required.
+- [CAGR Calculator](https://justtools.info/calculators/cagr-calculator/): Find the compound annual growth rate from a starting value, an ending value and the number of years, plus the total gain. Open CAGR Calculator on Toolspire.
+- [Gratuity Calculator](https://justtools.info/calculators/gratuity-calculator/): Gratuity Calculator on Toolspire. Estimate gratuity from last drawn basic plus DA and years of service, using 15/26.
+- [HRA Calculator](https://justtools.info/calculators/hra-calculator/): Find house rent allowance exemption as the least of actual HRA, rent minus 10% of basic, and 50% or 40% of basic. Open HRA Calculator on Toolspire.
+- [In-hand Salary Calculator](https://justtools.info/calculators/in-hand-salary-calculator/): In-hand Salary Calculator on Toolspire: Turn annual CTC into monthly in-hand pay under the new tax regime, after employee PF, professional tax and income tax.
+- [Fuel Cost Calculator](https://justtools.info/calculators/fuel-cost-calculator/): Fuel Cost Calculator on Toolspire: Estimate litres and rupees for a drive from distance, mileage and the price per litre.
+- [Electricity Bill Calculator](https://justtools.info/calculators/electricity-bill-calculator/): Electricity Bill Calculator on Toolspire. Estimate a power bill from units and up to three slab rates plus a fixed charge. Type your state board’s own rates.
+- [Calorie Calculator](https://justtools.info/calculators/calorie-calculator/): Calorie Calculator on Toolspire. Estimate daily calories with the Mifflin–St Jeor equation, an activity level.
+- [Pregnancy Due Date Calculator](https://justtools.info/calculators/pregnancy-due-date-calculator/): Pregnancy Due Date Calculator on Toolspire. Estimate a due date as 280 days after the first day of the last period.
+- [Simple Interest Calculator](https://justtools.info/calculators/simple-interest-calculator/): Simple Interest Calculator on Toolspire. Calculate simple interest from principal, annual rate and time in years, and see the total amount you repay or receive.
+- [Tip Calculator](https://justtools.info/calculators/tip-calculator/): Add a tip percentage to a restaurant bill and split the total evenly across the number of people at the table. Open Tip Calculator on Toolspire.
+- [Profit Margin Calculator](https://justtools.info/calculators/profit-margin-calculator/): Profit Margin Calculator on Toolspire. From cost and selling price, see profit, margin on the selling price, and markup on the cost.
+- [Break-even Calculator](https://justtools.info/calculators/break-even-calculator/): Break-even Calculator on Toolspire: Find how many units you must sell to cover fixed costs when you know the price and the variable cost of one unit.
+- [Overtime Pay Calculator](https://justtools.info/calculators/overtime-pay-calculator/): Overtime Pay Calculator on Toolspire: Add overtime to a wage: regular hours at the base rate and extra hours at a multiplier such as 1.5 or 2.
+- [Hourly Wage Calculator](https://justtools.info/calculators/hourly-wage-calculator/): Hourly Wage Calculator on Toolspire: Convert a yearly salary into an hourly wage, or an hourly wage into yearly pay, using hours worked per week and 52 weeks.
+- [Savings Goal Calculator](https://justtools.info/calculators/savings-goal-calculator/): Savings Goal Calculator on Toolspire. See how many months of saving it takes to reach a target, with an optional annual return on the balance you already have.
+- [Rule of 72 Calculator](https://justtools.info/calculators/rule-of-72-calculator/): Rule of 72 Calculator on Toolspire: Estimate how many years money takes to double at a fixed annual rate, using the rule of 72 and the exact compound formula.
+- [SWP Calculator](https://justtools.info/calculators/swp-calculator/): SWP Calculator on Toolspire: See what a monthly withdrawal does to a corpus at a yearly return: ending balance, total withdrawn, and if the money runs out.
+- [EPF Calculator](https://justtools.info/calculators/epf-calculator/): Estimate an EPF corpus from basic pay, 12% employee share, employer EPF after EPS, and a yearly interest rate you can edit. Open EPF Calculator on Toolspire.
+- [Rent Affordability Calculator](https://justtools.info/calculators/rent-affordability-calculator/): Rent Affordability Calculator on Toolspire: Turn a monthly income into a rent budget using a share of income, usually 30 percent.
+- [Split Bill Calculator](https://justtools.info/calculators/split-bill-calculator/): Split Bill Calculator on Toolspire: Divide a bill across friends, with an optional tip, and see the exact amount each person should transfer.
+- [Ratio Calculator](https://justtools.info/calculators/ratio-calculator/): Simplify two numbers to the smallest whole ratio and see what percent each part is of the total. The maths stays on your device.
+- [Quadratic Equation Calculator](https://justtools.info/calculators/quadratic-equation-calculator/): Quadratic Equation Calculator on Toolspire. Solve a quadratic equation for its real roots from a, b and c. No account is required.
+- [Pythagorean Calculator](https://justtools.info/calculators/pythagorean-calculator/): Pythagorean Calculator on Toolspire: Find the hypotenuse of a right triangle from the two legs. No account is required.
+- [Circle Calculator](https://justtools.info/calculators/circle-calculator/): Circle Calculator on Toolspire: From a radius, get the area, circumference and diameter of a circle. The area uses π × radius squared.
+- [Inflation Calculator](https://justtools.info/calculators/inflation-calculator/): Inflation Calculator on Toolspire: See what today’s price becomes after years of inflation. No account is required.
+- [Paint Calculator](https://justtools.info/calculators/paint-calculator/): Paint Calculator on Toolspire: Estimate litres of paint for a rectangular room from length, width, height, coats and how many square metres a litre covers.
+- [Tile Calculator](https://justtools.info/calculators/tile-calculator/): Tile Calculator on Toolspire: Count tiles for a rectangular floor from the room size and the tile size, then add a waste percentage for cuts and breakage.
+- [Down Payment Calculator](https://justtools.info/calculators/down-payment-calculator/): From a home or car price and a down-payment percent, see the cash you pay now and the loan that remains. The maths stays on your device.
+- [Ideal Weight Calculator](https://justtools.info/calculators/ideal-weight-calculator/): Ideal Weight Calculator on Toolspire: Estimate an adult ideal weight from height with the Devine formula, for men and for women, in kilograms.
+- [Water Intake Calculator](https://justtools.info/calculators/water-intake-calculator/): Water Intake Calculator on Toolspire: Estimate a daily water target from body weight, about 35 ml per kilogram, with an optional extra for exercise.
+- [Dividend Yield Calculator](https://justtools.info/calculators/dividend-yield-calculator/): Divide the annual dividend per share by the current share price to get the dividend yield as a percent. The maths stays on your device.
+- [PE Ratio Calculator](https://justtools.info/calculators/pe-ratio-calculator/): PE Ratio Calculator on Toolspire. Calculate the price-to-earnings ratio from a share price and earnings per share, and the earnings yield that is its inverse.
+- [ROI Calculator](https://justtools.info/calculators/roi-calculator/): ROI Calculator on Toolspire: Measure return on investment from what you paid and what you got back, as a percent of the original cost.
+- [Pace Calculator](https://justtools.info/calculators/pace-calculator/): Convert a run or ride into pace and speed from the distance and the time in minutes. The maths stays on your device. Open Pace Calculator on Toolspire.
+- [Concrete Calculator](https://justtools.info/calculators/concrete-calculator/): Work out concrete volume in cubic metres from length, width and depth. Use metres for every side. The maths stays on your device.
+- [Loan to Value Calculator](https://justtools.info/calculators/loan-to-value-calculator/): Loan to Value Calculator on Toolspire: Divide the loan by the property price to get the loan-to-value ratio lenders use when they price a mortgage.
+- [Cap Rate Calculator](https://justtools.info/calculators/cap-rate-calculator/): Calculate a property cap rate by dividing yearly net operating income by the price, before mortgage payments. The maths stays on your device.
+- [Fraction Calculator](https://justtools.info/calculators/fraction-calculator/): Fraction Calculator on Toolspire: Add, subtract, multiply or divide two fractions and see the result in lowest terms, plus the decimal value.
+- [Average Calculator](https://justtools.info/calculators/average-calculator/): Paste a list of numbers and get the mean, median, minimum, maximum and how many values were counted. The maths stays on your device.
+- [Sleep Cycle Calculator](https://justtools.info/calculators/sleep-cycle-calculator/): Sleep Cycle Calculator on Toolspire: Pick a wake-up time and see bedtimes that land on 90-minute sleep cycles, with a few minutes to fall asleep.
+- [Business Days Calculator](https://justtools.info/calculators/business-days-calculator/): Business Days Calculator on Toolspire: Count Monday-to-Friday days between two dates. Weekends are skipped. Public holidays are not.
+- [Aspect Ratio Calculator](https://justtools.info/calculators/aspect-ratio-calculator/): Aspect Ratio Calculator on Toolspire: Simplify a width and height to a ratio such as 16:9, and scale that ratio to any new width or height.
+- [DPI Calculator](https://justtools.info/calculators/dpi-calculator/): Find pixels per inch from a screen’s pixel width, pixel height and diagonal size in inches. The maths stays on your device. Open DPI Calculator on Toolspire.
+- [Random Number Generator](https://justtools.info/calculators/random-number-generator/): Random Number Generator on Toolspire: Generate one or more random whole numbers between a minimum and a maximum. Each draw uses your browser’s random source.
+- [Countdown Timer](https://justtools.info/calculators/countdown-timer/): Countdown Timer on Toolspire: Count down to a date and time in days, hours, minutes and seconds. The clock updates while this tab is open.
+- [Stopwatch](https://justtools.info/calculators/stopwatch/): Stopwatch on Toolspire: A stopwatch in the browser with start, stop and lap. Lap times stay on the page until you reset. Nothing is saved.
+- [Step-up SIP Calculator](https://justtools.info/calculators/step-up-sip-calculator/): Project a monthly SIP that increases by a fixed percent each year, and separate the money you deposit from the gain. Open Step-up SIP Calculator on Toolspire.
+- [Lumpsum Calculator](https://justtools.info/calculators/lumpsum-calculator/): Lumpsum Calculator on Toolspire. See what a one-time investment can become after yearly compounding, and how much of the result is growth rather than principal.
+- [XIRR Calculator](https://justtools.info/calculators/xirr-calculator/): XIRR Calculator on Toolspire. Work out the annualised return of irregular investments and payouts. This is the XIRR figure mutual-fund apps show for a SIP.
+- [Retirement Corpus Calculator](https://justtools.info/calculators/retirement-corpus-calculator/): Retirement Corpus Calculator on Toolspire: Estimate the corpus a monthly investment can build before retirement.
+- [Emergency Fund Calculator](https://justtools.info/calculators/emergency-fund-calculator/): Emergency Fund Calculator on Toolspire. Turn monthly essential expenses into an emergency fund of 3, 6 or 12 months.
+- [Sukanya Samriddhi Calculator](https://justtools.info/calculators/sukanya-samriddhi-calculator/): Sukanya Samriddhi Calculator on Toolspire: Estimate a Sukanya Samriddhi maturity after 15 yearly deposits and six silent years.
+- [Home Loan Eligibility Calculator](https://justtools.info/calculators/home-loan-eligibility-calculator/): Home Loan Eligibility Calculator on Toolspire: Estimate a home loan from monthly income, existing EMIs, a FOIR share and the rate and tenure you would accept.
+- [Flat vs Reducing Calculator](https://justtools.info/calculators/flat-vs-reducing-calculator/): Flat vs Reducing Calculator on Toolspire. Compare a flat-rate EMI with a reducing-balance EMI on the same principal, annual rate and tenure.
+- [NPS Calculator](https://justtools.info/calculators/nps-calculator/): Project an NPS corpus from a fixed monthly contribution and an annual return, then split it 60% lump sum and 40% annuity. Open NPS Calculator on Toolspire.
+- [Amortization Schedule Calculator](https://justtools.info/calculators/amortization-schedule-calculator/): Amortization Schedule Calculator on Toolspire. Build a reducing-balance loan schedule: the EMI, total interest.
+- [VAT Calculator](https://justtools.info/calculators/vat-calculator/): Add VAT to an exclusive price, and extract the VAT already hidden inside an inclusive price, at the percentage you type. Open VAT Calculator on Toolspire.
+- [Percentage Change Calculator](https://justtools.info/calculators/percentage-change-calculator/): Measure the percent rise or fall from an old number to a new number, using (new − old) ÷ old. The maths stays on your device.
+- [Sales Tax Calculator](https://justtools.info/calculators/sales-tax-calculator/): Sales Tax Calculator on Toolspire: Add sales tax to a sticker price, and see how much tax is already inside a price that includes it, at one local rate.
+- [Day of Week Calculator](https://justtools.info/calculators/day-of-week-calculator/): Find the weekday of a calendar date using UTC, so the answer does not shift when your laptop changes time zone. Open Day of Week Calculator on Toolspire.
+- [ISO Week Number](https://justtools.info/calculators/iso-week-number/): Find the ISO-8601 week number of a date, including the ISO year when the week belongs to the year next door. The maths stays on your device.
+- [Age Difference Calculator](https://justtools.info/calculators/age-difference-calculator/): Find the age gap between two birth dates in calendar years, months and days, plus the exact day count. The maths stays on your device.
+- [One Rep Max Calculator](https://justtools.info/calculators/one-rep-max-calculator/): One Rep Max Calculator on Toolspire. Estimate a one-rep max from a weight and the reps you lifted, using the Epley formula and the Brzycki formula side by side.
+- [Macro Calculator](https://justtools.info/calculators/macro-calculator/): Macro Calculator on Toolspire: Turn a calorie target and protein, carbohydrate and fat percentages into grams, using 4, 4 and 9 calories per gram.
+- [Body Fat Calculator](https://justtools.info/calculators/body-fat-calculator/): Body Fat Calculator on Toolspire: Estimate body-fat percentage with the US Navy circumference method, typing height, neck, waist and hip in centimetres.
+- [Target Heart Rate Calculator](https://justtools.info/calculators/target-heart-rate-calculator/): Estimate a maximum heart rate as 220 minus age, then list the 50, 60, 70 and 80 percent training zones. The maths stays on your device.
+- [Ovulation Calculator](https://justtools.info/calculators/ovulation-calculator/): Estimate an ovulation date as the last period plus cycle length minus 14 days, and mark a fertile window around it. Open Ovulation Calculator on Toolspire.
+- [Unit Price Calculator](https://justtools.info/calculators/unit-price-calculator/): Unit Price Calculator on Toolspire: Divide a pack price by the quantity inside it, then price a different quantity at that same rate per unit.
+- [Speed Distance Time Calculator](https://justtools.info/calculators/speed-distance-time-calculator/): Speed Distance Time Calculator on Toolspire. Solve speed, distance or time by leaving exactly one of the three blank. Distance is kilometres, speed is km/h.
+- [Present Value Calculator](https://justtools.info/calculators/present-value-calculator/): Discount a future lump sum back to today with present value = future ÷ (1 + rate) raised to the number of years. Open Present Value Calculator on Toolspire.
+- [Effective Annual Rate Calculator](https://justtools.info/calculators/effective-annual-rate-calculator/): Effective Annual Rate Calculator on Toolspire: Turn a nominal annual rate and a compounding count into the effective annual rate, (1 + r/n)^n − 1.
+- [Sinking Fund Calculator](https://justtools.info/calculators/sinking-fund-calculator/): Find the equal year-end deposit that grows to a target, using payment = target × r ÷ ((1 + r)^years − 1). The maths stays on your device.
+- [Straight-Line Depreciation](https://justtools.info/calculators/straight-line-depreciation/): Straight-Line Depreciation on Toolspire: Spread an asset’s cost minus salvage in equal yearly depreciation: (cost − salvage) ÷ useful life.
+- [Declining Balance Depreciation](https://justtools.info/calculators/declining-balance-depreciation/): Apply a fixed percent to the opening book value, and show year-one depreciation plus the book value left. The maths stays on your device.
+- [Current Ratio Calculator](https://justtools.info/calculators/current-ratio-calculator/): Current Ratio Calculator on Toolspire. Divide current assets by current liabilities. A result of 2 means there are two rupees of short-term assets per rupee.
+- [Quick Ratio Calculator](https://justtools.info/calculators/quick-ratio-calculator/): Quick Ratio Calculator on Toolspire. Subtract inventory from current assets, then divide by current liabilities. This is the acid-test ratio.
+- [Debt to Equity Calculator](https://justtools.info/calculators/debt-to-equity-calculator/): Divide total debt by shareholders’ equity. 150 of debt and 100 of equity is a debt-to-equity ratio of 1.5. The maths stays on your device.
+- [Inventory Turnover Calculator](https://justtools.info/calculators/inventory-turnover-calculator/): Inventory Turnover Calculator on Toolspire: Divide cost of goods sold by average inventory, then turn that turnover into days on hand using a 365-day year.
+- [Days Sales Outstanding](https://justtools.info/calculators/days-sales-outstanding/): Days Sales Outstanding on Toolspire: Turn receivables and credit sales into days sales outstanding: receivables ÷ credit sales × 365.
+- [Payment Gateway Fee Calculator](https://justtools.info/calculators/payment-gateway-fee-calculator/): Payment Gateway Fee Calculator on Toolspire: Add a percent fee and a fixed fee on a payment, and show what remains after that gateway charge.
+- [Freelancer Rate Calculator](https://justtools.info/calculators/freelancer-rate-calculator/): Freelancer Rate Calculator on Toolspire: Gross up a desired annual take-home across billable hours and a tax percent.
+- [ROAS Calculator](https://justtools.info/calculators/roas-calculator/): Divide revenue attributed to ads by ad spend. A ROAS of 5 means ₹5 of revenue for each ₹1 of spend. The maths stays on your device.
+- [CTR Calculator](https://justtools.info/calculators/ctr-calculator/): Divide clicks by impressions and multiply by 100. Fifty clicks on 1,000 impressions is a 5% click-through rate. Open CTR Calculator on Toolspire.
+- [CPM Calculator](https://justtools.info/calculators/cpm-calculator/): CPM Calculator on Toolspire: Find cost per mille: ad spend ÷ impressions × 1,000. ₹200 for 10,000 impressions is a ₹20 CPM. The maths stays on your device.
+- [Conversion Rate Calculator](https://justtools.info/calculators/conversion-rate-calculator/): Conversion Rate Calculator on Toolspire. Divide completed actions by visits and multiply by 100. Twenty-five actions from 500 visits is a 5% conversion rate.
+- [Churn Rate Calculator](https://justtools.info/calculators/churn-rate-calculator/): Divide customers lost by customers at the start of the period. Ten lost from 200 is a 5% churn rate. The maths stays on your device.
+- [Customer Lifetime Value](https://justtools.info/calculators/customer-lifetime-value/): Customer Lifetime Value on Toolspire. Estimate a simple lifetime value as average revenue per customer divided by the churn rate. ₹50 at 5% churn is ₹1,000.
+- [Payback Period Calculator](https://justtools.info/calculators/payback-period-calculator/): Payback Period Calculator on Toolspire. Divide an upfront cost by the steady monthly net cash it returns. ₹12,000 recovered at ₹1,000 a month takes 12 months.
+- [NPV Calculator](https://justtools.info/calculators/npv-calculator/): NPV Calculator on Toolspire: Discount a run of equal year-end cash flows and subtract the upfront cost. The rate is yearly. The flows do not change.
+- [NSC Calculator](https://justtools.info/calculators/nsc-calculator/): NSC Calculator on Toolspire: Compound a National Savings Certificate deposit annually for five years at the rate you type. The term is fixed at five years.
+- [Post Office MIS Calculator](https://justtools.info/calculators/post-office-mis-calculator/): Post Office MIS Calculator on Toolspire. Turn a principal and an annual rate into a monthly interest cheque: principal × rate ÷ 100 ÷ 12.
+- [Prorated Salary Calculator](https://justtools.info/calculators/prorated-salary-calculator/): Prorated Salary Calculator on Toolspire: Prorate a monthly salary by days worked over the days in that month. ₹30,000 across 30 days is ₹1,000 a day.
+- [Leave Encashment Calculator](https://justtools.info/calculators/leave-encashment-calculator/): Leave Encashment Calculator on Toolspire: Value encashed leave as monthly basic ÷ 30 × leave days. ₹30,000 basic and 15 days is ₹15,000.
+- [Bonus Calculator](https://justtools.info/calculators/bonus-calculator/): Apply a bonus percent to basic pay, capped by a ceiling. ₹20,000 basic, 8.33% and a ₹7,000 ceiling uses ₹7,000 as the base. Open Bonus Calculator on Toolspire.
+- [Markup Calculator](https://justtools.info/calculators/markup-calculator/): Markup Calculator on Toolspire: Add a markup percent to cost to get a selling price, and show the margin that markup becomes on the selling price.
+- [Add Days Calculator](https://justtools.info/calculators/add-days-calculator/): Add Days Calculator on Toolspire. Add a number of days to a calendar date in UTC. 31 January 2024 plus 1 day is 1 February 2024.
+- [Quarter Calculator](https://justtools.info/calculators/quarter-calculator/): Quarter Calculator on Toolspire: Name the calendar quarter of a date. January through March are Q1. 15 January 2026 is Q1 2026. October is Q4.
+- [Indian Fiscal Year](https://justtools.info/calculators/indian-fiscal-year/): Name the Indian financial year of a date. 15 January 2026 is FY 2025-26. 1 April 2026 is FY 2026-27. The maths stays on your device.
+- [Body Surface Area](https://justtools.info/calculators/body-surface-area/): Body Surface Area on Toolspire. Estimate body surface area with the Mosteller formula, the square root of height times weight over 3600.
+- [Mean Arterial Pressure](https://justtools.info/calculators/mean-arterial-pressure/): Estimate mean arterial pressure as (systolic + 2 × diastolic) / 3. 120 and 80 give 93.33 mmHg. The maths stays on your device.
+- [Waist Hip Ratio](https://justtools.info/calculators/waist-hip-ratio/): Divide waist circumference by hip circumference. A waist of 80 and a hip of 100 give a ratio of 0.8. The maths stays on your device.
+- [Appliance Energy Calculator](https://justtools.info/calculators/appliance-energy-calculator/): Appliance Energy Calculator on Toolspire: Turn watts and hours into kilowatt-hours, then price them. A 1000 W appliance for 2 hours uses 2 kWh.
+- [Cross Rate Calculator](https://justtools.info/calculators/cross-rate-calculator/): Cross Rate Calculator on Toolspire. Multiply two exchange quotes that share a middle currency. If 1 USD is 83 INR and 1 EUR is 1.1 USD, then 1 EUR is 91.3 INR.
+- [ESI Calculator](https://justtools.info/calculators/esi-calculator/): Estimate ESI on a monthly wage at or under ₹21,000: employee 0.75% and employer 3.25%. ₹20,000 is ₹150 and ₹650. Open ESI Calculator on Toolspire.
+
+## Education Tools
+
+- [Worksheet Generator](https://justtools.info/education-tools/worksheet-generator/): Maths worksheet generator: printable addition, subtraction, times tables and division sheets with answer keys. Set the difficulty, download a PDF.
+- [Random Name Picker](https://justtools.info/education-tools/random-name-picker/): Random Name Picker on Toolspire. Pick random names with a spinning wheel: one or several winners, no repeats, and random groups. Fair, private and free.
+- [OMR Sheet Generator](https://justtools.info/education-tools/omr-sheet-generator/): OMR Sheet Generator on Toolspire. Make printable OMR answer sheets free: up to 300 questions, 4 or 5 options, roll number bubbles.
+- [Typing Speed Test](https://justtools.info/education-tools/typing-speed-test/): Typing speed test in English and Hindi: check your WPM and accuracy, practise with passages, and take an exam-style test with full and half mistakes.
+- [Exam Seating Arrangement Planner](https://justtools.info/education-tools/exam-seating-arrangement/): Exam Seating Arrangement Planner on Toolspire. Plan exam seating free: mix classes so no two from the same group sit together, then print seating charts.
+- [Chemical Equation Balancer](https://justtools.info/education-tools/chemical-equation-balancer/): Chemical Equation Balancer on Toolspire. Balance any chemical equation online, redox and ionic included. See the atom count on each side, molar masses.
+- [Electron Configuration Builder](https://justtools.info/education-tools/electron-configuration/): Electron Configuration Builder on Toolspire: Electron configuration of any element or ion: full and noble-gas form, orbital diagram.
+- [Half-Life Calculator](https://justtools.info/education-tools/half-life-calculator/): Half-Life Calculator on Toolspire: Find the amount left, starting amount, time or half-life with the working shown.
+- [Radioactive Decay Simulator](https://justtools.info/education-tools/radioactive-decay-simulator/): Radioactive Decay Simulator on Toolspire: Watch up to 10,000 atoms decay at random, compare with the half-life curve.
+- [3D Molecular Structure Viewer](https://justtools.info/education-tools/3d-molecule-viewer/): 3D Molecular Structure Viewer on Toolspire: 3D molecule viewer: look up any compound or protein by name, SMILES or PDB ID, or open PDB, SDF and XYZ files.
+- [Graph Paper Generator](https://justtools.info/education-tools/graph-paper-generator/): Graph Paper Generator on Toolspire: Printable graph paper: square, dot, isometric, hexagon, polar, log, coordinate plane and lined paper in A4 or Letter.
+- [Interactive Periodic Table](https://justtools.info/education-tools/periodic-table/): Interactive Periodic Table on Toolspire. Interactive periodic table of all 118 elements: properties, electron configurations, trend heat maps.
+- [LCM and HCF Calculator](https://justtools.info/education-tools/lcm-hcf-calculator/): LCM and HCF Calculator on Toolspire: Find the HCF and LCM of two integers with Euclid’s algorithm. LCM is the product divided by the HCF.
+- [Prime Factorization](https://justtools.info/education-tools/prime-factorization/): Prime Factorization on Toolspire: Split an integer from 2 up to one trillion into prime factors by trial division, and say so when the number itself is prime.
+- [Factorial Calculator](https://justtools.info/education-tools/factorial-calculator/): Factorial Calculator on Toolspire. Calculate n factorial as an exact integer with BigInt, from 0! = 1 through 500!, and show how many digits the result has.
+- [Permutation Combination Calculator](https://justtools.info/education-tools/permutation-combination-calculator/): Permutation Combination Calculator on Toolspire: Calculate nPr and nCr with exact integers. Order counts for permutations and does not count for combinations.
+- [Mean Median Mode Calculator](https://justtools.info/education-tools/mean-median-mode-calculator/): Mean Median Mode Calculator on Toolspire: Find the mean, median and mode of a list of numbers. The mode is reported only when a value actually repeats.
+- [Standard Deviation Calculator](https://justtools.info/education-tools/standard-deviation-calculator/): Standard Deviation Calculator on Toolspire. Calculate the sample and population standard deviation of a list. No account is required.
+- [Final Grade Calculator](https://justtools.info/education-tools/final-grade-calculator/): Final Grade Calculator on Toolspire: Find the score you still need on the remaining weight of a course to finish at a target percentage.
+- [Weighted Grade Calculator](https://justtools.info/education-tools/weighted-grade-calculator/): Weighted Grade Calculator on Toolspire. Average graded rows where each line is a score and a weight. The result is the weight-adjusted percent.
+- [Heron's Formula Calculator](https://justtools.info/education-tools/herons-formula-calculator/): Heron's Formula Calculator on Toolspire: Find a triangle’s area from all three sides with Heron’s formula. No account is required.
+- [Cylinder Volume Calculator](https://justtools.info/education-tools/cylinder-volume-calculator/): Calculate the volume of a right circular cylinder and its total surface area from radius and height. The maths stays on your device.
+- [Square Root Calculator](https://justtools.info/education-tools/square-root-calculator/): Square Root Calculator on Toolspire: Find the square root of a non-negative number and say whether that root is a whole number, a perfect square.
+- [Leap Year Checker](https://justtools.info/education-tools/leap-year-checker/): Check whether a year is a leap year: divisible by 4, except centuries, which must also be divisible by 400. The maths stays on your device.
+- [Random Team Generator](https://justtools.info/education-tools/random-team-generator/): Random Team Generator on Toolspire: Shuffle a list of names with Fisher–Yates and deal them into teams, so the first names typed are not stuck together.
+- [Ohms Law Calculator](https://justtools.info/education-tools/ohms-law-calculator/): Ohms Law Calculator on Toolspire: Solve volts, amps or ohms from V = I × R by leaving one box blank, and show the power in watts for that pair.
+- [Logarithm Calculator](https://justtools.info/education-tools/logarithm-calculator/): Find log of a positive number in any base above 0 and not 1. Log base 10 of 1,000 is 3. Log base 2 of 8 is 3. The maths stays on your device.
+- [Exponent Calculator](https://justtools.info/education-tools/exponent-calculator/): Raise a base to a power. 2 to the 10th is 1,024. Integer powers use an exact integer path so 2^10 is not 1023.999. Open Exponent Calculator on Toolspire.
+- [Modulo Calculator](https://justtools.info/education-tools/modulo-calculator/): Modulo Calculator on Toolspire: Find the remainder when one integer is divided by another. 17 divided by 5 leaves remainder 2, because 5×3+2 = 17.
+- [Arithmetic Sequence Calculator](https://justtools.info/education-tools/arithmetic-sequence-calculator/): Arithmetic Sequence Calculator on Toolspire: Find the nth term and the sum of an arithmetic sequence. First term 2, difference 3.
+- [Geometric Sequence Calculator](https://justtools.info/education-tools/geometric-sequence-calculator/): Geometric Sequence Calculator on Toolspire. Find the nth term and sum of a geometric sequence. First term 2, ratio 3.
+- [Slope Calculator](https://justtools.info/education-tools/slope-calculator/): Find the slope between two points: (y2 − y1) ÷ (x2 − x1). From (0, 0) to (2, 4) the slope is 2. The maths stays on your device.
+- [Midpoint Calculator](https://justtools.info/education-tools/midpoint-calculator/): Midpoint Calculator on Toolspire: Average the coordinates of two points. The midpoint of (0, 0) and (2, 4) is (1, 2). The maths stays on your device.
+- [Distance Between Points](https://justtools.info/education-tools/distance-between-points/): Find the straight-line distance between two points. From (0, 0) to (3, 4) the distance is 5, by Pythagoras. The maths stays on your device.
+- [Trapezoid Area Calculator](https://justtools.info/education-tools/trapezoid-area-calculator/): Trapezoid Area Calculator on Toolspire: Find a trapezoid’s area from the two parallel sides and the height: (a + b) ÷ 2 × height.
+- [Sphere Volume Calculator](https://justtools.info/education-tools/sphere-volume-calculator/): Sphere Volume Calculator on Toolspire: Calculate a sphere’s volume as 4/3 π r³ and its surface area as 4 π r². A unit sphere has volume about 4.1888.
+- [Cone Volume Calculator](https://justtools.info/education-tools/cone-volume-calculator/): Cone Volume Calculator on Toolspire: Calculate a right circular cone’s volume as one third π r² h. Radius 1 and height 3 give volume π, about 3.1416.
+- [Law of Cosines Calculator](https://justtools.info/education-tools/law-of-cosines-calculator/): Law of Cosines Calculator on Toolspire. Find the angle opposite side c from sides a, b and c. A 3-4-5 triangle has 90 degrees opposite the side of length 5.
+- [Percent Error Calculator](https://justtools.info/education-tools/percent-error-calculator/): Percent Error Calculator on Toolspire: Divide the absolute gap between a measured value and an accepted value by the accepted value.
+- [Scientific Notation Converter](https://justtools.info/education-tools/scientific-notation-converter/): Scientific Notation Converter on Toolspire: Write a number as a coefficient from 1 up to 10, times a power of 10. 12345 becomes 1.2345 × 10^4.
+- [Significant Figures Rounder](https://justtools.info/education-tools/significant-figures-rounder/): Significant Figures Rounder on Toolspire: Round a number to a chosen count of significant figures. 1.2345 to three significant figures is 1.23.
+- [Molarity Calculator](https://justtools.info/education-tools/molarity-calculator/): Divide moles of solute by litres of solution. Half a mole in 2 litres is 0.25 mol/L. The maths stays on your device. Open Molarity Calculator on Toolspire.
+- [Dilution Calculator](https://justtools.info/education-tools/dilution-calculator/): Dilution Calculator on Toolspire: Find the volume of dilute solution from a stock: V2 = C1 × V1 ÷ C2. A 2 M stock, 50 mL, diluted to 0.5 M, makes 200 mL.
+- [Density Calculator](https://justtools.info/education-tools/density-calculator/): Density Calculator on Toolspire: Divide mass by volume. 10 grams in 2 millilitres has density 5 g/mL. The page does not convert the units you mix.
+- [Boyle's Law Calculator](https://justtools.info/education-tools/boyles-law-calculator/): Boyle's Law Calculator on Toolspire. Solve the new volume from Boyle’s law: P1 × V1 = P2 × V2. One atmosphere and 2 litres, compressed to 2 atmospheres.
+- [Kinetic Energy Calculator](https://justtools.info/education-tools/kinetic-energy-calculator/): Kinetic Energy Calculator on Toolspire: Calculate translational kinetic energy as ½ m v². A 2 kg mass at 3 m/s has 9 joules of kinetic energy.
+- [Gravitational Potential Energy](https://justtools.info/education-tools/gravitational-potential-energy/): Gravitational Potential Energy on Toolspire: Calculate gravitational potential energy as m g h. One kilogram, one metre, and g of 9.81 give 9.81 joules.
+- [Force Calculator](https://justtools.info/education-tools/force-calculator/): Calculate net force as mass times acceleration. Two kilograms accelerating at 3 m/s² need a net force of 6 newtons. Open Force Calculator on Toolspire.
+- [Wavelength Calculator](https://justtools.info/education-tools/wavelength-calculator/): Divide the speed of light by a frequency in hertz. 299,792,458 Hz has a wavelength of exactly 1 metre in a vacuum. Open Wavelength Calculator on Toolspire.
+- [Decibel Calculator](https://justtools.info/education-tools/decibel-calculator/): Decibel Calculator on Toolspire: Convert a power ratio to decibels with 10 log10(P2/P1). A power 100 times the reference is 20 dB, not 100 dB.
+- [Resistor Calculator](https://justtools.info/education-tools/resistor-calculator/): Resistor Calculator on Toolspire. Add two resistors in series, and compute their parallel pair with the product-over-sum rule.
+- [ISBN Validator](https://justtools.info/education-tools/isbn-validator/): ISBN Validator on Toolspire: Check an ISBN-13 check digit. 9780306406157 is valid. Weights alternate 1 and 3, and the last digit makes the total end in 0.
+
+## Business Tools
+
+- [GST Invoice Generator](https://justtools.info/business-tools/gst-invoice-generator/): Make GST tax invoices on your device: CGST, SGST or IGST worked out, GSTIN check, HSN summary and a UPI QR code. Download a PDF — free, without an account.
+- [Salary Slip Generator](https://justtools.info/business-tools/salary-slip-generator/): Salary Slip Generator on Toolspire: Make monthly salary slips as PDF: earnings, PF, ESI, professional tax and TDS worked out, loss of pay and net pay in words.
+- [Printable ID Card Maker](https://justtools.info/business-tools/id-card-maker/): Printable ID Card Maker on Toolspire: Make printable ID cards with photo, logo, QR code or barcode: employee, student, visitor and event templates.
+- [Luxembourg Invoice Generator](https://justtools.info/business-tools/luxembourg-invoice-generator/): Luxembourg Invoice Generator on Toolspire. Make Luxembourg invoices with every mention the VAT law requires: 17/14/8/3% TVA, reverse charge, franchise, RCS.
+- [GSTIN Checksum Validator](https://justtools.info/business-tools/gstin-checksum-validator/): GSTIN Checksum Validator on Toolspire. Check a 15-character GSTIN shape and its check character. 22AAAAA0000A1ZC passes this checksum. It is an example.
+- [IFSC Format Checker](https://justtools.info/business-tools/ifsc-format-checker/): IFSC Format Checker on Toolspire: Check the shape of an Indian IFSC: four letters, a zero, then six letters or digits. SBIN0001234 fits.
+
+## Career Tools
+
+- [Resume Builder](https://justtools.info/career-tools/resume-builder/): Resume builder with 4 ATS-friendly templates: fill in your details, see a live preview, and download a PDF or Word file. without an account and no watermark.
+- [ATS Resume Checker](https://justtools.info/career-tools/ats-resume-checker/): See what applicant tracking systems read from your PDF or Word resume, get a score with clear fixes, and match it to any job.
+- [Marriage Biodata Maker](https://justtools.info/career-tools/marriage-biodata-maker/): Marriage Biodata Maker on Toolspire. Make a marriage biodata with photo in English, Hindi or Marathi — rashi, nakshatra, gotra, family details.
+
+## Converters
+
+- [Unit Converter](https://justtools.info/converters/unit-converter/): Unit Converter on Toolspire: Convert length, weight, area, volume, temperature, speed, data and 8 more quantities — including guntha, bigha, tola and lakh.
+- [Unix Timestamp Converter](https://justtools.info/converters/unix-timestamp-converter/): Unix Timestamp Converter on Toolspire. Convert Unix epoch time to a date in any time zone and back. Detects seconds, ms, µs and ns; also Excel.
+- [Land Area Converter](https://justtools.info/converters/land-area-converter/): Land Area Converter on Toolspire. Convert land area in India: bigha, biswa, katha, kanal, marla, guntha, cent, gaj, acre and hectare.
+- [Roman Numeral Converter](https://justtools.info/converters/roman-numeral-converter/): Roman Numeral Converter on Toolspire: Convert a whole number from 1 to 3999 into a Roman numeral, or check a numeral and read it back as a number.
+- [Number Base Converter](https://justtools.info/converters/number-base-converter/): Convert a whole number between bases from 2 to 36, including binary, octal, decimal and hexadecimal. The maths stays on your device.
+- [Data Size Converter](https://justtools.info/converters/data-size-converter/): Data Size Converter on Toolspire: Convert a file size between bytes, kilobytes, megabytes, gigabytes and terabytes using 1,024 units, the way computers count.
+- [Time Zone Converter](https://justtools.info/converters/time-zone-converter/): Time Zone Converter on Toolspire: Convert a date and clock time from one IANA time zone to another, using your browser’s time-zone database.
+- [Time Duration Calculator](https://justtools.info/converters/time-duration-calculator/): Time Duration Calculator on Toolspire: Add or subtract two durations in hours and minutes, and normalise the result so minutes stay under 60.
+- [Military Time Converter](https://justtools.info/converters/military-time-converter/): Convert 24-hour military time such as 14:30 into 2:30 PM, and show the 24-hour form back again. The maths stays on your device.
+- [Indian Comma Separator](https://justtools.info/converters/indian-comma-separator/): Indian Comma Separator on Toolspire: Group a number the Indian way: the last three digits, then pairs, so 1234567 becomes 12,34,567.
+- [Temperature Converter](https://justtools.info/converters/temperature-converter/): Temperature Converter on Toolspire: Convert Celsius to Fahrenheit and kelvin. 0 °C is 32 °F and 273.15 K. 100 °C is 212 °F. The maths stays on your device.
+- [Shoe Size Converter](https://justtools.info/converters/shoe-size-converter/): Shoe Size Converter on Toolspire. Convert a men’s UK shoe size using a fixed chart. UK 8 is US men 9, EU 42 and India 8. Sizes not on the chart are refused.
+- [Cooking Volume Converter](https://justtools.info/converters/cooking-volume-converter/): Cooking Volume Converter on Toolspire. Add US cooking volumes into millilitres. A cup is 240 ml, a tablespoon is 15 ml and a teaspoon is 5 ml.
+- [Fuel Efficiency Converter](https://justtools.info/converters/fuel-efficiency-converter/): Fuel Efficiency Converter on Toolspire: Convert kilometres per litre into litres per 100 km and US miles per gallon.
+- [Decimal Time Converter](https://justtools.info/converters/decimal-time-converter/): Turn decimal hours into hours and minutes. 1.5 hours is 1 hour 30 minutes, which is 90 minutes. The maths stays on your device.
+
+## QR & Barcode Tools
+
+- [QR Code Generator](https://justtools.info/qr-tools/qr-code-generator/): QR Code Generator on Toolspire: Create free QR codes for links, UPI payments, Wi-Fi, WhatsApp, contacts and more. Add colours and a logo, download PNG or SVG.
+- [Barcode Generator](https://justtools.info/qr-tools/barcode-generator/): Barcode generator for EAN-13, UPC-A, Code 128, Code 39, ITF-14, GS1-128 and Data Matrix. Check digits added, exact mm size, PNG, SVG and batch print.
+- [QR Code Scanner](https://justtools.info/qr-tools/qr-code-scanner/): QR Code Scanner on Toolspire. Scan QR codes online with your camera or from a photo or screenshot. Shows links safely, UPI payments.
+- [Barcode Scanner](https://justtools.info/qr-tools/barcode-scanner/): Barcode Scanner on Toolspire: Scan barcodes online with your camera or from a photo: EAN-13, UPC, Code 128, Code 39, ISBN, DataMatrix and PDF417.
+
+## Security Tools
+
+- [Password Generator](https://justtools.info/security-tools/password-generator/): Password Generator on Toolspire: Generate strong, random passwords, memorable passphrases and PINs with a cryptographically secure generator. Free.
+- [SSL Checker](https://justtools.info/security-tools/ssl-checker/): SSL Checker on Toolspire. Check any website’s SSL certificate: expiry date and days left, issuer, covered domains, revocation and CAA.
+- [Image Steganography Tool](https://justtools.info/security-tools/image-steganography/): Hide a secret message or file inside an image, protected with a password, and reveal hidden messages from PNG images. Free and private — without uploading.
+- [Password Strength Checker](https://justtools.info/security-tools/password-strength-checker/): Password Strength Checker on Toolspire: Check how strong a password is: time to crack, common words and patterns it hides, tips to improve it.
+- [PPK to PEM Converter](https://justtools.info/security-tools/ppk-to-pem/): Convert a PuTTY.ppk private key to PEM or OpenSSH format online, with or without a passphrase. Supports PPK v2 and v3, RSA, ECDSA and Ed25519.
+- [PEM to PPK Converter](https://justtools.info/security-tools/pem-to-ppk/): Convert a PEM or OpenSSH private key (id_rsa, AWS.pem) to a PuTTY.ppk file online — PPK v3 or v2, with an optional passphrase. Free, private.
+- [Bcrypt Generator & Checker](https://justtools.info/security-tools/bcrypt-generator/): Generate bcrypt hashes with cost 4–16 and $2a/$2b/$2y prefixes, or check a password against a bcrypt hash. Explains each part. Runs on your device only.
+- [SSH Key Generator](https://justtools.info/security-tools/ssh-key-generator/): Generate SSH keys on your device: Ed25519, RSA 4096 or ECDSA, with a passphrase, in OpenSSH, PEM or PuTTY.ppk format. Nothing is sent to a server.
+
+## Internet & Network Tools
+
+- [IP Subnet Calculator](https://justtools.info/network-tools/ip-subnet-calculator/): IP subnet calculator for IPv4 and IPv6: network, broadcast, host range, mask and wildcard from any CIDR, plus subnetting, VLSM and route summarisation.
+- [Internet Speed Test](https://justtools.info/network-tools/internet-speed-test/): Check download and upload speed, ping, jitter and bufferbloat on Wi-Fi, broadband or mobile data — no app, with a data saver mode.
+- [Download Time Calculator](https://justtools.info/network-tools/download-time-calculator/): Download Time Calculator on Toolspire: Work out how long a file takes at a megabit link speed, using decimal bytes and one million bits per second.
+- [Data Usage Calculator](https://justtools.info/network-tools/data-usage-calculator/): Data Usage Calculator on Toolspire: Turn a steady megabit rate and the hours you use it into gigabytes. One megabit is one million bits a second.
+- [Uptime Calculator](https://justtools.info/network-tools/uptime-calculator/): Uptime Calculator on Toolspire: Turn an availability percent such as 99.9 into downtime for a day, a 30-day month and a 365-day year. It is arithmetic.
+- [Port Number Lookup](https://justtools.info/network-tools/port-number-lookup/): Port Number Lookup on Toolspire. Look up a well-known TCP or UDP port, or a service name such as SSH, HTTPS or MySQL, from a fixed list. No host is scanned.
+- [MAC Address Generator](https://justtools.info/network-tools/mac-address-generator/): MAC Address Generator on Toolspire. Check a MAC address, name the unicast and local-admin bits. No account is required.
+- [CIDR Overlap Checker](https://justtools.info/network-tools/cidr-overlap-checker/): CIDR Overlap Checker on Toolspire. Compare two IPv4 CIDR prefixes and report whether one contains the other, they are the same range, or they are disjoint.
+- [IPv4 Address Converter](https://justtools.info/network-tools/ipv4-address-converter/): IPv4 Address Converter on Toolspire: Convert an IPv4 address between dotted decimal, a 32-bit integer, hexadecimal and dotted binary.
+- [Punycode Converter](https://justtools.info/network-tools/punycode-converter/): Punycode Converter on Toolspire. Convert an international domain name to ASCII punycode and back, using the xn-- prefix from RFC 3492.
+- [IPv6 Expander](https://justtools.info/network-tools/ipv6-expander/): IPv6 Expander on Toolspire: Expand a compressed IPv6 address to eight groups of four hex digits. 2001:db8::1 becomes 2001:0db8:0000:0000:0000:0000:0000:0001.
+- [Wildcard Mask Calculator](https://justtools.info/network-tools/wildcard-mask-calculator/): Turn an IPv4 prefix length into a subnet mask and the Cisco-style wildcard, which is the mask with the bits flipped. /26 is mask 255.255.255.192.
+
+## Device Tests
+
+- [Mic Tester](https://justtools.info/device-tests/mic-test/): Mic Tester on Toolspire. Test your microphone online: a live sound level, waveform and spectrum, record and play back a clip, and fix a mic that is muted.
+- [Webcam Tester](https://justtools.info/device-tests/webcam-test/): Webcam Tester on Toolspire. Test your webcam online: see the live picture, resolution, megapixels and frame rate, take a photo or record a clip.
+- [Speaker Tester](https://justtools.info/device-tests/speaker-test/): Speaker Tester on Toolspire. Play a tone in the left speaker, the right, or both, then sweep from bass to treble.
+- [Keyboard Tester](https://justtools.info/device-tests/keyboard-test/): Press every key and see it light up. The test marks keys that stick, counts repeats, and never sends what you type anywhere. Open Keyboard Tester on Toolspire.
+- [Mouse Tester](https://justtools.info/device-tests/mouse-test/): Click, right-click, scroll and double-click in the pad. The test counts each button and shows where the pointer is. Open Mouse Tester on Toolspire.
+- [Dead Pixel Test](https://justtools.info/device-tests/dead-pixel-test/): Dead Pixel Test on Toolspire. Fill the screen with solid colours and a fine grid to spot dead, stuck or bright pixels. Nothing about your display is uploaded.
+- [Touch Screen Test](https://justtools.info/device-tests/touch-screen-test/): Touch Screen Test on Toolspire: Touch the corners and the centre, and see every finger the screen reports. Multi-touch stays in this tab and is not uploaded.
+- [Screen Resolution](https://justtools.info/device-tests/screen-resolution/): Screen Resolution on Toolspire: See your screen resolution, the browser viewport and the device pixel ratio. Resize the window and the numbers follow.
+- [What Is My Browser](https://justtools.info/device-tests/what-is-my-browser/): What Is My Browser on Toolspire: Read the browser name and major version from a user-agent string, checking Edge before Chrome and Chrome before Safari.
+
+## SEO & Marketing Tools
+
+- [UTM Builder](https://justtools.info/seo-tools/utm-builder/): UTM Builder on Toolspire. Build UTM campaign links for Google Analytics 4: presets for WhatsApp, Instagram, email and ads, the GA4 channel each lands.
+- [Website SEO Checker](https://justtools.info/seo-tools/website-seo-checker/): Website SEO Checker on Toolspire: Audit any page’s title, meta description, headings, canonical, robots.txt, schema, Open Graph and AI crawler access.
+- [Sitemap Generator](https://justtools.info/seo-tools/sitemap-generator/): Sitemap Generator on Toolspire: XML sitemap generator: crawl your site or paste URLs, skip noindex, redirected and robots.txt-blocked pages.
+- [Robots.txt Generator](https://justtools.info/seo-tools/robots-txt-generator/): Robots.txt Generator on Toolspire. Create a robots.txt file free: block admin pages, AI training bots like GPTBot or SEO crawlers, add your sitemap.
+- [URL Shortener](https://justtools.info/seo-tools/url-shortener/): Make short links with a custom ending, QR code, password, expiry and click stats — or check where any short link really goes. Open URL Shortener on Toolspire.
+- [Dofollow Nofollow Link Checker](https://justtools.info/seo-tools/dofollow-nofollow-checker/): Dofollow Nofollow Link Checker on Toolspire: See which links on a page are dofollow or nofollow. Lists every link with its rel, anchor text and type.
+- [Meta Tag Generator](https://justtools.info/seo-tools/meta-tag-generator/): Meta Tag Generator on Toolspire. Build the HTML title, meta description and Open Graph tags for a page. No account is required.
+- [SERP Snippet Preview](https://justtools.info/seo-tools/serp-snippet-preview/): SERP Snippet Preview on Toolspire: Preview a page title and meta description and flag a title over 60 characters or a description outside 110–160.
+- [Keyword Density Checker](https://justtools.info/seo-tools/keyword-density-checker/): Divide whole-word matches of one keyword by the word count. “cat and cat” is two cats in three words, 66.67%. The maths stays on your device.
+
+## Games
+
+- [Tic Tac Toe](https://justtools.info/games/tic-tac-toe/): Play Tic Tac Toe here against the computer — Easy, Medium or unbeatable Hard — or with a friend on one device. 3×3 to 6×6 boards. without an account.
+- [Bingo Card Generator](https://justtools.info/games/bingo-card-generator/): Bingo Card Generator on Toolspire. Make printable bingo cards, Tambola (Housie) tickets or word bingo — unique and numbered.
+- [Coin Flip](https://justtools.info/games/coin-flip/): Coin Flip on Toolspire: Flip a coin online: a fair 50/50 heads or tails toss with a 3D coin. Flip up to 10 coins, play best of 3.
+- [Sudoku](https://justtools.info/games/sudoku/): Sudoku on Toolspire: Play free Sudoku online: easy to expert puzzles with one solution, notes, hints that explain the logic, a daily puzzle.
+- [Minesweeper](https://justtools.info/games/minesweeper/): Play Minesweeper : Beginner, Intermediate, Expert or custom boards, a safe first click, no-guess boards that never need luck, hints and best times.
+- [2048 Game](https://justtools.info/games/2048-game/): 2048 Game on Toolspire: Play 2048 : swipe or use the arrow keys to join tiles. Undo, AI hints, an auto-play AI, 3×3 to 6×6 boards and your best score saved.
+- [Connect Four](https://justtools.info/games/connect-four/): Connect Four on Toolspire: Play Connect Four here: drop discs and get four in a row against the computer — Easy, Medium or Hard — or a friend on one device.
+- [Reversi](https://justtools.info/games/reversi/): Play Reversi here — the disc-flipping strategy game — against the computer (Easy, Medium, Hard) or a friend. 6×6, 8×8 or 10×10 boards. without an account.
+- [Checkers](https://justtools.info/games/checkers/): Play checkers here against the computer or a friend: American/English checkers plus international, Brazilian and Russian draughts. without an account.
+- [Snake Game](https://justtools.info/games/snake/): Play the classic Snake game here: eat apples, grow longer and dodge walls and your own tail. Mazes, wrap-around, 4 speeds and swipe controls.
+- [Solitaire](https://justtools.info/games/solitaire/): Play classic Klondike solitaire here: draw 1 or draw 3, Vegas scoring, winnable deals, hints, undo and a daily deal. No download, without an account.
+- [Mahjong Solitaire](https://justtools.info/games/mahjong-solitaire/): Mahjong Solitaire on Toolspire: Play mahjong solitaire here: the classic 144-tile turtle and three more layouts, every deal winnable, with hints, shuffle.
+- [Word Guess](https://justtools.info/games/word-guess/): Guess the hidden word in six tries: a free 5-letter word game with unlimited play, a daily word, 4- and 6-letter modes, hard mode and stats.
+- [Chess](https://justtools.info/games/chess/): Play chess here against the computer at five levels, from beginner to master, or with a friend on one screen. Hints, undo, move list, PGN and FEN.
+- [Spider Solitaire](https://justtools.info/games/spider-solitaire/): Play Spider Solitaire here with 1, 2 or 4 suits: build king-to-ace runs to clear the table. Undo, hints, Windows scoring and stats. No download.
+- [Block Puzzle](https://justtools.info/games/block-puzzle/): Play a free block puzzle game online: drag blocks onto the grid and fill rows and columns to clear them. Combos, hints, 8×8 or 10×10 board. without an account.
+- [FreeCell](https://justtools.info/games/freecell/): Play FreeCell solitaire here with the same numbered deals as Microsoft FreeCell (1 to 1,000,000). Hints, undo, a solver and stats. without an account.
+- [Dinosaur Game](https://justtools.info/games/dinosaur-game/): Play the dinosaur running game here: jump the cacti, duck the flying pterosaurs and beat your high score. Works with keys, mouse or touch.
+- [Bubble Pop](https://justtools.info/games/bubble-pop/): Play a free bubble shooting game online: aim, bounce off the walls and match three or more bubbles to pop them. Levels, aiming guide, without an account.
+- [Ludo](https://justtools.info/games/ludo/): Play Ludo here for 2 to 4 players: against the computer or with friends on one device. Star safe squares, captures, extra rolls on a six. without an account.
+- [Hangman](https://justtools.info/games/hangman/): Play Hangman here: guess the word letter by letter before the drawing is finished. Six categories, three levels, a two-player mode. without an account.
+- [Snakes and Ladders](https://justtools.info/games/snakes-and-ladders/): Snakes and Ladders on Toolspire: Play Snakes and Ladders here: against the computer or with friends on one device. Four boards, house rules for 100 and sixes.
+- [Word Search](https://justtools.info/games/word-search/): Word Search on Toolspire: Play word search here: 14 themes, a daily puzzle and four grid sizes. No account is required.
+- [Memory Game](https://justtools.info/games/memory-game/): Play the memory game here: turn over cards and find the pairs. 11 card sets for kids and adults, 6 to 18 pairs, vs the computer or friends. without an account.
+- [Jigsaw Puzzle](https://justtools.info/games/jigsaw-puzzle/): Play jigsaw puzzles here: famous paintings like The Starry Night, or turn your own photo into a puzzle. 12 to 150 pieces that snap together.
+- [Dice Roller](https://justtools.info/games/dice-roller/): Roll dice with 4, 6, 8, 10, 12, 20 or 100 sides and add the faces. Useful for a board game or a tabletop session. Open Dice Roller on Toolspire.
+
+## Full text
+
+- [llms-full.txt](https://justtools.info/llms-full.txt): Every tool's facts, features, how-to steps, guide and complete FAQ.
+- [Image Tools — full text](https://justtools.info/llms/image-tools.txt): 15 tools.
+- [Text Tools — full text](https://justtools.info/llms/text-tools.txt): 34 tools.
+- [PDF Tools — full text](https://justtools.info/llms/pdf-tools.txt): 17 tools.
+- [Developer Tools — full text](https://justtools.info/llms/developer-tools.txt): 41 tools.
+- [CSS Tools — full text](https://justtools.info/llms/css-tools.txt): 18 tools.
+- [Calculators — full text](https://justtools.info/llms/calculators.txt): 129 tools.
+- [Education Tools — full text](https://justtools.info/llms/education-tools.txt): 52 tools.
+- [Business Tools — full text](https://justtools.info/llms/business-tools.txt): 6 tools.
+- [Career Tools — full text](https://justtools.info/llms/career-tools.txt): 3 tools.
+- [Converters — full text](https://justtools.info/llms/converters.txt): 15 tools.
+- [QR & Barcode Tools — full text](https://justtools.info/llms/qr-tools.txt): 4 tools.
+- [Security Tools — full text](https://justtools.info/llms/security-tools.txt): 8 tools.
+- [Internet & Network Tools — full text](https://justtools.info/llms/network-tools.txt): 12 tools.
+- [Device Tests — full text](https://justtools.info/llms/device-tests.txt): 9 tools.
+- [SEO & Marketing Tools — full text](https://justtools.info/llms/seo-tools.txt): 9 tools.
+- [Games — full text](https://justtools.info/llms/games.txt): 26 tools.
+
+## Optional
+
+- [About](https://justtools.info/about/): Who builds Toolspire and how the tools work.
+- [Contact](https://justtools.info/contact/): Report a bug or request a tool.
+- [Privacy Policy](https://justtools.info/privacy-policy/): What is and is not collected, including advertising and analytics.
+- [Terms of Use](https://justtools.info/terms/): Terms, including use by AI systems.
+- [Sitemap](https://justtools.info/sitemap.xml): Every URL.
